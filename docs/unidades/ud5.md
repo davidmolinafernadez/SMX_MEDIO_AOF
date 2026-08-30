@@ -63,3 +63,6 @@ Solo el profesorado o la persona autorizada manipula boquilla, cama caliente, co
 - [Introducción a la accesibilidad web del W3C](https://www.w3.org/WAI/fundamentals/accessibility-intro/es)
 
 [Abrir prácticas, pruebas y rúbrica de UD05](ud5-practicas.md){ .md-button .md-button--primary }
+
+!!! example "Explicación y demostración"
+    Se explican formatos, resolución, capas, selección, color, licencias y exportación con GIMP y Photoshop/Affinity. La parte vectorial/3D se demuestra con Inkscape, FreeCAD y el laminador autorizado. [Comparar con NexoByte UD05](../ejemplo/ud05.md).

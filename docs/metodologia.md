@@ -10,6 +10,14 @@ Durante todo el año la clase funciona como una empresa de servicios digitales. 
 | 2. Integración | Técnico/a | Briefing y criterios; decide parte del procedimiento |
 | 3. Autonomía | Responsable de proyecto | Encargo, plazo y estándar de aceptación |
 
+## Explicación directa antes de producir
+
+Cada bloque nuevo comienza con una explicación magistral breve y aplicada. El profesorado presenta el concepto, demuestra el procedimiento, verbaliza las decisiones y prepara un error frecuente. A continuación el alumnado reproduce un caso guiado con datos diferentes antes de comenzar el encargo autónomo.
+
+Las demostraciones distinguen el aprendizaje estable del menú concreto. Se muestra la operación con software libre y su equivalente comercial siempre que sea posible. Ningún alumno debe adquirir una licencia: puede utilizar cualquiera de las opciones autorizadas y se evalúa el RA, la calidad y la interoperabilidad.
+
+La empresa resuelta **NexoByte Servicios Digitales** funciona como modelo de comparación. Se enseña parcialmente durante la explicación y por completo tras el primer borrador, para que oriente sin convertirse en una plantilla que se copia.
+
 ## El ciclo de cada encargo
 
 ```mermaid

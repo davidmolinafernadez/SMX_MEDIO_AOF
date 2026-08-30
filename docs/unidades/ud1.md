@@ -47,6 +47,9 @@ Informe de una página para gerencia: riesgos legales, económicos, de seguridad
 
 [Abrir prácticas, control y rúbrica de UD01](ud1-practicas.md){ .md-button .md-button--primary }
 
+!!! example "Explicación y demostración"
+    Antes del encargo se explican suites, licencias, requisitos, instalación, configuración y pruebas. Se demuestra LibreOffice y la ruta equivalente en Microsoft 365/Office. [Comparar con NexoByte UD01](../ejemplo/ud01.md).
+
 **Pesos:** RA1.h 50% y RA1.i 50%.
 
 ## Hito y recuperación

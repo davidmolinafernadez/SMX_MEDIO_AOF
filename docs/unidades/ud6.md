@@ -50,3 +50,6 @@ El archivo final se prueba en otro dispositivo. Debe conservar legibilidad, audi
 - [Accesibilidad de audio y vídeo, W3C](https://www.w3.org/WAI/media/av/)
 
 [Abrir prácticas, pruebas y rúbrica de UD06](ud6-practicas.md){ .md-button .md-button--primary }
+
+!!! example "Explicación y demostración"
+    Se modela el flujo completo: guion, captura OBS, edición en Shotcut/Kdenlive y equivalencias con Clipchamp/Premiere/DaVinci. Se prueba con un usuario antes de cerrar. [Comparar con NexoByte UD06](../ejemplo/ud06.md).

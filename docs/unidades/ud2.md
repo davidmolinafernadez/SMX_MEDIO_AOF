@@ -53,6 +53,9 @@ Revisar otro manual con al menos ocho mejoras sustantivas y comentarios profesio
 
 [Abrir prácticas, control y rúbrica de UD02](ud2-practicas.md){ .md-button .md-button--primary }
 
+!!! example "Explicación y demostración"
+    El docente construye en Writer y Word el mismo fragmento: estilos, página, imagen, índice, revisión, macro y PDF. El alumnado practica primero sobre un archivo breve. [Comparar con NexoByte UD02](../ejemplo/ud02.md).
+
 **Pesos de refuerzo:** RA2.e 40%, RA2.f 60%.
 
 **Hito A/B:** A1 común antes de iniciar A2; intercambio A4 entre equipos con protocolo idéntico.

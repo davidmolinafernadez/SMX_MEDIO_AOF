@@ -29,6 +29,8 @@ Encargos y proyectos 50 %, prácticas individuales 20 %, controles prácticos 20
 - `unidades/`: materiales editables.
 - `plantillas/`: documentos comunes.
 - `coordinacion/`: sincronización semanal A/B y planificación dual.
+- `docs/ejemplo/`: empresa NexoByte resuelta unidad por unidad.
+- `docs/profesorado/guion-docente.md`: explicaciones, demostraciones y ritmo de clase.
 - `.github/workflows/`: comprobación y publicación automática.
 
 ## Publicación

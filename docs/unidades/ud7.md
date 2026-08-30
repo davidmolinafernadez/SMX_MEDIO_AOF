@@ -48,3 +48,6 @@ Todo dato incluye contexto, unidad, periodo y fuente. Las transiciones solo se u
 - [Vídeo: primeros pasos en Impress](https://www.youtube.com/watch?v=9KHlZY6NxkY)
 
 [Abrir prácticas, pruebas y rúbrica de UD7](ud7-practicas.md){ .md-button .md-button--primary }
+
+!!! example "Explicación y demostración"
+    Se transforma una diapositiva saturada en una idea clara y se repite el proceso en Impress y PowerPoint: patrón, gráficos, notas, accesibilidad, ensayo y PDF. [Comparar con NexoByte UD07](../ejemplo/ud07.md).

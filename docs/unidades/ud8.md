@@ -53,3 +53,6 @@ Se usa la ayuda oficial del proveedor configurado por el centro para cuentas, fi
 - [Ayuda oficial de Thunderbird](https://support.mozilla.org/es/products/thunderbird)
 
 [Abrir prácticas, proyecto y rúbrica de UD08](ud8-practicas.md){ .md-button .md-button--primary }
+
+!!! example "Explicación y demostración"
+    Se explican destinatarios, firma, filtros, phishing, agenda, permisos y 2FA. Se demuestra en Thunderbird/servicio institucional y Outlook/Microsoft 365 con cuentas didácticas. [Comparar con NexoByte UD08](../ejemplo/ud08.md).

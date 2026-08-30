@@ -24,3 +24,6 @@ Se conserva una evidencia deliberadamente informal (foto de pizarra/notas). En U
 **Hito común A/B:** nombre, servicios, valores y ficha de fundación cerrados.
 
 [Abrir diagnóstico, encargo y evidencias de UD00](ud0-practicas.md){ .md-button .md-button--primary }
+
+!!! example "Antes de la práctica"
+    El profesorado explica briefing, cliente, servicio, valor y rol; modela un pitch demasiado genérico y lo mejora en directo. Después se consulta [NexoByte: UD00 resuelta](../ejemplo/ud00.md).

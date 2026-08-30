@@ -46,3 +46,6 @@ Un panel no es una colección de colores. Cada indicador responde una pregunta d
 - [Vídeo: fórmulas básicas en Calc](https://www.youtube.com/watch?v=cZfmGsitxF0)
 
 [Abrir prácticas, pruebas y rúbrica de UD03](ud3-practicas.md){ .md-button .md-button--primary }
+
+!!! example "Explicación y demostración"
+    Cada concepto se explica sobre una necesidad de gerencia y se reproduce en Calc y Excel: referencias, funciones, validación, filtros, gráficos, tabla dinámica y macro. [Comparar con NexoByte UD03](../ejemplo/ud03.md).

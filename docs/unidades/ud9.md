@@ -49,3 +49,6 @@ La velocidad no compensa una pérdida de datos. Antes de modificar un archivo se
 La empresa empezó con una idea y termina capaz de instalar puestos, documentar, comunicarse, controlar datos, atender clientes, crear su imagen, presentar, formar y prestar soporte. La retrospectiva final responde con evidencias: qué problema resolvimos, qué producto usa el cliente, qué aprendimos y qué mejoraríamos en una segunda versión.
 
 [Abrir plan de actividades, evidencias y valoración de empresa](ud9-practicas.md){ .md-button .md-button--primary }
+
+!!! example "Preparación antes de la empresa"
+    En el centro se modelan escucha, diagnóstico, copia, prueba, verificación, documentación y escalado. La empresa utiliza sus propias herramientas y protege toda información real. [Ver ticket anonimizado NexoByte](../ejemplo/ra9.md).

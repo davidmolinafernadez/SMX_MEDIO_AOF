@@ -53,6 +53,21 @@ nav:
   - Calendario: calendario.md
   - Recursos y videotutoriales: recursos.md
   - Programación: programacion.md
+  - Para impartir las clases:
+      - Guion docente y demostraciones: profesorado/guion-docente.md
+      - Equivalencias de software: profesorado/equivalencias-software.md
+  - Empresa ejemplo · NexoByte:
+      - Visión general: ejemplo/index.md
+      - UD00 · Fundación: ejemplo/ud00.md
+      - UD01 · Suites ofimáticas: ejemplo/ud01.md
+      - UD02 · Procesadores de texto: ejemplo/ud02.md
+      - UD03 · Hojas de cálculo: ejemplo/ud03.md
+      - UD04 · Bases de datos: ejemplo/ud04.md
+      - UD05 · Imagen digital y 3D: ejemplo/ud05.md
+      - UD06 · Vídeo: ejemplo/ud06.md
+      - UD07 · Presentaciones: ejemplo/ud07.md
+      - UD08 · Correo y agenda: ejemplo/ud08.md
+      - Empresa · RA9 Soporte: ejemplo/ra9.md
   - UD00 · Proyecto de empresa:
       - Contexto y contenidos: unidades/ud0.md
       - Prácticas y evaluación: unidades/ud0-practicas.md

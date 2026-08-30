@@ -47,3 +47,6 @@ Antes de crear una consulta se escribe la pregunta en lenguaje natural: «¿qué
 - [Consultas en bases de datos](https://help.libreoffice.org/latest/es/text/sdatabase/02010100.html)
 
 [Abrir prácticas, pruebas y rúbrica de UD04](ud4-practicas.md){ .md-button .md-button--primary }
+
+!!! example "Explicación y demostración"
+    El profesorado parte de una tabla repetida, obtiene el modelo relacionado y construye una consulta/formulario en Base y Access. Se evalúa el diseño, no la marca. [Comparar con NexoByte UD04](../ejemplo/ud04.md).
