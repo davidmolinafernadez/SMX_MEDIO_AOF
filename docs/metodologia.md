@@ -37,7 +37,7 @@ La teoría aparece cuando el encargo la necesita. Una explicación breve se acom
 
 ### 4. Producción y versiones
 
-Cada producto conserva fuente editable, versión entregable y evidencias. Se usan nombres previsibles: `UD4_A2_Inventario_Equipo03_v02.ods`, nunca `final_bueno_ahora_si.ods`.
+Cada producto conserva fuente editable, versión entregable y evidencias. Se usan nombres previsibles: `UD03_A2_Inventario_Equipo03_v02.ods`, nunca `final_bueno_ahora_si.ods`.
 
 ### 5. Control de calidad
 
@@ -63,4 +63,3 @@ La IA se trata como una herramienta de empresa: puede ayudar a explorar, redacta
 
 !!! danger "Responsabilidad profesional"
     Quien firma el producto responde de su calidad. Un contenido generado que no puede explicarse, verificarse o corregirse no acredita aprendizaje.
-

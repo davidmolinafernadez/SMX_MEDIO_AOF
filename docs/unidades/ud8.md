@@ -1,52 +1,55 @@
-# UD8 · Formamos al cliente y cerramos el portafolio 🏆
+# UD08 · Correo y agenda electrónica — Organizamos la comunicación
 
-**Duración:** 10 sesiones, 20 horas. **RA:** RA6 completo + integración RA4/RA6.
+**Duración:** 12 horas. **RA:** RA8 completo.
 
-## Encargo
+## Teoría y talleres
 
-El cliente no sabe utilizar la solución entregada. Necesita ayuda escrita y multimedia que una persona no técnica pueda seguir sin soporte.
+- Estructura del correo, Para/CC/CCO, adjuntos, firma, metadatos, cuentas separadas, 2FA y señales de phishing.
+- Carpetas frente a etiquetas, filtros/reglas, contactos completos, grupos y bandeja orientada a acciones.
+- Eventos, recurrencia, recordatorios, convocatorias, disponibilidad, permisos y sincronización móvil.
 
-## Teoría/talleres
+## Calendario RA8
 
-Análisis de usuario/tarea; guion técnico; capturas limpias y anotaciones; resolución y encuadre; grabación de pantalla; voz y ruido; edición, cortes, zoom y transiciones; subtítulos/transcripción; códecs/contenedores; compresión; privacidad; publicación y accesibilidad.
-
-## Actividades RA6
-
-- **A1 · Una instrucción que funciona (4 h):** guía breve con capturas numeradas y prueba de usuario.
-- **A2 · Guion y prototipo (4 h):** storyboard, texto de locución y criterio de éxito.
-- **A3 · Tutorial multimedia (8 h):** grabación, edición, audio, zoom, subtítulos y exportación.
-- **A4 · Control de calidad (2 h):** otro alumno realiza la tarea usando solo el tutorial.
-
-## Proyecto integrador final (2 h + trabajo incorporado)
-
-Entregar la base de datos operativa de UD5 y el tutorial para usarla. Defensa individual: estructura de tablas, cambios de escenario, resolución de fallos y decisiones multimedia.
-
-**Pesos:** solución de datos 30%, tutorial 30%, prueba con usuario 15%, integración 10%, defensa individual 15%.
-
-## Portafolio final
-
-Índice enlazado, selección razonada de tres mejores productos, una mejora antes/después, registro de fuentes/IA y retrospectiva profesional.
-
-## Secuencia de aprendizaje
-
-| Tramo | Horas | Resultado |
+| Sesiones | Horas | Trabajo |
 | --- | ---: | --- |
-| Usuario y tarea | 4 | Instrucción escrita probada por otra persona. |
-| Guion y prototipo | 4 | Storyboard, locución y criterio observable de éxito. |
-| Producción multimedia | 8 | Tutorial breve, enfocado, editado y subtitulado. |
-| Prueba de usuario | 2 | Registro de errores, tiempo y mejoras. |
-| Cierre profesional | 2 | Portafolio y defensa individual. |
+| 1-2 | 4 | A1: cuenta, carpetas, filtros, contactos, respuestas e IA |
+| 3-4 | 3 | A2: calendario, recurrencia, disponibilidad y sincronización |
+| 5 | 2 | A3: firma y respuestas rápidas |
+| 6 | 3 | Proyecto integrador, demostración y defensa |
 
-### Ideas que hay que comprender
+## A1 · El correo de la empresa
 
-Un tutorial enseña una tarea concreta a una persona concreta. Primero se define el estado inicial, el resultado final y las condiciones de éxito; después se guioniza. La grabación evita notificaciones, datos reales y movimientos innecesarios. La edición elimina espera y error, pero no oculta pasos imprescindibles.
+Configurar identidad y firma; describir elementos; crear tres carpetas, dos filtros, cinco contactos y un grupo; responder una consulta y una reclamación con CC/CCO razonado; usar IA para revisar tono/phishing y documentar cambios.
 
-El archivo final se prueba en otro dispositivo. Debe conservar legibilidad, audio inteligible y tamaño razonable. Los subtítulos se revisan manualmente y el material escrito ofrece una alternativa equivalente.
+**Pesos:** RA8.a 15%, b 15%, c 15%, e 20%, f 35%.
 
-## Recursos de apoyo
+## A2 · El equipo se organiza
 
-- [Guía oficial de inicio de OBS Studio](https://obsproject.com/kb/quick-start-guide)
-- [Vídeo: grabación de pantalla con OBS](https://www.youtube.com/watch?v=xoe9ZOzlfnQ)
-- [Accesibilidad de audio y vídeo, W3C](https://www.w3.org/WAI/media/av/)
+Crear y compartir calendario con permisos; programar reunión recurrente y reunión de cliente consultando disponibilidad; configurar recordatorios; sincronizar o documentar la sincronización móvil.
 
-[Abrir prácticas, pruebas y rúbrica de UD8](ud8-practicas.md){ .md-button .md-button--primary }
+**Pesos:** RA8.d 45%, RA8.g 55%.
+
+## A3 · La firma que nos representa
+
+Diseñar firma coherente con UD02, probarla en nuevo mensaje/respuesta y crear tres plantillas reutilizables (horario, presupuesto e incidencia).
+
+**Pesos de refuerzo:** RA8.a 35%, RA8.c 65%.
+
+## Proyecto integrador · Puesta en marcha de un cliente
+
+| Sesión | Horas | Evidencia |
+| ---: | ---: | --- |
+| 1 | 1 | Configuración y dossier ya creados: comprobación RA1/RA2 |
+| 2 | 1 | Correo, convocatoria y reunión de entrega RA8 |
+| 3 | 1 | Demostración y defensa individual |
+
+**Pesos del proyecto:** equipo 25%, dossier 25%, comunicación/agenda 25%, coherencia global 25%. No introduce CA nuevos: aplica aprendizajes ya evaluados.
+
+## Recursos y seguridad
+
+Se usa la ayuda oficial del proveedor configurado por el centro para cuentas, filtros, calendario y 2FA. Nunca se publican capturas con direcciones, teléfonos, códigos QR o convocatorias reales; todos los clientes del caso son ficticios. Para reconocer mensajes sospechosos se contrasta dominio, urgencia, enlace real, adjunto y petición de credenciales.
+
+- [Guía de seguridad del correo de INCIBE](https://www.incibe.es/ciudadania/tematicas/correo-electronico)
+- [Ayuda oficial de Thunderbird](https://support.mozilla.org/es/products/thunderbird)
+
+[Abrir prácticas, proyecto y rúbrica de UD08](ud8-practicas.md){ .md-button .md-button--primary }

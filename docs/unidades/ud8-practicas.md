@@ -1,22 +1,17 @@
-# UD8 · Prácticas de formación al cliente
+# UD08 · Correo y agenda electrónica — Prácticas de comunicación
 
-## A1 · Una instrucción que funciona · 4 h
+## A1 · El correo de la empresa · 4 h
 
-Crear guía visual breve con capturas limpias, pasos numerados, advertencias y texto alternativo. Probar con una persona ajena al equipo.
+Configurar identidad y firma, crear tres carpetas, dos filtros, cinco contactos y un grupo. Responder consulta y reclamación con CC/CCO razonado; revisar tono y phishing con IA. **CA:** RA8.a,b,c,e,f.
 
-## A2 · Guion y prototipo · 4 h
+## A2 · El equipo se organiza · 3 h
 
-Definir usuario, tarea, criterio de éxito, storyboard, locución y plan de capturas.
+Compartir calendario con permisos, programar reunión recurrente, convocar a cliente consultando disponibilidad, configurar recordatorios y demostrar sincronización. **CA:** RA8.d,g.
 
-## A3 · Videotutorial · 8 h
+## A3 · Respuestas que ahorran tiempo · 2 h
 
-Capturar pantalla, grabar voz, editar cortes/zoom, añadir títulos y subtítulos, exportar en formato/códec razonados y comprobar peso/reproducción.
+Firma compatible con la identidad de UD02 y tres respuestas rápidas: horario, presupuesto e incidencia.
 
-## A4 · Prueba con usuario · 2 h
+## Proyecto integrador · Puesta en marcha de un cliente · 3 h
 
-Observar sin ayudar. Registrar puntos de bloqueo, tiempo, errores y revisión realizada.
-
-## Proyecto final · Solución + formación · 2 h de cierre
-
-Entregar base de datos de UD5, ayuda escrita y vídeo. Defensa individual y demostración. Pesos: solución 30%, tutorial 30%, prueba 15%, integración 10%, defensa 15%.
-
+Configurar un equipo, crear dossier de bienvenida y gestionar el hilo de comunicación hasta la reunión de entrega. Pesos: RA1 25%, RA2 25%, RA8 25%, integración 25%. Defensa individual obligatoria.

@@ -1,38 +1,36 @@
 # AOF · Aplicaciones Ofimáticas · 1.º SMX
 
-Proyecto docente 2026-2027 organizado como una empresa de servicios digitales. Los grupos A y B reciben los mismos encargos, trabajan con idénticos entregables y rúbricas y avanzan con una planificación compartida.
+Proyecto docente 2026–2027 organizado mediante una empresa de servicios digitales. Los títulos de las unidades identifican directamente el contenido ofimático y los subtítulos explican su aplicación en la empresa simulada.
 
-## Recorrido del curso
+## Recorrido y horas
 
-| Unidad | Encargo profesional | Producto principal | RA | Evaluación |
-| --- | --- | --- | --- | --- |
-| UD0 | Fundamos la empresa | Identidad, roles y espacio de trabajo | Transversal | Inicial |
-| UD1 | Preparamos los puestos | Inventario e instalación documentada | RA1 | 1.ª |
-| UD2 | Creamos documentos corporativos | Plantilla y dossier profesional | RA2 | 1.ª |
-| UD3 | Organizamos la comunicación | Correo, agenda y reunión | RA8 | 1.ª |
-| UD4 | Controlamos cuentas e inventario | Libro de cálculo y panel | RA3 | 2.ª |
-| UD5 | Gestionamos clientes | Base de datos e informes | RA4 | 2.ª |
-| UD6 | Diseñamos la imagen comercial | Material gráfico corporativo | RA5 | 2.ª |
-| UD7 | Presentamos una propuesta | Presentación y defensa | RA7 | 3.ª |
-| UD8 | Formamos al cliente | Tutorial multimedia y portafolio | RA6 | 3.ª |
-| UD9 | Atendemos el servicio de soporte | Guías, tickets, copias y atención al usuario | RA9 | 3.ª/FEE |
+| Unidad/fase | Contenido | Aplicación empresarial | RA | Horas |
+| --- | --- | --- | --- | ---: |
+| UD00 | Proyecto de empresa | Fundación, servicios y roles | Diagnóstico | 2 |
+| UD01 | Suites ofimáticas | Preparación de puestos | RA1 | 14 |
+| UD02 | Procesadores de texto | Documentación corporativa | RA2 | 39 |
+| UD03 | Hojas de cálculo | Cuentas, inventario y panel | RA3 | 34 |
+| UD04 | Bases de datos | Clientes, servicios e incidencias | RA4 | 28 |
+| UD05 | Imagen digital | Marca y logotipo impreso en 3D | RA5 | 24 |
+| UD06 | Vídeo | Formación del cliente | RA6 | 18 |
+| UD07 | Presentaciones | Propuesta y defensa | RA7 | 18 |
+| UD08 | Correo y agenda | Comunicación y reuniones | RA8 | 12 |
+| Empresa | Soporte al usuario | Incidencias en entorno productivo | RA9 | 35 |
 
-La secuencia cubre los nueve RA del módulo profesional 0223 en 224 horas. La matriz completa está en `coordinacion/AUDITORIA_CURRICULAR.md`.
+**Total: 224 horas, de las cuales 189 se desarrollan en el centro y 35 en empresa u organismo equiparado.** RA9 no se presenta como UD09 de aula: forma parte del plan de formación en empresa.
 
-La calificación propuesta combina encargos/proyectos (50 %), prácticas individuales (20 %), controles prácticos individuales (20 %) y portafolio/defensa/seguimiento (10 %), siempre con trazabilidad a RA y criterios de evaluación.
+## Evaluación
+
+Encargos y proyectos 50 %, prácticas individuales 20 %, controles prácticos 20 % y portafolio/defensa/seguimiento 10 %, conservando siempre la trazabilidad con RA y criterios de evaluación.
 
 ## Estructura
 
 - `docs/`: web para alumnado y profesorado.
-- `unidades/`: materiales editables de cada unidad.
-- `plantillas/`: documentos comunes para encargos, sesiones y evaluación.
-- `coordinacion/`: sincronización semanal de los grupos A y B.
-- `.github/workflows/`: publicación y comprobación automática.
+- `unidades/`: materiales editables.
+- `plantillas/`: documentos comunes.
+- `coordinacion/`: sincronización semanal A/B y planificación dual.
+- `.github/workflows/`: comprobación y publicación automática.
 
-## Puesta en marcha
+## Publicación
 
-1. Revisar `coordinacion/ACUERDOS_DOCENTES.md` entre ambos docentes.
-2. Ajustar fechas y horas en `coordinacion/TEMPORALIZACION.md`.
-3. Duplicar `coordinacion/SEGUIMIENTO_SEMANAL.md` cada semana.
-4. Confirmar en GitHub **Settings → Pages** que la fuente sea la rama `gh-pages`.
-5. Cada cambio en `main` valida y publica la web automáticamente.
+Cada cambio en `main` valida el sitio y actualiza `gh-pages`. En **Settings → Pages** debe seleccionarse la rama `gh-pages` y la carpeta raíz.

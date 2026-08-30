@@ -1,65 +1,52 @@
-# UD6 · Diseñamos la imagen profesional
+# UD06 · Vídeo — Formamos al cliente y cerramos el portafolio 🏆
 
-**Duración:** 14 sesiones, 28 horas. **RA principal:** RA5. La impresión 3D se integra como contexto aplicado de preparación, exportación, impresión y control de calidad de la imagen corporativa; no crea un RA adicional.
+**Duración:** 18 horas. **RA:** RA6 completo + integración RA4/RA6.
 
-## Encargo y producto
+## Encargo
 
-Marketing lanza un servicio de la empresa. Se entrega cartel A4, banner web, tarjeta/firma, paquete optimizado, mini guía de uso y una pieza física con el logotipo de la empresa impresa en 3D.
+El cliente no sabe utilizar la solución entregada. Necesita ayuda escrita y multimedia que una persona no técnica pueda seguir sin soporte.
 
 ## Teoría/talleres
 
-Mapa de bits/vector; adquisición con escáner, cámara o captura; resolución según finalidad; RGB/CMYK; PNG/JPEG/SVG/PDF; composición; capas, selección, recorte, transparencia, ajuste de imagen/color y texto; importación/exportación; contraste; compresión; licencias y manipulación ética. Para la práctica 3D: simplificación vectorial, geometría, extrusión, STL/3MF, laminado, soportes, escala, orientación y control previo.
+Análisis de usuario/tarea; guion técnico; capturas limpias y anotaciones; resolución y encuadre; grabación de pantalla; voz y ruido; edición, cortes, zoom y transiciones; subtítulos/transcripción; códecs/contenedores; compresión; privacidad; publicación y accesibilidad.
 
-## Actividades
+## Actividades RA6
 
-- **A1 · Auditoría de marca (4 h):** adquirir una imagen con periférico, revisar la identidad de UD2 y crear un moodboard con fuentes declaradas.
-- **A2 · Cartel de lanzamiento (8 h):** boceto, producción por capas y prueba de lectura.
-- **A3 · Una campaña, varios formatos (6 h):** adaptar sin deformar a banner y tarjeta/firma.
-- **A4 · Paquete de entrega (4 h):** originales editables, exportaciones optimizadas y guía de usos incorrectos.
-- **A5 · El logotipo sale de la pantalla (6 h):** adaptar el logo a silueta imprimible, generar el modelo o partir del facilitado por el docente, laminar, estimar tiempo/material, imprimir una placa o llavero corporativo y registrar incidencias.
+- **A1 · Una instrucción que funciona (3 h):** guía breve con capturas numeradas y prueba de usuario.
+- **A2 · Guion y prototipo (3 h):** storyboard, texto de locución y criterio de éxito.
+- **A3 · Tutorial multimedia (8 h):** grabación, edición, audio, zoom, subtítulos y exportación.
+- **A4 · Control de calidad (2 h):** otro alumno realiza la tarea usando solo el tutorial.
 
-## Práctica de impresión 3D · Logo corporativo
+## Proyecto integrador final (2 h + trabajo incorporado)
 
-1. Comprobar que el logo funciona en una tinta y sin detalles excesivamente finos.
-2. Preparar la versión vectorial y el modelo 3D facilitado o validado por el docente.
-3. Revisar dimensiones, base, espesores, caras y legibilidad.
-4. Usar exclusivamente el perfil autorizado para la impresora y material del aula.
-5. Previsualizar capas, orientación y soportes; anotar tiempo y consumo estimados.
-6. Imprimir bajo el protocolo del centro y supervisión docente.
-7. Comparar modelo/pieza, medir desviaciones y documentar defecto, causa probable y mejora.
+Entregar la base de datos operativa de UD04 y el tutorial para usarla. Defensa individual: estructura de tablas, cambios de escenario, resolución de fallos y decisiones multimedia.
 
-**Entregables A5:** SVG simplificado, STL/3MF o adaptación del modelo proporcionado, proyecto del laminador, captura de previsualización, pieza física, parámetros e informe fotográfico breve.
+**Pesos:** solución de datos 30%, tutorial 30%, prueba con usuario 15%, integración 10%, defensa individual 15%.
 
-## Evaluación
+## Portafolio final
 
-Técnica de edición 25%; composición/coherencia 20%; formatos/optimización 15%; accesibilidad y fuentes 10%; adaptación/preparación 3D 20%; proceso, verificación e informe 10%. La evidencia 3D se valora dentro de los CA de adquisición, manipulación, importación/exportación e impresión de RA5.
-
-**Hito A/B:** mismo briefing, tamaños y control de contraste/peso; libertad creativa dentro de la marca.
+Índice enlazado, selección razonada de tres mejores productos, una mejora antes/después, registro de fuentes/IA y retrospectiva profesional.
 
 ## Secuencia de aprendizaje
 
 | Tramo | Horas | Resultado |
 | --- | ---: | --- |
-| Lenguaje visual y derechos | 4 | Auditoría de marca, moodboard y registro de fuentes. |
-| Producción por capas | 8 | Cartel editable con jerarquía, recortes limpios y texto legible. |
-| Adaptación multiformato | 6 | Banner y tarjeta que conservan el mensaje sin deformaciones. |
-| Entrega profesional | 4 | Originales, exportaciones y guía de uso empaquetados. |
-| Fabricación del logotipo | 6 | Modelo, laminado, pieza e informe de verificación. |
+| Usuario y tarea | 3 | Instrucción escrita probada por otra persona. |
+| Guion y prototipo | 3 | Storyboard, locución y criterio observable de éxito. |
+| Producción multimedia | 8 | Tutorial breve, enfocado, editado y subtitulado. |
+| Prueba de usuario | 2 | Registro de errores, tiempo y mejoras. |
+| Cierre profesional | 2 | Portafolio y defensa individual. |
 
-### De píxel a pieza
+### Ideas que hay que comprender
 
-Una imagen de mapa de bits depende de su resolución; un trazado vectorial conserva bordes al escalar. JPEG es útil para fotografía; PNG para transparencia; SVG para geometría; PDF para entrega e impresión. Exportar no significa guardar: obliga a decidir tamaño, color, compresión, transparencia y destino.
+Un tutorial enseña una tarea concreta a una persona concreta. Primero se define el estado inicial, el resultado final y las condiciones de éxito; después se guioniza. La grabación evita notificaciones, datos reales y movimientos innecesarios. La edición elimina espera y error, pero no oculta pasos imprescindibles.
 
-Para fabricar el logo se simplifican huecos y detalles, se comprueba un espesor mínimo y se crea una base estable. El laminador convierte el volumen en capas y estima material y tiempo. La pieza se evalúa como prototipo corporativo: legibilidad, dimensiones, acabado, desperdicio y posibilidad de repetirla.
-
-## Seguridad en el taller 3D
-
-Solo el profesorado o la persona autorizada manipula boquilla, cama caliente, conexiones y mantenimiento. El alumnado trabaja con el archivo, la previsualización y el control de calidad siguiendo el perfil cerrado del aula. El protocolo se completará con el modelo de impresora que facilite el docente.
+El archivo final se prueba en otro dispositivo. Debe conservar legibilidad, audio inteligible y tamaño razonable. Los subtítulos se revisan manualmente y el material escrito ofrece una alternativa equivalente.
 
 ## Recursos de apoyo
 
-- [Manual oficial de GIMP en español](https://docs.gimp.org/3.0/es/)
-- [FreeCAD en español](https://www.freecad.org/?lang=es) y [manual oficial](https://www.freecad.org/manual/a-freecad-manual.pdf)
-- [Introducción a la accesibilidad web del W3C](https://www.w3.org/WAI/fundamentals/accessibility-intro/es)
+- [Guía oficial de inicio de OBS Studio](https://obsproject.com/kb/quick-start-guide)
+- [Vídeo: grabación de pantalla con OBS](https://www.youtube.com/watch?v=xoe9ZOzlfnQ)
+- [Accesibilidad de audio y vídeo, W3C](https://www.w3.org/WAI/media/av/)
 
-[Abrir prácticas, pruebas y rúbrica de UD6](ud6-practicas.md){ .md-button .md-button--primary }
+[Abrir prácticas, pruebas y rúbrica de UD06](ud6-practicas.md){ .md-button .md-button--primary }

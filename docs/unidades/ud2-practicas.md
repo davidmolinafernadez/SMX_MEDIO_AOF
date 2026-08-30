@@ -1,4 +1,4 @@
-# UD2 · Prácticas de identidad documental
+# UD02 · Procesadores de texto — Prácticas de identidad documental
 
 ## A1 · Plantilla corporativa · 9 h
 
@@ -19,4 +19,3 @@ Revisar otro manual con ocho mejoras sustantivas y comentarios profesionales. Re
 ## Prueba individual · 40 min
 
 Reparar un documento con estilos manuales, índice roto, imagen inestable y cambio pendiente. Entregar ODT y PDF.
-

@@ -1,6 +1,6 @@
-# UD7 · Presentamos la empresa 🏆
+# UD07 · Presentaciones — Defendemos la propuesta de la empresa 🏆
 
-**Duración:** 12 sesiones, 24 horas. **RA:** RA7 completo + integración RA3/RA5/RA7.
+**Duración:** 18 horas. **RA:** RA7 completo + integración RA3/RA5/RA7.
 
 ## Encargo
 
@@ -12,12 +12,12 @@ Opciones básicas y vistas normal, esquema, clasificador, notas y presentación;
 
 ## Actividades RA7
 
-- **A1 · Storyboard corporativo (4 h):** mensaje, audiencia, estructura y fuentes.
-- **A2 · Sistema visual (6 h):** patrón propio coherente con UD6 y diapositivas tipo.
-- **A3 · Datos que cuentan (4 h):** seleccionar y simplificar evidencias de UD4.
-- **A4 · Ensayo profesional (4 h):** grabación, cronómetro, coevaluación y revisión.
+- **A1 · Storyboard corporativo (3 h):** mensaje, audiencia, estructura y fuentes.
+- **A2 · Sistema visual (4 h):** patrón propio coherente con UD05 y diapositivas tipo.
+- **A3 · Datos que cuentan (3 h):** seleccionar y simplificar evidencias de UD03.
+- **A4 · Ensayo profesional (3 h):** grabación, cronómetro, coevaluación y revisión.
 
-## Proyecto integrador 2 · Ganamos un contrato (6 h)
+## Proyecto integrador 2 · Ganamos un contrato (5 h)
 
 Propuesta comercial completa: análisis de datos (RA3), piezas gráficas (RA5) y presentación persuasiva (RA7). Equipos de 3-4; defensa individual con preguntas diferentes.
 
@@ -29,11 +29,11 @@ Propuesta comercial completa: análisis de datos (RA3), piezas gráficas (RA5) y
 
 | Tramo | Horas | Resultado |
 | --- | ---: | --- |
-| Audiencia, propósito y relato | 4 | Storyboard con una idea central y evidencias. |
-| Sistema de diapositivas | 6 | Patrón propio, variantes y jerarquía coherente. |
-| Datos y multimedia | 4 | Gráficos comprensibles y recursos con fuente/licencia. |
-| Ensayo y accesibilidad | 4 | Presentación cronometrada, revisada y con respaldo. |
-| Proyecto integrador 2 | 6 | Propuesta comercial y defensa individual. |
+| Audiencia, propósito y relato | 3 | Storyboard con una idea central y evidencias. |
+| Sistema de diapositivas | 4 | Patrón propio, variantes y jerarquía coherente. |
+| Datos y multimedia | 3 | Gráficos comprensibles y recursos con fuente/licencia. |
+| Ensayo y accesibilidad | 3 | Presentación cronometrada, revisada y con respaldo. |
+| Proyecto integrador 2 | 5 | Propuesta comercial y defensa individual. |
 
 ### Ideas que hay que comprender
 

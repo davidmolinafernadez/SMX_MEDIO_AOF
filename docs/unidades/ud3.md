@@ -1,57 +1,48 @@
-# UD3 · Organizamos la comunicación y la agenda 🏆
+# UD03 · Hojas de cálculo — Controlamos cuentas e inventario
 
-**Duración:** 11 sesiones/19 h de RA8 + 6 sesiones/10 h de proyecto integrador. **RA:** RA8 completo.
+**Duración:** 34 horas. **RA:** RA3.
 
-## Teoría y talleres
+## Encargo y producto
 
-- Estructura del correo, Para/CC/CCO, adjuntos, firma, metadatos, cuentas separadas, 2FA y señales de phishing.
-- Carpetas frente a etiquetas, filtros/reglas, contactos completos, grupos y bandeja orientada a acciones.
-- Eventos, recurrencia, recordatorios, convocatorias, disponibilidad, permisos y sincronización móvil.
+Gerencia necesita controlar presupuesto, ventas, gastos y existencias. Se entrega un libro con hojas `Datos`, `Presupuesto`, `Inventario`, `Panel` e `Instrucciones`, más PDF del informe mensual.
 
-## Calendario RA8
+## Teoría/talleres
 
-| Sesiones | Horas | Trabajo |
+Estilos; tipos de datos; referencias relativas, absolutas y mixtas entre celdas, rangos, hojas y libros; operadores; fórmulas y funciones; gráficos y tablas dinámicas; macros; importación/exportación; uso como base de datos mediante formularios, listas, filtros, protección y ordenación; introducción de textos, números, códigos e imágenes con periféricos; impresión y accesibilidad.
+
+## Actividades
+
+- **A1 · Presupuesto del primer proyecto (8 h):** modelo ingresos/gastos, impuestos, escenarios y área de impresión.
+- **A2 · Almacén bajo control (10 h):** importar CSV, validar datos, calcular stock/valor, alertas y filtros.
+- **A3 · ¿Cómo va la empresa? (10 h):** importar datos, indicadores, gráficos/tabla dinámica, panel y exportación.
+- **A4 · Auditoría y automatización (6 h):** crear una macro útil, capturar un código o imagen con periférico, probar entradas, detectar fórmulas frágiles y documentar correcciones.
+
+## Evaluación
+
+Modelo y fórmulas 30%; funciones y calidad de datos 25%; análisis/gráficos 20%; automatización/robustez 15%; comunicación y entrega 10%. Cada evidencia se registra en la matriz del RA3.
+
+**Hito A/B:** ambos grupos reciben el mismo CSV y superan idéntica batería de pruebas.
+
+## Secuencia de aprendizaje
+
+| Tramo | Horas | Decisión profesional que se aprende |
 | --- | ---: | --- |
-| 1-5 | 8 | A1: necesidades, cuenta, carpetas, filtros, contactos, respuestas e IA |
-| 6-8 | 6 | A2: calendario, recurrencia, disponibilidad y sincronización |
-| 9-10 | 3 | A3: firma y respuestas rápidas |
-| 11 | 2 | Revisión, entrega y preparación del proyecto |
+| Diagnóstico y datos fiables | 4 | Distinguir dato, fórmula, resultado y error; importar sin corromper fechas o códigos. |
+| Modelo económico | 8 | Elegir referencias y funciones para que el presupuesto siga funcionando al cambiar precios. |
+| Inventario | 8 | Validar entradas, detectar duplicados y advertir antes de quedarse sin existencias. |
+| Análisis | 8 | Resumir con funciones, filtros, tablas dinámicas y gráficos adecuados. |
+| Automatización y entrega | 6 | Proteger, imprimir, automatizar una tarea repetitiva y documentar el uso. |
 
-## A1 · El correo de la empresa
+### Ideas que hay que comprender
 
-Configurar identidad y firma; describir elementos; crear tres carpetas, dos filtros, cinco contactos y un grupo; responder una consulta y una reclamación con CC/CCO razonado; usar IA para revisar tono/phishing y documentar cambios.
+Una referencia relativa se desplaza al copiar una fórmula; una absoluta fija fila y columna; una mixta fija solo una de ellas. La elección no es estética: decide si el modelo es reutilizable. Las funciones `SUMA`, `PROMEDIO`, `SI`, `SI.ERROR`, `CONTAR.SI`, `SUMAR.SI.CONJUNTO`, búsqueda y fecha se introducen al aparecer una necesidad real, no como lista para memorizar.
 
-**Pesos:** RA8.a 15%, b 15%, c 15%, e 20%, f 35%.
+Un panel no es una colección de colores. Cada indicador responde una pregunta de gerencia, muestra unidad y periodo, permite rastrear el dato de origen y evita escalas engañosas. Antes de entregar se cambian tres datos de prueba y se confirma que todo se recalcula.
 
-## A2 · El equipo se organiza
+## Recursos de apoyo
 
-Crear y compartir calendario con permisos; programar reunión recurrente y reunión de cliente consultando disponibilidad; configurar recordatorios; sincronizar o documentar la sincronización móvil.
+- [Ayuda oficial de LibreOffice Calc](https://help.libreoffice.org/latest/es/text/scalc/guide/main.html)
+- [Listado de funciones por categoría](https://help.libreoffice.org/latest/es/text/scalc/01/04060100.html)
+- [Vídeo: fórmulas básicas en Calc](https://www.youtube.com/watch?v=cZfmGsitxF0)
 
-**Pesos:** RA8.d 45%, RA8.g 55%.
-
-## A3 · La firma que nos representa
-
-Diseñar firma coherente con UD2, probarla en nuevo mensaje/respuesta y crear tres plantillas reutilizables (horario, presupuesto e incidencia).
-
-**Pesos de refuerzo:** RA8.a 35%, RA8.c 65%.
-
-## Proyecto integrador 1 · Puesta en marcha de un cliente
-
-| Sesión | Horas | Evidencia |
-| ---: | ---: | --- |
-| 1 | 2 | Configuración del equipo del cliente (RA1) |
-| 2-3 | 3 | Dossier de bienvenida corporativo (RA2) |
-| 3-4 | 4 | Correos y reunión de entrega (RA8) |
-| 5 | 2 | Control de integración y preparación de defensa |
-| 6 | 1 | Entrega y defensa individual |
-
-**Pesos del proyecto:** equipo 25%, dossier 25%, comunicación/agenda 25%, coherencia global 25%. No introduce CA nuevos: aplica aprendizajes ya evaluados.
-
-## Recursos y seguridad
-
-Se usa la ayuda oficial del proveedor configurado por el centro para cuentas, filtros, calendario y 2FA. Nunca se publican capturas con direcciones, teléfonos, códigos QR o convocatorias reales; todos los clientes del caso son ficticios. Para reconocer mensajes sospechosos se contrasta dominio, urgencia, enlace real, adjunto y petición de credenciales.
-
-- [Guía de seguridad del correo de INCIBE](https://www.incibe.es/ciudadania/tematicas/correo-electronico)
-- [Ayuda oficial de Thunderbird](https://support.mozilla.org/es/products/thunderbird)
-
-[Abrir prácticas, proyecto y rúbrica de UD3](ud3-practicas.md){ .md-button .md-button--primary }
+[Abrir prácticas, pruebas y rúbrica de UD03](ud3-practicas.md){ .md-button .md-button--primary }

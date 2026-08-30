@@ -1,4 +1,4 @@
-# UD1 · Preparamos los puestos de trabajo
+# UD01 · Suites ofimáticas — Preparamos los puestos de trabajo
 
 **Duración de referencia:** 8 sesiones, 14 horas. **RA:** RA1 completo.
 
@@ -17,7 +17,7 @@ Los equipos están vacíos. Cada técnico debe seleccionar, instalar, configurar
 
 | Sesión | Horas | Trabajo |
 | ---: | ---: | --- |
-| 1 | 2 | Cerrar UD0, entorno, licencias y A1-decisión |
+| 1 | 2 | Cerrar UD00, entorno, licencias y A1-decisión |
 | 2 | 2 | Instalación/configuración de LibreOffice |
 | 3 | 2 | Resto de software, actualización y verificación |
 | 4 | 1 | Documentación e incidencias |
@@ -45,7 +45,7 @@ Informe de una página para gerencia: riesgos legales, económicos, de seguridad
 - [Licencias de LibreOffice](https://www.libreoffice.org/about-us/licenses/)
 - [Choose a License: comparar licencias de software](https://choosealicense.com/)
 
-[Abrir prácticas, control y rúbrica de UD1](ud1-practicas.md){ .md-button .md-button--primary }
+[Abrir prácticas, control y rúbrica de UD01](ud1-practicas.md){ .md-button .md-button--primary }
 
 **Pesos:** RA1.h 50% y RA1.i 50%.
 

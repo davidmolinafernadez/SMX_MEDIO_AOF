@@ -1,6 +1,6 @@
-# UD2 · Creamos la identidad documental
+# UD02 · Procesadores de texto — Creamos la identidad documental
 
-**Duración de referencia:** 22 sesiones, 39 horas. **RA:** RA2 completo.
+**Duración:** 39 horas. **RA:** RA2 completo.
 
 ## Encargo
 
@@ -51,7 +51,7 @@ Revisar otro manual con al menos ocho mejoras sustantivas y comentarios profesio
 - [Administrador de plantillas](https://help.libreoffice.org/latest/es/text/shared/guide/template_manager.html)
 - [Ayuda oficial de Writer](https://help.libreoffice.org/latest/es/text/swriter/guide/main.html)
 
-[Abrir prácticas, control y rúbrica de UD2](ud2-practicas.md){ .md-button .md-button--primary }
+[Abrir prácticas, control y rúbrica de UD02](ud2-practicas.md){ .md-button .md-button--primary }
 
 **Pesos de refuerzo:** RA2.e 40%, RA2.f 60%.
 

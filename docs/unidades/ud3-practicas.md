@@ -1,18 +1,23 @@
-# UD3 · Prácticas de comunicación
+# UD03 · Hojas de cálculo — Prácticas de control de empresa
 
-## A1 · El correo de la empresa · 8 h
+## A1 · ¿Podemos aceptar el encargo? · 8 h
 
-Configurar identidad y firma, crear tres carpetas, dos filtros, cinco contactos y un grupo. Responder consulta y reclamación con CC/CCO razonado; revisar tono y phishing con IA. **CA:** RA8.a,b,c,e,f.
+Presupuesto con ingresos, costes, IVA, margen y tres escenarios. Debe funcionar al cambiar cantidades/precios y exportarse en una página corporativa.
 
-## A2 · El equipo se organiza · 6 h
+## A2 · El almacén no cuadra · 10 h
 
-Compartir calendario con permisos, programar reunión recurrente, convocar a cliente consultando disponibilidad, configurar recordatorios y demostrar sincronización. **CA:** RA8.d,g.
+Importar CSV, validar códigos y fechas, calcular valor/stock, buscar productos, crear alertas y operar como lista ordenable/filtrable.
 
-## A3 · Respuestas que ahorran tiempo · 3 h
+## A3 · Cierre mensual para gerencia · 10 h
 
-Firma compatible con la identidad de UD2 y tres respuestas rápidas: horario, presupuesto e incidencia.
+Limpiar datos, crear indicadores, resumen dinámico, gráficos justificables y panel accesible. Importar y exportar sin perder funcionalidad.
 
-## Proyecto 1 · Puesta en marcha de un cliente · 10 h
+## A4 · Auditoría y macro · 6 h
 
-Configurar un equipo, crear dossier de bienvenida y gestionar el hilo de comunicación hasta la reunión de entrega. Pesos: RA1 25%, RA2 25%, RA8 25%, integración 25%. Defensa individual obligatoria.
+Detectar fórmulas frágiles, proteger zonas, capturar un código o imagen, grabar macro útil y ejecutar batería de pruebas de otro equipo.
 
+**Entrega global:** ODS/XLSX, PDF ejecutivo, datos de partida, pruebas y registro. **CA:** RA3.a–h.
+
+## Prueba individual · 40 min
+
+Reparar referencias y funciones de un libro; añadir gráfico adecuado y explicar por qué otro gráfico induciría a error.

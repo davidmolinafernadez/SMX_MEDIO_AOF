@@ -1,24 +1,23 @@
-# UD4 · Prácticas de control de empresa
+# UD04 · Bases de datos — Prácticas de gestión de clientes
 
-## A1 · ¿Podemos aceptar el encargo? · 8 h
+## A1 · Del caos al modelo · 6 h
 
-Presupuesto con ingresos, costes, IVA, margen y tres escenarios. Debe funcionar al cambiar cantidades/precios y exportarse en una página corporativa.
+Analizar registros duplicados y diseñar entidades clientes, servicios, técnicos e incidencias con claves y relaciones.
 
-## A2 · El almacén no cuadra · 10 h
+## A2 · Construimos la base · 8 h
 
-Importar CSV, validar códigos y fechas, calcular valor/stock, buscar productos, crear alertas y operar como lista ordenable/filtrable.
+Crear tablas, relaciones e integridad; importar datos y demostrar alta, modificación y baja controlada.
 
-## A3 · Cierre mensual para gerencia · 10 h
+## A3 · Preguntas de negocio · 6 h
 
-Limpiar datos, crear indicadores, resumen dinámico, gráficos justificables y panel accesible. Importar y exportar sin perder funcionalidad.
+Consultas con asistentes y ajustes propios: pendientes, carga por técnico, clientes activos, tiempos y totales.
 
-## A4 · Auditoría y macro · 6 h
+## A4 · Interfaz para el cliente · 6 h
 
-Detectar fórmulas frágiles, proteger zonas, capturar un código o imagen, grabar macro útil y ejecutar batería de pruebas de otro equipo.
+Formulario con validación, informe de dirección y macro segura para abrir un flujo habitual.
 
-**Entrega global:** ODS/XLSX, PDF ejecutivo, datos de partida, pruebas y registro. **CA:** RA3.a–h.
+## A5 · Prueba de aceptación · 2 h
 
-## Prueba individual · 40 min
+Otro equipo realiza cinco tareas sin ayuda. Cada fallo se convierte en un caso de preparación para RA9 en empresa.
 
-Reparar referencias y funciones de un libro; añadir gráfico adecuado y explicar por qué otro gráfico induciría a error.
-
+**Entrega:** ODB/ACCDB según entorno, diagrama, dataset, manual y pruebas. **CA:** RA4.a–h.

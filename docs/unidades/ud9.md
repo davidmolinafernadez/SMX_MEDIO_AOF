@@ -1,22 +1,22 @@
-# UD9 · Atendemos el servicio de soporte
+# Formación en empresa · RA9 — Soporte al usuario
 
-**Duración específica:** 6 horas, más evidencias transversales durante el curso. **RA:** RA9 completo.
+**Duración asignada al módulo:** 35 horas en empresa u organismo equiparado. **RA:** RA9 completo.
 
-## Encargo
+## Actividad profesional asignada
 
-Tras entregar las soluciones, la empresa abre una mesa de ayuda. Cada técnico recibe incidencias de usuarios, diagnostica, consulta documentación, protege la información, resuelve dentro del acuerdo de servicio y enseña a evitar el problema.
+Durante la estancia, el alumnado participa en tareas reales de apoyo a usuarios: recibe o acompaña incidencias, diagnostica, consulta documentación, protege la información, resuelve dentro de sus permisos y enseña a evitar el problema. La empresa adapta los casos a sus herramientas y política de confidencialidad.
 
-## A1 · Construimos la base de conocimiento (2 h)
+## E1 · Acogida, herramientas y conocimiento (8 h)
 
-Convertir tres incidencias reales del portafolio en guías visuales: síntoma, causa, solución numerada, capturas, prevención y fuente técnica.
+Conocer canales, permisos, escalado, protección de datos y base de conocimiento. Elaborar o mejorar guías autorizadas sin copiar información confidencial al portafolio.
 
-## A2 · Turno de soporte (3 h)
+## E2 · Atención y resolución de incidencias (22 h)
 
-Simulación con roles rotatorios de usuario/técnico/observador. Casos: documento que pierde formato, fórmula incorrecta, filtro de correo, consulta o formulario, presentación incompatible y recuperación de una versión. El técnico abre ticket, pregunta sin culpabilizar, protege/copia la información, consulta recursos, prueba, resuelve y forma al usuario.
+Observar, acompañar o resolver casos adecuados al nivel del alumno. Abrir o actualizar el ticket, preguntar sin culpabilizar, proteger/copiar cuando proceda, consultar recursos, probar, verificar, explicar y escalar todo aquello que exceda sus permisos.
 
-## A3 · Cierre del servicio (1 h)
+## E3 · Verificación, documentación y cierre (5 h)
 
-Informe de indicadores: tiempo de respuesta/resolución, reaperturas, causa frecuente, satisfacción y mejora de la base de conocimiento.
+Cerrar evidencias anonimizadas, comprobar una recuperación o medida de salvaguarda, analizar tiempos y calidad, y realizar la entrevista final con la tutoría de empresa.
 
 ## Evidencias y CA
 
@@ -31,7 +31,7 @@ Informe de indicadores: tiempo de respuesta/resolución, reaperturas, causa frec
 | RA9.g | Fuentes técnicas y ayuda en línea registradas |
 | RA9.h | Resolución dentro del tiempo y control de calidad |
 
-Si RA9 se desarrolla en formación en empresa, se utilizará esta misma tabla como guía de evidencias y se reservarán las 6 horas para preparación, seguimiento y cierre.
+RA9 se desarrolla y evalúa durante la formación en empresa. El centro prepara previamente el protocolo y recoge después las evidencias; esas actuaciones de seguimiento no convierten RA9 en una unidad didáctica ordinaria del aula.
 
 ## Protocolo profesional de atención
 
@@ -48,4 +48,4 @@ La velocidad no compensa una pérdida de datos. Antes de modificar un archivo se
 
 La empresa empezó con una idea y termina capaz de instalar puestos, documentar, comunicarse, controlar datos, atender clientes, crear su imagen, presentar, formar y prestar soporte. La retrospectiva final responde con evidencias: qué problema resolvimos, qué producto usa el cliente, qué aprendimos y qué mejoraríamos en una segunda versión.
 
-[Abrir simulaciones, tickets y rúbrica de UD9](ud9-practicas.md){ .md-button .md-button--primary }
+[Abrir plan de actividades, evidencias y valoración de empresa](ud9-practicas.md){ .md-button .md-button--primary }

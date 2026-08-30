@@ -1,24 +1,23 @@
-# UD5 · Prácticas de gestión de clientes
+# UD05 · Imagen digital — Prácticas de marca y fabricación
 
-## A1 · Del caos al modelo · 6 h
+## A1 · Auditoría de marca · 3 h
 
-Analizar registros duplicados y diseñar entidades clientes, servicios, técnicos e incidencias con claves y relaciones.
+Adquirir una imagen con cámara/escáner, revisar identidad de UD02, analizar formatos/resoluciones y crear moodboard con licencias declaradas.
 
-## A2 · Construimos la base · 8 h
+## A2 · Campaña de lanzamiento · 7 h
 
-Crear tablas, relaciones e integridad; importar datos y demostrar alta, modificación y baja controlada.
+Diseñar cartel A4 por capas con jerarquía, contraste y llamada a la acción. Entregar fuente, PDF de impresión y PNG de difusión.
 
-## A3 · Preguntas de negocio · 6 h
+## A3 · Una marca, muchos formatos · 5 h
 
-Consultas con asistentes y ajustes propios: pendientes, carga por técnico, clientes activos, tiempos y totales.
+Adaptar el concepto a banner y tarjeta/firma sin estirar, recortar mal o perder legibilidad.
 
-## A4 · Interfaz para el cliente · 6 h
+## A4 · Paquete de marca · 3 h
 
-Formulario con validación, informe de dirección y macro segura para abrir un flujo habitual.
+Organizar originales, exportaciones optimizadas y guía de usos correctos/incorrectos.
 
-## A5 · Prueba de aceptación · 2 h
+## A5 · El logo sale de la pantalla · 6 h
 
-Otro equipo realiza cinco tareas sin ayuda. Cada fallo se convierte en ticket para UD9.
+Simplificar el logo en SVG, validar modelo STL/3MF, laminar con perfil autorizado, estimar gramos/tiempo/coste e imprimir placa o llavero. Comparar pieza y modelo; documentar defecto y mejora.
 
-**Entrega:** ODB/ACCDB según entorno, diagrama, dataset, manual y pruebas. **CA:** RA4.a–h.
-
+**CA principal:** RA5.a–e. La fabricación 3D amplía el encargo sin sustituir la adquisición y edición de imagen.

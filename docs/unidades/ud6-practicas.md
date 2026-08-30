@@ -1,24 +1,21 @@
-# UD6 · Prácticas de imagen y fabricación
+# UD06 · Vídeo — Prácticas de formación al cliente
 
-## A1 · Auditoría de marca · 4 h
+## A1 · Una instrucción que funciona · 3 h
 
-Adquirir una imagen con cámara/escáner, revisar identidad de UD2, analizar formatos/resoluciones y crear moodboard con licencias declaradas.
+Crear guía visual breve con capturas limpias, pasos numerados, advertencias y texto alternativo. Probar con una persona ajena al equipo.
 
-## A2 · Campaña de lanzamiento · 8 h
+## A2 · Guion y prototipo · 3 h
 
-Diseñar cartel A4 por capas con jerarquía, contraste y llamada a la acción. Entregar fuente, PDF de impresión y PNG de difusión.
+Definir usuario, tarea, criterio de éxito, storyboard, locución y plan de capturas.
 
-## A3 · Una marca, muchos formatos · 6 h
+## A3 · Videotutorial · 8 h
 
-Adaptar el concepto a banner y tarjeta/firma sin estirar, recortar mal o perder legibilidad.
+Capturar pantalla, grabar voz, editar cortes/zoom, añadir títulos y subtítulos, exportar en formato/códec razonados y comprobar peso/reproducción.
 
-## A4 · Paquete de marca · 4 h
+## A4 · Prueba con usuario · 2 h
 
-Organizar originales, exportaciones optimizadas y guía de usos correctos/incorrectos.
+Observar sin ayudar. Registrar puntos de bloqueo, tiempo, errores y revisión realizada.
 
-## A5 · El logo sale de la pantalla · 6 h
+## Proyecto final · Solución + formación · 2 h de cierre
 
-Simplificar el logo en SVG, validar modelo STL/3MF, laminar con perfil autorizado, estimar gramos/tiempo/coste e imprimir placa o llavero. Comparar pieza y modelo; documentar defecto y mejora.
-
-**CA principal:** RA5.a–e. La fabricación 3D amplía el encargo sin sustituir la adquisición y edición de imagen.
-
+Entregar base de datos de UD04, ayuda escrita y vídeo. Defensa individual y demostración. Pesos: solución 30%, tutorial 30%, prueba 15%, integración 10%, defensa 15%.

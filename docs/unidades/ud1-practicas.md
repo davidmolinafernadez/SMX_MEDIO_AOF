@@ -1,4 +1,4 @@
-# UD1 · Prácticas de puesta en marcha
+# UD01 · Suites ofimáticas — Prácticas de puesta en marcha
 
 ## A1 · Los ordenadores han llegado · 10 h
 
@@ -23,4 +23,3 @@ Informe ejecutivo de una página para rechazar una petición ilegal sin limitars
 ## Prueba individual · 30 min
 
 Configurar una aplicación o componente distinto, demostrar la verificación y completar un mini parte de incidencia.
-

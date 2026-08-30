@@ -1,4 +1,4 @@
-# UD0 · Prácticas de fundación
+# UD00 · Prácticas del proyecto de empresa
 
 ## P0.1 · Diagnóstico sin nota · 1 h
 
@@ -16,5 +16,4 @@
 4. Defender la propuesta en 30 segundos.
 5. Votar y completar la ficha fundacional.
 
-**Entrega:** foto de la pizarra, ficha provisional y pitch. Se recuperará en UD2 para convertirla en documento profesional.
-
+**Entrega:** foto de la pizarra, ficha provisional y pitch. Se recuperará en UD02 para convertirla en documento profesional.

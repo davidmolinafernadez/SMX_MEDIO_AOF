@@ -1,4 +1,4 @@
-# UD0 · Fundamos la empresa
+# UD00 · Proyecto de empresa — Fundamos la empresa
 
 **Duración de referencia:** 2 sesiones, 2 horas. **Evaluación:** diagnóstica, sin calificación.
 
@@ -19,8 +19,8 @@
 
 ## Producto y conexión
 
-Se conserva una evidencia deliberadamente informal (foto de pizarra/notas). En UD2 el alumnado la transforma en documento fundacional corporativo y compara ambos resultados.
+Se conserva una evidencia deliberadamente informal (foto de pizarra/notas). En UD02 el alumnado la transforma en documento fundacional corporativo y compara ambos resultados.
 
 **Hito común A/B:** nombre, servicios, valores y ficha de fundación cerrados.
 
-[Abrir diagnóstico, encargo y evidencias de UD0](ud0-practicas.md){ .md-button .md-button--primary }
+[Abrir diagnóstico, encargo y evidencias de UD00](ud0-practicas.md){ .md-button .md-button--primary }

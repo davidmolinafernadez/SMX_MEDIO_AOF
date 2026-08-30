@@ -5,16 +5,19 @@
 - **Ciclo:** Sistemas Microinformáticos y Redes.
 - **Módulo:** 0223 · Aplicaciones Ofimáticas.
 - **Curso:** 1.º.
-- **Carga planificada:** 224 horas, 7 horas semanales.
+- **Carga planificada:** 224 horas: 189 en el centro y 35 vinculadas al periodo de formación en empresa.
 - **Metodología:** empresa simulada, aprendizaje basado en encargos y tres proyectos integradores.
+
+La atribución de 35 horas a empresa responde a cinco semanas por las 7 horas semanales del módulo. Debe confirmarse en el plan dual anual del centro; cualquier ajuste mantiene invariable la duración curricular total de 224 horas.
 
 ## Distribución general
 
 | Evaluación | Evolución de la empresa | Unidades | Cierre |
 | --- | --- | --- | --- |
-| 1.ª | Nace, se equipa, se documenta y se comunica | UD0–UD3 | Puesta en marcha de un cliente |
-| 2.ª | Controla recursos, clientes y marca | UD4–UD7 | Ganamos un contrato |
-| 3.ª | Entrega, forma y presta soporte | UD8–UD9 | Solución final para un cliente |
+| 1.ª | Nace, instala la suite y crea su sistema documental | UD00–UD02 y comienzo de UD03 | Dossier corporativo |
+| 2.ª | Controla datos, clientes y operaciones | UD03–UD04 | Solución de gestión |
+| 3.ª | Construye marca, forma, presenta y comunica | UD05–UD08 | Propuesta final para un cliente |
+| Empresa | Presta soporte en un entorno productivo real | RA9 · 35 h | Valoración del tutor y evidencias |
 
 ## Calificación e instrumentos
 
@@ -31,14 +34,16 @@ Estos porcentajes ordenan instrumentos; la nota se calcula preservando la trazab
 
 ### Controles previstos
 
-- UD1: instalación, configuración y resolución de una incidencia breve.
-- UD2: reparación de un documento con estilos, secciones, índice e imagen.
-- UD3: configuración razonada de correo/calendario y respuesta a un caso.
-- UD4: hoja de cálculo con referencias, funciones, filtro y gráfico.
-- UD5: corrección de modelo, consulta y formulario.
-- UD6: edición y exportación de una pieza según briefing.
-- UD7: modificación y presentación de diapositivas ante un cambio del cliente.
-- UD8–UD9: demostración del tutorial y resolución documentada de una incidencia.
+- UD01: instalación, configuración y resolución de una incidencia breve.
+- UD02: reparación de un documento con estilos, secciones, índice e imagen; control específico de macros.
+- UD03: hoja de cálculo con referencias, funciones, filtro y gráfico.
+- UD04: corrección de modelo, consulta y formulario.
+- UD05: edición y exportación de una pieza según briefing.
+- UD06: demostración del tutorial y modificación de un vídeo.
+- UD07: modificación y presentación de diapositivas ante un cambio del cliente.
+- UD08: configuración razonada de correo/calendario y respuesta a un caso.
+
+RA9 no se duplica mediante un examen de aula: se observa en la empresa a través del plan formativo, los tickets, la actuación profesional y la valoración cualitativa de la persona tutora de empresa. El profesorado conserva la responsabilidad de evaluación del módulo.
 
 Duración habitual: 30–60 minutos. Predomina el uso real de la aplicación; las preguntas breves sirven para justificar una decisión, no para memorizar menús.
 

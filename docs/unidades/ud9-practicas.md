@@ -1,16 +1,19 @@
-# UD9 · Prácticas de soporte
+# Formación en empresa · Plan de actividades de RA9
 
-## A1 · Base de conocimiento · 2 h
+## E1 · Acogida, herramientas y base de conocimiento · 8 h
 
-Transformar tres incidencias del portafolio en artículos: síntoma, causa, pasos, capturas, comprobación, prevención y fuente.
+Conocer canales, herramientas, permisos, escalado, protección de datos y documentación interna. Elaborar o mejorar guías autorizadas sin extraer información confidencial.
 
-## A2 · Turno de mesa de ayuda · 3 h
+## E2 · Atención y resolución de incidencias · 22 h
 
-Roles rotatorios de usuario, técnico y observador. Casos aleatorios sobre Writer, Calc, Base, correo, presentación y recuperación. El técnico abre ticket, pregunta, hace copia, consulta, prueba, resuelve y forma.
+Observar, acompañar o resolver incidencias adecuadas al nivel formativo. Registrar, preguntar, proteger, consultar, probar, verificar, explicar y escalar cuando corresponda.
 
-## A3 · Cierre del servicio · 1 h
+## E3 · Verificación, documentación y cierre · 5 h
 
-Calcular tiempo de respuesta/resolución, reaperturas y satisfacción; detectar una causa frecuente y mejorar la base de conocimiento.
+Cerrar evidencias anonimizadas, comprobar una medida de salvaguarda, analizar tiempos y calidad y participar en la valoración final centro–empresa.
+
+!!! warning "Confidencialidad"
+    El portafolio no contiene nombres reales, capturas internas, credenciales ni datos de clientes. Si la empresa no autoriza conservar un ticket, la persona tutora valida la actividad mediante el registro de seguimiento.
 
 | CA RA9 | Evidencia |
 | --- | --- |
@@ -21,4 +24,3 @@ Calcular tiempo de respuesta/resolución, reaperturas y satisfacción; detectar 
 | f | Copia y recuperación |
 | g | Recursos técnicos consultados |
 | h | Resolución en tiempo y calidad |
-
