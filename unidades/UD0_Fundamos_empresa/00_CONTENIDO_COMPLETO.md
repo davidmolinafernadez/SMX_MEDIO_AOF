@@ -23,4 +23,3 @@ Se conserva una evidencia deliberadamente informal (foto de pizarra/notas). En U
 
 **Hito común A/B:** nombre, servicios, valores y ficha de fundación cerrados.
 
-[Abrir diagnóstico, encargo y evidencias de UD0](ud0-practicas.md){ .md-button .md-button--primary }

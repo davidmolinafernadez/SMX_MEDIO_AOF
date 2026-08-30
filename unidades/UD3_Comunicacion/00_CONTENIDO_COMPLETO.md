@@ -47,11 +47,3 @@ Diseñar firma coherente con UD2, probarla en nuevo mensaje/respuesta y crear tr
 
 **Pesos del proyecto:** equipo 25%, dossier 25%, comunicación/agenda 25%, coherencia global 25%. No introduce CA nuevos: aplica aprendizajes ya evaluados.
 
-## Recursos y seguridad
-
-Se usa la ayuda oficial del proveedor configurado por el centro para cuentas, filtros, calendario y 2FA. Nunca se publican capturas con direcciones, teléfonos, códigos QR o convocatorias reales; todos los clientes del caso son ficticios. Para reconocer mensajes sospechosos se contrasta dominio, urgencia, enlace real, adjunto y petición de credenciales.
-
-- [Guía de seguridad del correo de INCIBE](https://www.incibe.es/ciudadania/tematicas/correo-electronico)
-- [Ayuda oficial de Thunderbird](https://support.mozilla.org/es/products/thunderbird)
-
-[Abrir prácticas, proyecto y rúbrica de UD3](ud3-practicas.md){ .md-button .md-button--primary }

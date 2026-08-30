@@ -1,8 +1,6 @@
 # UD5 · Gestionamos clientes y servicios
 
-**Duración propuesta:** 14 sesiones, 28 horas. **RA:** RA4.
-
-> La referencia solo publica el encargo general. Se desarrolla aquí una propuesta completa coherente con el proyecto de empresa.
+**Duración:** 14 sesiones, 28 horas. **RA:** RA4.
 
 ## Encargo y producto
 
@@ -20,8 +18,32 @@ Dato/información; entidad, atributo y registro; claves; normalización básica;
 - **A4 · Interfaz para el cliente (6 h):** formulario con validación, informe de dirección y macro de apertura o automatización segura.
 - **A5 · Prueba de aceptación (2 h):** otro equipo ejecuta cinco tareas sin ayuda.
 
-## Evaluación propuesta
+## Evaluación
 
 Modelo/relaciones 25%; integridad y carga 20%; consultas 25%; formularios/informes 20%; documentación y privacidad 10%.
 
 **Hito A/B:** dataset ficticio y cinco preguntas de negocio comunes.
+
+## Secuencia de aprendizaje
+
+| Tramo | Horas | Resultado |
+| --- | ---: | --- |
+| Del problema al modelo | 6 | Diagrama de entidades, atributos, claves y relaciones. |
+| Construcción segura | 8 | Tablas relacionadas, restricciones e importación validada. |
+| Consultas que deciden | 6 | Preguntas traducidas a filtros, cálculos, agrupaciones y parámetros. |
+| Interfaz y comunicación | 6 | Formularios comprensibles e informes orientados a una audiencia. |
+| Prueba de aceptación | 2 | Cinco tareas ejecutadas por una persona que no construyó la base. |
+
+### Ideas que hay que comprender
+
+Una hoja de cálculo organiza celdas; una base de datos representa hechos relacionados y aplica reglas. Separar clientes, servicios, técnicos e incidencias evita repetir datos y permite actualizar una dirección una sola vez. La clave primaria identifica; la foránea conecta; la integridad impide relaciones imposibles.
+
+Antes de crear una consulta se escribe la pregunta en lenguaje natural: «¿qué incidencias abiertas superan el tiempo acordado?». Después se identifican campos, tablas, criterio, orden y cálculo. El informe final muestra solo lo necesario para decidir y excluye datos personales sin finalidad.
+
+## Recursos de apoyo
+
+- [Ayuda oficial de LibreOffice Base](https://help.libreoffice.org/latest/es/text/sdatabase/main.html)
+- [Relaciones entre tablas](https://help.libreoffice.org/latest/es/text/sdatabase/05020000.html)
+- [Consultas en bases de datos](https://help.libreoffice.org/latest/es/text/sdatabase/02010100.html)
+
+[Abrir prácticas, pruebas y rúbrica de UD5](ud5-practicas.md){ .md-button .md-button--primary }

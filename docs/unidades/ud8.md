@@ -1,6 +1,6 @@
 # UD8 · Formamos al cliente y cerramos el portafolio 🏆
 
-**Duración propuesta:** 10 sesiones, 20 horas. **RA:** RA6 completo + integración RA4/RA6.
+**Duración:** 10 sesiones, 20 horas. **RA:** RA6 completo + integración RA4/RA6.
 
 ## Encargo
 
@@ -21,9 +21,32 @@ Análisis de usuario/tarea; guion técnico; capturas limpias y anotaciones; reso
 
 Entregar la base de datos operativa de UD5 y el tutorial para usarla. Defensa individual: estructura de tablas, cambios de escenario, resolución de fallos y decisiones multimedia.
 
-**Pesos propuestos:** solución de datos 30%, tutorial 30%, prueba con usuario 15%, integración 10%, defensa individual 15%.
+**Pesos:** solución de datos 30%, tutorial 30%, prueba con usuario 15%, integración 10%, defensa individual 15%.
 
 ## Portafolio final
 
 Índice enlazado, selección razonada de tres mejores productos, una mejora antes/después, registro de fuentes/IA y retrospectiva profesional.
 
+## Secuencia de aprendizaje
+
+| Tramo | Horas | Resultado |
+| --- | ---: | --- |
+| Usuario y tarea | 4 | Instrucción escrita probada por otra persona. |
+| Guion y prototipo | 4 | Storyboard, locución y criterio observable de éxito. |
+| Producción multimedia | 8 | Tutorial breve, enfocado, editado y subtitulado. |
+| Prueba de usuario | 2 | Registro de errores, tiempo y mejoras. |
+| Cierre profesional | 2 | Portafolio y defensa individual. |
+
+### Ideas que hay que comprender
+
+Un tutorial enseña una tarea concreta a una persona concreta. Primero se define el estado inicial, el resultado final y las condiciones de éxito; después se guioniza. La grabación evita notificaciones, datos reales y movimientos innecesarios. La edición elimina espera y error, pero no oculta pasos imprescindibles.
+
+El archivo final se prueba en otro dispositivo. Debe conservar legibilidad, audio inteligible y tamaño razonable. Los subtítulos se revisan manualmente y el material escrito ofrece una alternativa equivalente.
+
+## Recursos de apoyo
+
+- [Guía oficial de inicio de OBS Studio](https://obsproject.com/kb/quick-start-guide)
+- [Vídeo: grabación de pantalla con OBS](https://www.youtube.com/watch?v=xoe9ZOzlfnQ)
+- [Accesibilidad de audio y vídeo, W3C](https://www.w3.org/WAI/media/av/)
+
+[Abrir prácticas, pruebas y rúbrica de UD8](ud8-practicas.md){ .md-button .md-button--primary }

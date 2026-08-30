@@ -1,6 +1,6 @@
 # UD7 · Presentamos la empresa 🏆
 
-**Duración propuesta:** 12 sesiones, 24 horas. **RA:** RA7 completo + integración RA3/RA5/RA7.
+**Duración:** 12 sesiones, 24 horas. **RA:** RA7 completo + integración RA3/RA5/RA7.
 
 ## Encargo
 
@@ -21,6 +21,30 @@ Opciones básicas y vistas normal, esquema, clasificador, notas y presentación;
 
 Propuesta comercial completa: análisis de datos (RA3), piezas gráficas (RA5) y presentación persuasiva (RA7). Equipos de 3-4; defensa individual con preguntas diferentes.
 
-**Pesos propuestos:** datos 25%, material gráfico 25%, presentación 25%, integración/defensa 25%. No introduce CA nuevos.
+**Pesos:** datos 25%, material gráfico 25%, presentación 25%, integración/defensa 25%. No introduce CA nuevos.
 
 **Entrega:** archivo editable, PDF de respaldo, resumen de una página, recursos enlazados y defensa de 5 minutos.
+
+## Secuencia de aprendizaje
+
+| Tramo | Horas | Resultado |
+| --- | ---: | --- |
+| Audiencia, propósito y relato | 4 | Storyboard con una idea central y evidencias. |
+| Sistema de diapositivas | 6 | Patrón propio, variantes y jerarquía coherente. |
+| Datos y multimedia | 4 | Gráficos comprensibles y recursos con fuente/licencia. |
+| Ensayo y accesibilidad | 4 | Presentación cronometrada, revisada y con respaldo. |
+| Proyecto integrador 2 | 6 | Propuesta comercial y defensa individual. |
+
+### Ideas que hay que comprender
+
+Las diapositivas apoyan a quien habla; no son el informe pegado en una pantalla. Cada una debe tener una función en el relato: problema, propuesta, evidencia, plan o cierre. El patrón resuelve la consistencia una vez y permite que el equipo cambie el diseño sin corregir veinte diapositivas.
+
+Todo dato incluye contexto, unidad, periodo y fuente. Las transiciones solo se usan si aclaran un cambio. Antes de presentar se prueba tipografía, vídeo, audio, enlaces, relación de aspecto, mando, tiempo y PDF de emergencia en el equipo real.
+
+## Recursos de apoyo
+
+- [Ayuda oficial de LibreOffice Impress](https://help.libreoffice.org/latest/es/text/simpress/guide/main.html)
+- [Trabajo con patrones de diapositivas](https://help.libreoffice.org/latest/es/text/simpress/01/03150000.html)
+- [Vídeo: primeros pasos en Impress](https://www.youtube.com/watch?v=9KHlZY6NxkY)
+
+[Abrir prácticas, pruebas y rúbrica de UD7](ud7-practicas.md){ .md-button .md-button--primary }

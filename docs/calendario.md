@@ -1,5 +1,9 @@
 # Calendario orientativo
 
+![Las tres etapas de crecimiento de la empresa simulada](assets/images/evaluaciones-empresa.png){ loading=lazy }
+
+La imagen resume el recorrido: primero montamos la oficina, después convertimos datos e identidad en una propuesta y finalmente presentamos, formamos y damos soporte al cliente.
+
 | Periodo | Unidades | Horas orientativas | Hito común A/B |
 | --- | --- | ---: | --- |
 | Septiembre | UD0-UD1 | 16 | Empresa y puestos operativos |

@@ -3,40 +3,86 @@ site_description: Proyecto práctico de Aplicaciones Ofimáticas 2026-2027
 theme:
   name: material
   language: es
+  logo: assets/images/brand-mark.svg
+  favicon: assets/images/brand-mark.svg
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
+    - navigation.indexes
     - navigation.top
     - navigation.footer
+    - navigation.instant
+    - toc.follow
     - content.code.copy
+    - content.tabs.link
   palette:
-    - scheme: default
-      primary: indigo
-      accent: amber
+    - media: "(prefers-color-scheme: light)"
+      scheme: aof-light
+      toggle:
+        icon: material/weather-night
+        name: Activar modo oscuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Activar modo claro
 plugins:
   - search:
       lang: es
 markdown_extensions:
   - admonition
   - attr_list
+  - md_in_html
   - tables
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+extra_css:
+  - assets/stylesheets/extra.css
+extra_javascript:
+  - assets/javascripts/unit-progress.js
 nav:
   - Inicio: index.md
   - Cómo trabajaremos: metodologia.md
   - Evaluación: evaluacion.md
   - Calendario: calendario.md
-  - UD0 · Fundamos la empresa: unidades/ud0.md
-  - UD1 · Puestos de trabajo: unidades/ud1.md
-  - UD2 · Documentos corporativos: unidades/ud2.md
-  - UD3 · Comunicación: unidades/ud3.md
-  - UD4 · Cuentas e inventario: unidades/ud4.md
-  - UD5 · Clientes y datos: unidades/ud5.md
-  - UD6 · Imagen comercial: unidades/ud6.md
-  - UD7 · Presentación: unidades/ud7.md
-  - UD8 · Tutorial y portafolio: unidades/ud8.md
-  - UD9 · Servicio de soporte: unidades/ud9.md
+  - Recursos y videotutoriales: recursos.md
+  - Programación: programacion.md
+  - UD0 · Fundamos la empresa:
+      - Contexto y contenidos: unidades/ud0.md
+      - Prácticas y evaluación: unidades/ud0-practicas.md
+  - UD1 · Puestos de trabajo:
+      - Contexto y contenidos: unidades/ud1.md
+      - Prácticas y evaluación: unidades/ud1-practicas.md
+  - UD2 · Documentos corporativos:
+      - Contexto y contenidos: unidades/ud2.md
+      - Prácticas y evaluación: unidades/ud2-practicas.md
+  - UD3 · Comunicación:
+      - Contexto y contenidos: unidades/ud3.md
+      - Prácticas y evaluación: unidades/ud3-practicas.md
+  - UD4 · Cuentas e inventario:
+      - Contexto y contenidos: unidades/ud4.md
+      - Prácticas y evaluación: unidades/ud4-practicas.md
+  - UD5 · Clientes y datos:
+      - Contexto y contenidos: unidades/ud5.md
+      - Prácticas y evaluación: unidades/ud5-practicas.md
+  - UD6 · Imagen y fabricación:
+      - Contexto y contenidos: unidades/ud6.md
+      - Prácticas y evaluación: unidades/ud6-practicas.md
+  - UD7 · Presentación:
+      - Contexto y contenidos: unidades/ud7.md
+      - Prácticas y evaluación: unidades/ud7-practicas.md
+  - UD8 · Tutorial y portafolio:
+      - Contexto y contenidos: unidades/ud8.md
+      - Prácticas y evaluación: unidades/ud8-practicas.md
+  - UD9 · Servicio de soporte:
+      - Contexto y contenidos: unidades/ud9.md
+      - Prácticas y evaluación: unidades/ud9-practicas.md
   - Profesorado:
       - Coordinación A/B: profesorado/coordinacion.md
       - Mapa curricular: profesorado/mapa-curricular.md

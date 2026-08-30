@@ -17,7 +17,9 @@ Proyecto docente 2026-2027 organizado como una empresa de servicios digitales. L
 | UD8 | Formamos al cliente | Tutorial multimedia y portafolio | RA6 | 3.ª |
 | UD9 | Atendemos el servicio de soporte | Guías, tickets, copias y atención al usuario | RA9 | 3.ª/FEE |
 
-La secuencia cubre los nueve RA del módulo profesional 0223. La matriz completa está en `coordinacion/AUDITORIA_CURRICULAR.md` y debe armonizarse con la programación del centro antes de cerrar ponderaciones.
+La secuencia cubre los nueve RA del módulo profesional 0223 en 224 horas. La matriz completa está en `coordinacion/AUDITORIA_CURRICULAR.md`.
+
+La calificación propuesta combina encargos/proyectos (50 %), prácticas individuales (20 %), controles prácticos individuales (20 %) y portafolio/defensa/seguimiento (10 %), siempre con trazabilidad a RA y criterios de evaluación.
 
 ## Estructura
 
@@ -32,4 +34,5 @@ La secuencia cubre los nueve RA del módulo profesional 0223. La matriz completa
 1. Revisar `coordinacion/ACUERDOS_DOCENTES.md` entre ambos docentes.
 2. Ajustar fechas y horas en `coordinacion/TEMPORALIZACION.md`.
 3. Duplicar `coordinacion/SEGUIMIENTO_SEMANAL.md` cada semana.
-4. Publicar la web con GitHub Pages cuando exista el repositorio remoto.
+4. Confirmar en GitHub **Settings → Pages** que la fuente sea la rama `gh-pages`.
+5. Cada cambio en `main` valida y publica la web automáticamente.

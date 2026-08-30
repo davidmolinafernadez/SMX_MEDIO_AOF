@@ -33,19 +33,3 @@ Informe de indicadores: tiempo de respuesta/resolución, reaperturas, causa frec
 
 Si RA9 se desarrolla en formación en empresa, se utilizará esta misma tabla como guía de evidencias y se reservarán las 6 horas para preparación, seguimiento y cierre.
 
-## Protocolo profesional de atención
-
-1. **Acoger:** identificar a la persona, escuchar y reformular el problema sin culpabilizar.
-2. **Proteger:** valorar datos afectados, permisos, copia y posibilidad de deshacer.
-3. **Diagnosticar:** registrar síntoma, alcance, cambios recientes y forma de reproducción.
-4. **Resolver:** consultar fuentes fiables, probar una hipótesis cada vez y anotar resultados.
-5. **Verificar:** pedir al usuario que repita la tarea y comprobar que no se ha creado otro problema.
-6. **Cerrar y prevenir:** documentar causa/solución, acordar seguimiento y mejorar la base de conocimiento.
-
-La velocidad no compensa una pérdida de datos. Antes de modificar un archivo se crea una copia, se registra su ubicación y se comprueba la recuperación. Si el caso excede permisos, tiempo o conocimientos, se escala con toda la información reunida.
-
-## Cierre del hilo empresarial
-
-La empresa empezó con una idea y termina capaz de instalar puestos, documentar, comunicarse, controlar datos, atender clientes, crear su imagen, presentar, formar y prestar soporte. La retrospectiva final responde con evidencias: qué problema resolvimos, qué producto usa el cliente, qué aprendimos y qué mejoraríamos en una segunda versión.
-
-[Abrir simulaciones, tickets y rúbrica de UD9](ud9-practicas.md){ .md-button .md-button--primary }

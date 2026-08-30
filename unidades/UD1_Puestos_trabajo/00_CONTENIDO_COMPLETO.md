@@ -39,16 +39,9 @@ Los equipos están vacíos. Cada técnico debe seleccionar, instalar, configurar
 
 Informe de una página para gerencia: riesgos legales, económicos, de seguridad y de cliente; alternativas legales para Office, Photoshop y AutoCAD; licencias/fuentes oficiales; ahorro estimado; prompt usado y corrección o verificación de la IA. Pitch de 2 minutos.
 
-## Recursos de apoyo
-
-- [Descarga oficial de LibreOffice](https://es.libreoffice.org/descarga/libreoffice/)
-- [Licencias de LibreOffice](https://www.libreoffice.org/about-us/licenses/)
-- [Choose a License: comparar licencias de software](https://choosealicense.com/)
-
-[Abrir prácticas, control y rúbrica de UD1](ud1-practicas.md){ .md-button .md-button--primary }
-
 **Pesos:** RA1.h 50% y RA1.i 50%.
 
 ## Hito y recuperación
 
 **Hito A/B:** equipo operativo + A1 entregada antes de abrir A2. Recuperación: repetir la prueba de aceptación y documentación con otra aplicación.
+

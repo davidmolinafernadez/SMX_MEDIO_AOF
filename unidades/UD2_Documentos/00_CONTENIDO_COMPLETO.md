@@ -45,14 +45,7 @@ Documentar cuándo usar/no usar cada estilo, paleta/tipografía, reglas del logo
 
 Revisar otro manual con al menos ocho mejoras sustantivas y comentarios profesionales; crear una macro distinta; aceptar, rechazar o mejorar cada propuesta recibida; entregar evidencias y reflexión de media página.
 
-## Recursos de apoyo
-
-- [Plantillas y estilos de Writer](https://help.libreoffice.org/latest/es/text/swriter/guide/templates_styles.html)
-- [Administrador de plantillas](https://help.libreoffice.org/latest/es/text/shared/guide/template_manager.html)
-- [Ayuda oficial de Writer](https://help.libreoffice.org/latest/es/text/swriter/guide/main.html)
-
-[Abrir prácticas, control y rúbrica de UD2](ud2-practicas.md){ .md-button .md-button--primary }
-
 **Pesos de refuerzo:** RA2.e 40%, RA2.f 60%.
 
 **Hito A/B:** A1 común antes de iniciar A2; intercambio A4 entre equipos con protocolo idéntico.
+
