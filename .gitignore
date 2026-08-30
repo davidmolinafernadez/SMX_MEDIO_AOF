@@ -1,0 +1,10 @@
+site/
+.cache/
+*.tmp
+*.bak
+~$*
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
