@@ -8,6 +8,8 @@ El cliente no sabe utilizar la solución entregada. Necesita ayuda escrita y mul
 
 ## Teoría/talleres
 
+**Ruta guiada:** [0. Objetivo, guion y captura](ud06-teoria-0.md) → [1. Montaje, audio y ritmo](ud06-teoria-1.md) → [2. Exportación, subtítulos y prueba](ud06-teoria-2.md).
+
 Análisis de usuario/tarea; guion técnico; capturas limpias y anotaciones; resolución y encuadre; grabación de pantalla; voz y ruido; edición, cortes, zoom y transiciones; subtítulos/transcripción; códecs/contenedores; compresión; privacidad; publicación y accesibilidad.
 
 ## Actividades RA6

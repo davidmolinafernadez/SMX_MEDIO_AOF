@@ -8,6 +8,8 @@ Los equipos están vacíos. Cada técnico debe seleccionar, instalar, configurar
 
 ## Teoría y microtalleres
 
+**Ruta guiada:** [0. Entorno de trabajo](ud01-teoria-0.md) → [1. Software y licencias](ud01-teoria-1.md) → [2. Instalación y configuración](ud01-teoria-2.md) → [3. Documentar y resolver](ud01-teoria-3.md).
+
 1. **Entorno de trabajo:** `home`, rutas, Dolphin, extensiones, árbol `Empresa/UDx`, nombres/versiones y rutina de mecanografía de 5-10 minutos.
 2. **Software y licencias:** propietario, libre, permisivo/copyleft, freeware, prueba, adware y uso comercial. Toda afirmación de IA se verifica en la fuente oficial.
 3. **Instalación profesional:** requisitos → origen oficial → versión/arquitectura → instalación → identidad/idiomas/formatos/autoguardado → prueba → actualización → desinstalación limpia.

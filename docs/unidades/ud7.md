@@ -8,6 +8,8 @@ La empresa participa en una jornada profesional y después compite por un contra
 
 ## Teoría/talleres
 
+**Ruta guiada:** [0. Audiencia, mensaje y storyboard](ud07-teoria-0.md) → [1. Patrón, diseño y accesibilidad](ud07-teoria-1.md) → [2. Datos, ensayo y entrega](ud07-teoria-2.md).
+
 Opciones básicas y vistas normal, esquema, clasificador, notas y presentación; audiencia/objetivo; guion y storyboard; patrón y tema; tipografía, composición y color; tablas/gráficos; imagen/audio/vídeo; animación funcional; navegación; importación/exportación; compatibilidad; accesibilidad; ensayo y ejecución con proyector o pantalla.
 
 ## Actividades RA7

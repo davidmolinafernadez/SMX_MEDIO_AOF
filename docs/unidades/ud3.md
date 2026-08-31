@@ -8,6 +8,8 @@ Gerencia necesita controlar presupuesto, ventas, gastos y existencias. Se entreg
 
 ## Teoría/talleres
 
+**Ruta guiada:** [0. Datos, celdas y referencias](ud03-teoria-0.md) → [1. Fórmulas y funciones](ud03-teoria-1.md) → [2. Análisis, gráficos y automatización](ud03-teoria-2.md).
+
 Estilos; tipos de datos; referencias relativas, absolutas y mixtas entre celdas, rangos, hojas y libros; operadores; fórmulas y funciones; gráficos y tablas dinámicas; macros; importación/exportación; uso como base de datos mediante formularios, listas, filtros, protección y ordenación; introducción de textos, números, códigos e imágenes con periféricos; impresión y accesibilidad.
 
 ## Actividades

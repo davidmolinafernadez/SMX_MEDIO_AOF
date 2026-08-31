@@ -73,27 +73,52 @@ nav:
       - Prácticas y evaluación: unidades/ud0-practicas.md
   - UD01 · Suites ofimáticas — Preparamos los puestos:
       - Contexto y contenidos: unidades/ud1.md
+      - 0. Entorno, archivos y mecanografía: unidades/ud01-teoria-0.md
+      - 1. Software y licencias: unidades/ud01-teoria-1.md
+      - 2. Instalación y configuración: unidades/ud01-teoria-2.md
+      - 3. Documentar y resolver problemas: unidades/ud01-teoria-3.md
       - Prácticas y evaluación: unidades/ud1-practicas.md
   - UD02 · Procesadores de texto — Creamos documentos:
       - Contexto y contenidos: unidades/ud2.md
+      - 0. Texto, página y formato: unidades/ud02-teoria-0.md
+      - 1. Estilos y plantillas: unidades/ud02-teoria-1.md
+      - 2. Documentos largos y automatización: unidades/ud02-teoria-2.md
       - Prácticas y evaluación: unidades/ud2-practicas.md
   - UD03 · Hojas de cálculo — Controlamos la empresa:
       - Contexto y contenidos: unidades/ud3.md
+      - 0. Datos, celdas y referencias: unidades/ud03-teoria-0.md
+      - 1. Fórmulas y funciones: unidades/ud03-teoria-1.md
+      - 2. Análisis, gráficos y automatización: unidades/ud03-teoria-2.md
       - Prácticas y evaluación: unidades/ud3-practicas.md
   - UD04 · Bases de datos — Gestionamos clientes:
       - Contexto y contenidos: unidades/ud4.md
+      - 0. Modelo, tablas y relaciones: unidades/ud04-teoria-0.md
+      - 1. Consultas y preguntas de negocio: unidades/ud04-teoria-1.md
+      - 2. Formularios, informes y seguridad: unidades/ud04-teoria-2.md
       - Prácticas y evaluación: unidades/ud4-practicas.md
   - UD05 · Imagen digital — Diseñamos la marca:
       - Contexto y contenidos: unidades/ud5.md
+      - 0. Píxeles, vectores, color y derechos: unidades/ud05-teoria-0.md
+      - 1. Capas, selecciones y composición: unidades/ud05-teoria-1.md
+      - 2. Exportación, accesibilidad e impresión 3D: unidades/ud05-teoria-2.md
       - Prácticas y evaluación: unidades/ud5-practicas.md
   - UD06 · Vídeo — Formamos al cliente:
       - Contexto y contenidos: unidades/ud6.md
+      - 0. Objetivo, guion y captura: unidades/ud06-teoria-0.md
+      - 1. Montaje, audio y ritmo: unidades/ud06-teoria-1.md
+      - 2. Exportación, subtítulos y prueba: unidades/ud06-teoria-2.md
       - Prácticas y evaluación: unidades/ud6-practicas.md
   - UD07 · Presentaciones — Defendemos la propuesta:
       - Contexto y contenidos: unidades/ud7.md
+      - 0. Audiencia, mensaje y storyboard: unidades/ud07-teoria-0.md
+      - 1. Patrón, diseño y accesibilidad: unidades/ud07-teoria-1.md
+      - 2. Datos, ensayo y entrega: unidades/ud07-teoria-2.md
       - Prácticas y evaluación: unidades/ud7-practicas.md
   - UD08 · Correo y agenda — Organizamos la comunicación:
       - Contexto y contenidos: unidades/ud8.md
+      - 0. Correo profesional y seguridad: unidades/ud08-teoria-0.md
+      - 1. Organización, filtros y contactos: unidades/ud08-teoria-1.md
+      - 2. Agenda, reuniones y sincronización: unidades/ud08-teoria-2.md
       - Prácticas y evaluación: unidades/ud8-practicas.md
   - Formación en empresa · RA9 · Soporte al usuario:
       - Contexto y contenidos: unidades/ud9.md

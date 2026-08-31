@@ -4,6 +4,8 @@
 
 ## Teoría y talleres
 
+**Ruta guiada:** [0. Correo profesional y seguridad](ud08-teoria-0.md) → [1. Organización, filtros y contactos](ud08-teoria-1.md) → [2. Agenda, reuniones y sincronización](ud08-teoria-2.md).
+
 - Estructura del correo, Para/CC/CCO, adjuntos, firma, metadatos, cuentas separadas, 2FA y señales de phishing.
 - Carpetas frente a etiquetas, filtros/reglas, contactos completos, grupos y bandeja orientada a acciones.
 - Eventos, recurrencia, recordatorios, convocatorias, disponibilidad, permisos y sincronización móvil.

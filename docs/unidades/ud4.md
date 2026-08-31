@@ -8,6 +8,8 @@ Un cliente tiene contactos, servicios e incidencias duplicados y dispersos. Se e
 
 ## Teoría/talleres
 
+**Ruta guiada:** [0. Modelo, tablas y relaciones](ud04-teoria-0.md) → [1. Consultas y preguntas de negocio](ud04-teoria-1.md) → [2. Formularios, informes y seguridad](ud04-teoria-2.md).
+
 Dato/información; entidad, atributo y registro; claves; normalización básica; relaciones 1:N; integridad; operaciones de alta/modificación/baja; asistentes de consultas, formularios e informes; búsqueda, filtrado, macros, exportación, copias y privacidad.
 
 ## Actividades

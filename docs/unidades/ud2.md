@@ -8,6 +8,8 @@ Convertir documentos inconsistentes en un sistema corporativo reutilizable: plan
 
 ## Teoría y talleres
 
+**Ruta guiada:** [0. Texto, página y formato](ud02-teoria-0.md) → [1. Estilos y plantillas](ud02-teoria-1.md) → [2. Documentos largos y automatización](ud02-teoria-2.md).
+
 - **Fundamentos Writer:** interfaz, formato manual, listas, página, búsqueda/reemplazo, ortografía y formatos ODT/DOCX/PDF.
 - **Estilos y plantillas:** párrafo, carácter, página y lista; herencia, modificación global, encabezado/pie, portada y plantilla `.ott`.
 - **Imágenes y objetos:** resolución, anclaje, ajuste del texto, digitalización, capturas y logo estable.

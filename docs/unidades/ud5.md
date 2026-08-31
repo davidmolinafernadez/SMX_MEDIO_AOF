@@ -8,6 +8,8 @@ Marketing lanza un servicio de la empresa. Se entrega cartel A4, banner web, tar
 
 ## Teoría/talleres
 
+**Ruta guiada:** [0. Píxeles, vectores, color y derechos](ud05-teoria-0.md) → [1. Capas, selecciones y composición](ud05-teoria-1.md) → [2. Exportación, accesibilidad e impresión 3D](ud05-teoria-2.md).
+
 Mapa de bits/vector; adquisición con escáner, cámara o captura; resolución según finalidad; RGB/CMYK; PNG/JPEG/SVG/PDF; composición; capas, selección, recorte, transparencia, ajuste de imagen/color y texto; importación/exportación; contraste; compresión; licencias y manipulación ética. Para la práctica 3D: simplificación vectorial, geometría, extrusión, STL/3MF, laminado, soportes, escala, orientación y control previo.
 
 ## Actividades
