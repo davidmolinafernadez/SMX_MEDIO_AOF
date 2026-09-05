@@ -25,13 +25,18 @@ Encargos y proyectos 50 %, prácticas individuales 20 %, controles prácticos 20
 
 ## Estructura
 
-- `docs/`: web para alumnado y profesorado.
-- `unidades/`: materiales editables.
-- `plantillas/`: documentos comunes.
-- `coordinacion/`: sincronización semanal A/B y planificación dual.
-- `docs/ejemplo/`: empresa NexoByte resuelta unidad por unidad.
-- `docs/profesorado/guion-docente.md`: explicaciones, demostraciones y ritmo de clase.
-- `docs/unidades/udXX-teoria-N.md`: 25 subunidades con teoría elaborada y práctica guiada.
+- `.site-src/`: fuente de la web para alumnado y profesorado.
+- `UD00/`–`UD08/`: materiales editables de cada unidad, con `Teoria`, `Actividades`, `Practicas`, `Recursos` y `Evaluacion`.
+- `Empresa_RA9/`: formación en empresa y soporte al usuario.
+- `Guias/`: documentación de uso y guiones para impartir las clases.
+- `Plantillas/`: documentos comunes y entregables reutilizables.
+- `Presentaciones/`: presentaciones de aula, incluida la del primer día.
+- `Coordinacion/`: sincronización semanal de los grupos A y B.
+- `scripts/`: herramientas de validación, construcción y mantenimiento.
+- `.site-src/ejemplo/`: empresa NexoByte resuelta unidad por unidad.
+- `.site-src/profesorado/guion-docente.md`: explicaciones, demostraciones y ritmo de clase.
+- `.site-src/unidades/udXX-teoria-N.md`: subunidades con teoría elaborada y práctica guiada.
+- `Archivo_anterior/`: materiales previos conservados como referencia; no se usa para publicar.
 - `.github/workflows/`: comprobación y publicación automática.
 
 ## Publicación

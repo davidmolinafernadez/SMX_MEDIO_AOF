@@ -1,5 +1,7 @@
 site_name: AOF · 1.º SMX · Empresa en marcha
 site_description: Proyecto práctico de Aplicaciones Ofimáticas 2026-2027
+docs_dir: .site-src
+site_dir: site
 theme:
   name: material
   language: es
@@ -77,7 +79,14 @@ nav:
       - 1. Software y licencias: unidades/ud01-teoria-1.md
       - 2. Instalación y configuración: unidades/ud01-teoria-2.md
       - 3. Documentar y resolver problemas: unidades/ud01-teoria-3.md
-      - Prácticas y evaluación: unidades/ud1-practicas.md
+      - Actividades y entregas: unidades/ud1-practicas.md
+      - A01 · Los ordenadores han llegado: unidades/ud01-actividad-1.md
+      - A02 · Auditoría de licencias: unidades/ud01-actividad-2.md
+      - A03 · Compatibilidad entre suites: unidades/ud01-actividad-3.md
+      - A04 · Diagnóstico y reparación: unidades/ud01-actividad-4.md
+      - A05 · Auditoría de hardware: unidades/ud01-actividad-5.md
+      - Rúbrica común: unidades/ud01-rubrica.md
+      - Control práctico individual: unidades/ud01-control.md
   - UD02 · Procesadores de texto — Creamos documentos:
       - Contexto y contenidos: unidades/ud2.md
       - 0. Texto, página y formato: unidades/ud02-teoria-0.md
