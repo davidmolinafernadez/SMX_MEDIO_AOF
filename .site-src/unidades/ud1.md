@@ -17,15 +17,17 @@ El alumno debe seleccionar, instalar, configurar, actualizar, verificar y docume
 
 En clase se realiza una explicación breve y una demostración. Cuando proceda, se mostrará el procedimiento en **LibreOffice/software libre** y su equivalente en **Microsoft 365/software comercial**.
 
+Cada clase comienza con la [rutina individual de mecanografía de 10 minutos](ud01-mecanografia.md), registrada para comprobar la evolución personal.
+
 ## Las cinco tareas de Aules
 
 | Código | Actividad | Entrega individual | Tiempo |
 | --- | --- | --- | ---: |
-| A01 | [Los ordenadores han llegado](ud01-actividad-1.md) | Informe de instalación | 4 h |
-| A02 | [Auditoría de licencias](ud01-actividad-2.md) | Informe ejecutivo | 2 h |
-| A03 | [Compatibilidad entre suites](ud01-actividad-3.md) | Informe de pruebas | 1 h |
-| A04 | [Diagnóstico y reparación](ud01-actividad-4.md) | Parte de incidencia | 2 h |
-| A05 | [Auditoría de hardware](ud01-actividad-5.md) | Ficha técnica | 1 h |
+| ACT-1.1 | [Los ordenadores han llegado](ud01-actividad-1.md) | Informe de instalación | 4 h |
+| ACT-1.2 | [Auditoría de licencias](ud01-actividad-2.md) | Informe ejecutivo | 2 h |
+| ACT-1.3 | [Compatibilidad entre suites](ud01-actividad-3.md) | Informe de pruebas | 1 h |
+| ACT-1.4 | [Diagnóstico y reparación](ud01-actividad-4.md) | Parte de incidencia | 2 h |
+| ACT-1.5 | [Auditoría de hardware](ud01-actividad-5.md) | Ficha técnica | 1 h |
 
 Los ejercicios breves realizados durante la explicación no se denominan A1, A2, etc. Esa numeración queda reservada exclusivamente para las tareas entregables.
 

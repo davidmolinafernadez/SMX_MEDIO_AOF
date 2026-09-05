@@ -18,7 +18,7 @@ Empresa/
 └── Portfolio/
 ```
 
-Convención: `A01_apellido_nombre_informe_v01.odt`. Evitamos `Documento nuevo final bueno (2)`.
+Convención: `ACT-1.1_apellido_nombre_informe_v01.odt`. Evitamos `Documento nuevo final bueno (2)`.
 
 ## Ergonomía aplicable
 
@@ -27,8 +27,10 @@ Convención: `A01_apellido_nombre_informe_v01.odt`. Evitamos `Documento nuevo fi
 - Teclado y ratón próximos, con codos cerca de 90°.
 - Pausas breves y regla visual 20-20-20.
 
-Cada sesión comienza con 5–10 minutos de mecanografía. Se registra la evolución personal, no se califica la velocidad.
+Cada sesión comienza con **10 minutos de mecanografía individual**. El alumno registra fecha, herramienta, lección, pulsaciones por minuto, precisión y una breve observación en `Recursos/REGISTRO_MECANOGRAFIA.md`. Se valora la constancia y la evolución personal, no alcanzar una velocidad idéntica para toda la clase.
+
+La guía completa, los enlaces web y la alternativa instalable están también publicados en la web del alumnado.
 
 ## Comprobación guiada
 
-Crear el árbol de carpetas, activar extensiones, guardar dos versiones correctamente nombradas y registrar dos mejoras ergonómicas. **No se entrega aparte:** una captura y la convención pasan a A01.
+Crear el árbol de carpetas, activar extensiones, guardar dos versiones correctamente nombradas y registrar dos mejoras ergonómicas. **No se entrega aparte:** una captura y la convención pasan a ACT-1.1.

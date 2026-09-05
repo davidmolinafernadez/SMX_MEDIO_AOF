@@ -1,7 +1,7 @@
-# A02 · Auditoría de licencias
+# ACT-1.2 · Auditoría de licencias
 
-**Tarea en Aules:** `UD01-A02 · Auditoría de licencias`  
-**Archivo:** `A02_apellido_nombre_licencias.pdf` · **Individual** · **Máximo una página** · 2 h.
+**Tarea en Aules:** `ACT-1.2 · Auditoría de licencias`  
+**Archivo:** `ACT-1.2_apellido_nombre_licencias.pdf` · **Individual** · **Máximo una página** · 2 h.
 
 ## Encargo
 

@@ -15,11 +15,11 @@ La empresa/proyecto, formada por **dos alumnos**, acaba de constituirse y sus eq
 
 | Código | Entregable | Tiempo | CA principales |
 | --- | --- | ---: | --- |
-| A01 | Los ordenadores han llegado | 4 h | RA1.a–c, f–g, i |
-| A02 | Auditoría de licencias | 2 h | RA1.h–i |
-| A03 | Compatibilidad entre suites | 1 h | RA1.c, i |
-| A04 | Incidencia en el puesto | 2 h | RA1.d–e |
-| A05 | Auditoría de hardware | 1 h | RA1.a–b |
+| ACT-1.1 | Los ordenadores han llegado | 4 h | RA1.a–c, f–g, i |
+| ACT-1.2 | Auditoría de licencias | 2 h | RA1.h–i |
+| ACT-1.3 | Compatibilidad entre suites | 1 h | RA1.c, i |
+| ACT-1.4 | Incidencia en el puesto | 2 h | RA1.d–e |
+| ACT-1.5 | Auditoría de hardware | 1 h | RA1.a–b |
 
 Las cinco aparecen con el mismo código y título en la web y en Aules. Cada alumno sube su propio archivo, aunque aplique las decisiones comunes de su empresa. Los ejercicios breves de ergonomía y mecanografía no se numeran como actividades entregables.
 

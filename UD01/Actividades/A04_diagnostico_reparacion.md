@@ -1,7 +1,7 @@
-# A04 · El equipo de un compañero no funciona bien
+# ACT-1.4 · El equipo de un compañero no funciona bien
 
-**Tarea en Aules:** `UD01-A04 · Diagnóstico y reparación`  
-**Archivo:** `A04_apellido_nombre_incidencias.pdf` · **Individual** · 2 h.
+**Tarea en Aules:** `ACT-1.4 · Diagnóstico y reparación`  
+**Archivo:** `ACT-1.4_apellido_nombre_incidencias.pdf` · **Individual** · 2 h.
 
 ## Encargo
 

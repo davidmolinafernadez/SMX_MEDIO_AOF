@@ -1,7 +1,7 @@
-# A01 · Los ordenadores han llegado
+# ACT-1.1 · Los ordenadores han llegado
 
-**Tarea en Aules:** `UD01-A01 · Los ordenadores han llegado`  
-**Archivo:** `A01_apellido_nombre_instalacion.pdf` · **Individual** · 4 h.
+**Tarea en Aules:** `ACT-1.1 · Los ordenadores han llegado`  
+**Archivo:** `ACT-1.1_apellido_nombre_instalacion.pdf` · **Individual** · 4 h.
 
 ## Encargo
 
@@ -19,6 +19,6 @@ La empresa recibe equipos recién preparados. Selecciona una suite y dos aplicac
 
 ## Entrega
 
-Un PDF individual basado en `Recursos/PLANTILLA_INFORME_A01.md`. Se indica la empresa de referencia, pero procedimiento, capturas y explicación son propios. Máximo orientativo: ocho páginas.
+Un PDF individual basado en `Recursos/PLANTILLA_INFORME_ACT-1.1.md`. Se indica la empresa de referencia, pero procedimiento, capturas y explicación son propios. Máximo orientativo: ocho páginas.
 
 **CA:** RA1.a, b, c, f, g e i; las licencias observadas aportan evidencia para RA1.h.

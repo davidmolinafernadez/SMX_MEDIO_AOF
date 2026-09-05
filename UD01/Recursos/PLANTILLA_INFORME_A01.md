@@ -1,4 +1,4 @@
-# Informe A01 · Instalación documentada
+# Informe ACT-1.1 · Instalación documentada
 
 **Empresa/proyecto:** · **Alumno:** · **Compañero de empresa:** · **Equipo:** · **Fecha:**
 

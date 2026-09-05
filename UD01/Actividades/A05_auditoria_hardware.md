@@ -1,7 +1,7 @@
-# A05 · Auditoría de hardware
+# ACT-1.5 · Auditoría de hardware
 
-**Tarea en Aules:** `UD01-A05 · Auditoría del equipo`  
-**Archivo:** `A05_apellido_nombre_ficha_equipo.pdf` · **Individual** · 1 h.
+**Tarea en Aules:** `ACT-1.5 · Auditoría del equipo`  
+**Archivo:** `ACT-1.5_apellido_nombre_ficha_equipo.pdf` · **Individual** · 1 h.
 
 ## Encargo
 

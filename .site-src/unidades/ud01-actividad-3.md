@@ -1,7 +1,7 @@
-# A03 · Compatibilidad entre suites
+# ACT-1.3 · Compatibilidad entre suites
 
-**Tarea en Aules:** `UD01-A03 · Compatibilidad entre suites`  
-**Archivo:** `A03_apellido_nombre_compatibilidad.pdf` · **Individual** · 1 h.
+**Tarea en Aules:** `ACT-1.3 · Compatibilidad entre suites`  
+**Archivo:** `ACT-1.3_apellido_nombre_compatibilidad.pdf` · **Individual** · 1 h.
 
 ## Encargo
 

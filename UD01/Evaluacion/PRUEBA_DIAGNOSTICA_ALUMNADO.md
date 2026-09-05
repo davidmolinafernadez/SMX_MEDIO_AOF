@@ -37,7 +37,7 @@ a) Ctrl+P · b) Ctrl+S · c) Ctrl+Z · d) Ctrl+F
 
 ### 7. ¿Cuál es el nombre de archivo más profesional?
 
-a) `Documento nuevo (3).docx` · b) `trabajo final definitivo bueno.docx` · c) `A01_molina_david_informe_v02.docx` · d) `cosas.docx`
+a) `Documento nuevo (3).docx` · b) `trabajo final definitivo bueno.docx` · c) `ACT-1.1_molina_david_informe_v02.docx` · d) `cosas.docx`
 
 ### 8. En un procesador de textos, ¿para qué sirven los estilos?
 

@@ -1,7 +1,7 @@
-# A01 · Los ordenadores han llegado
+# ACT-1.1 · Los ordenadores han llegado
 
-**Tarea en Aules:** `UD01-A01 · Los ordenadores han llegado`  
-**Archivo:** `A01_apellido_nombre_instalacion.pdf` · **Individual** · 4 h.
+**Tarea en Aules:** `ACT-1.1 · Los ordenadores han llegado`  
+**Archivo:** `ACT-1.1_apellido_nombre_instalacion.pdf` · **Individual** · 4 h.
 
 ## Encargo
 

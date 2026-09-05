@@ -8,11 +8,11 @@ Añadir primero un recurso «Página» con el enlace a la teoría publicada. Des
 
 | Nombre exacto en Aules | Tipo | Entrega | Agrupamiento |
 | --- | --- | --- | --- |
-| UD01-A01 · Los ordenadores han llegado | Tarea | PDF | Individual |
-| UD01-A02 · Auditoría de licencias | Tarea | PDF | Individual |
-| UD01-A03 · Compatibilidad entre suites | Tarea | PDF | Individual |
-| UD01-A04 · Diagnóstico y reparación | Tarea | PDF | Individual |
-| UD01-A05 · Auditoría de hardware | Tarea | PDF | Individual |
+| ACT-1.1 · Los ordenadores han llegado | Tarea | PDF | Individual |
+| ACT-1.2 · Auditoría de licencias | Tarea | PDF | Individual |
+| ACT-1.3 · Compatibilidad entre suites | Tarea | PDF | Individual |
+| ACT-1.4 · Diagnóstico y reparación | Tarea | PDF | Individual |
+| ACT-1.5 · Auditoría de hardware | Tarea | PDF | Individual |
 
 ## Configuración común recomendada
 

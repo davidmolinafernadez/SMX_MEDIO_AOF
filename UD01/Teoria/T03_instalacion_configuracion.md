@@ -18,4 +18,4 @@ Se demostrará el mismo objetivo en LibreOffice y Microsoft 365. Cambia la inter
 
 ## Taller guiado
 
-Completa `Recursos/CHECKLIST_PUESTO.md` durante la instalación. Solo las evidencias significativas pasan a A01.
+Completa `Recursos/CHECKLIST_PUESTO.md` durante la instalación. Solo las evidencias significativas pasan a ACT-1.1.

@@ -24,4 +24,4 @@ Precio, licencia y acceso al código son dimensiones diferentes. Un programa lib
 
 La IA orienta, pero la afirmación final se contrasta con la fuente oficial. La matriz empresarial incluye necesidad, producto, alternativa, licencia, coste, compatibilidad, fuente y decisión.
 
-Fuentes iniciales: [LibreOffice](https://www.libreoffice.org/about-us/licenses/), [GIMP](https://www.gimp.org/docs/userfaq.html#is-gimp-free) y [Choose a License](https://choosealicense.com/). Los precios y planes deben revisarse al realizar A02.
+Fuentes iniciales: [LibreOffice](https://www.libreoffice.org/about-us/licenses/), [GIMP](https://www.gimp.org/docs/userfaq.html#is-gimp-free) y [Choose a License](https://choosealicense.com/). Los precios y planes deben revisarse al realizar ACT-1.2.
