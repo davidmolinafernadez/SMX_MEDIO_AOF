@@ -38,3 +38,8 @@ Consulta la [rúbrica común](ud01-rubrica.md) y el [control práctico individua
 ## Hito final
 
 Cada integrante deja su puesto comprobado y conserva en el portfolio sus cinco entregas. La pareja incorpora al proyecto troncal únicamente las decisiones comunes: software adoptado, política de formatos y necesidades de mejora.
+
+[Comparar con la solución de NexoByte para UD01](../ejemplo/ud01.md){ .md-button .md-button--primary }
+
+!!! warning "Primero, tu propia solución"
+    Consulta el modelo cuando lo indique el profesorado. La comparación sirve para revisar calidad y justificar decisiones, no para copiar nombres, datos, textos o capturas.

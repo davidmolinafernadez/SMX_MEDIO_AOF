@@ -31,3 +31,12 @@ NexoByte Servicios Digitales es el modelo de referencia del curso. No pretende s
 
 !!! info "Uso didáctico"
     El profesorado muestra primero el problema y una parte del modelo. El producto completo se abre durante la revisión o después del primer borrador. Cada equipo utiliza nombre, datos, diseño y decisiones diferentes.
+
+## Cómo utilizar el ejemplo
+
+1. Realiza primero tu decisión o borrador sin copiar NexoByte.
+2. Abre la unidad equivalente y compara estructura, claridad, pruebas y coherencia.
+3. Anota qué mantendrías, qué mejorarías y por qué tu propuesta es distinta.
+4. Conserva tus propios nombres, datos, imágenes, colores y capturas.
+
+Cada página contiene una solución enlazada con las actividades de esa unidad. El modelo crece de forma lineal: ningún producto aparece aislado y todos reutilizan decisiones anteriores.

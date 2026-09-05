@@ -61,3 +61,8 @@ Revisar otro manual con al menos ocho mejoras sustantivas y comentarios profesio
 **Pesos de refuerzo:** RA2.e 40%, RA2.f 60%.
 
 **Hito A/B:** A1 común antes de iniciar A2; intercambio A4 entre equipos con protocolo idéntico.
+
+[Comparar con la solución documental de NexoByte](../ejemplo/ud02.md){ .md-button .md-button--primary }
+
+!!! warning "Primero, tu propio borrador"
+    El modelo se abre durante la revisión o cuando lo indique el profesorado. Tu empresa debe conservar una identidad, contenido y decisiones propias.
