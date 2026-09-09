@@ -19,3 +19,7 @@ Observar sin ayudar. Registrar puntos de bloqueo, tiempo, errores y revisión re
 ## Proyecto final · Solución + formación · 2 h de cierre
 
 Entregar base de datos de UD04, ayuda escrita y vídeo. Defensa individual y demostración. Pesos: solución 30%, tutorial 30%, prueba 15%, integración 10%, defensa 15%.
+
+## PROY-6 · Formación al cliente · Pareja de dos
+
+Elegir una operación real de PROY-4 y producir una guía visual y un videotutorial subtitulado con la identidad de PROY-5. Otra pareja intenta completar la tarea sin ayuda y se documenta la mejora. Ambos integrantes deben aparecer en el registro de producción y defender individualmente una decisión de guion o edición.

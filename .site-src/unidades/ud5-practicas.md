@@ -21,3 +21,7 @@ Organizar originales, exportaciones optimizadas y guía de usos correctos/incorr
 Simplificar el logo en SVG, validar modelo STL/3MF, laminar con perfil autorizado, estimar gramos/tiempo/coste e imprimir placa o llavero. Comparar pieza y modelo; documentar defecto y mejora.
 
 **CA principal:** RA5.a–e. La fabricación 3D amplía el encargo sin sustituir la adquisición y edición de imagen.
+
+## PROY-5 · Identidad, campaña y logo 3D · Pareja de dos
+
+Crear el sistema visual común de la empresa: logo, cartel, banner, tarjeta/firma, guía de uso y versión simplificada para placa o llavero 3D. La entrega conserva fuentes, licencias, originales, exportaciones y laminado. Los dos integrantes alternan diseño y control de calidad y defienden una decisión técnica individualmente.

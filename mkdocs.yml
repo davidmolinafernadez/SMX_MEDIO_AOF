@@ -48,9 +48,11 @@ extra_css:
   - assets/stylesheets/extra.css
 extra_javascript:
   - assets/javascripts/unit-progress.js
+  - assets/javascripts/modo-clase.js
 nav:
   - Inicio: index.md
   - Cómo trabajaremos: metodologia.md
+  - Proyecto de empresa en pareja: proyecto-empresa.md
   - Evaluación: evaluacion.md
   - Calendario: calendario.md
   - Recursos y videotutoriales: recursos.md

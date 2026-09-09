@@ -17,3 +17,7 @@
 5. Votar y completar la ficha fundacional.
 
 **Entrega:** foto de la pizarra, ficha provisional y pitch. Se recuperará en UD02 para convertirla en documento profesional.
+
+## PROY-0 · Fundamos la empresa · Pareja de dos
+
+Crear una única ficha fundacional con nombre, necesidad, cliente, tres o cuatro servicios, valores, reparto inicial de roles, árbol de carpetas y pitch de 30 segundos. Ambos integrantes defienden una decisión. Este producto abre el portfolio anual y se reutiliza en todas las unidades.

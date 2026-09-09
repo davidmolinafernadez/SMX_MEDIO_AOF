@@ -15,3 +15,7 @@ Firma compatible con la identidad de UD02 y tres respuestas rápidas: horario, p
 ## Proyecto integrador · Puesta en marcha de un cliente · 3 h
 
 Configurar un equipo, crear dossier de bienvenida y gestionar el hilo de comunicación hasta la reunión de entrega. Pesos: RA1 25%, RA2 25%, RA8 25%, integración 25%. Defensa individual obligatoria.
+
+## PROY-8 · Entrega y seguimiento · Pareja de dos
+
+Cerrar el proyecto anual mediante correo profesional, firma, contactos, filtros, calendario compartido, convocatoria de formación y dossier enlazado con los productos PROY-0 a PROY-7. La pareja entrega una evidencia común sin datos reales; cada integrante responde individualmente un correo o modifica una convocatoria planteada por el profesorado.

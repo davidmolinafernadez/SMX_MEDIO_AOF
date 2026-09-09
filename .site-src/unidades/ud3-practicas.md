@@ -21,3 +21,7 @@ Detectar fórmulas frágiles, proteger zonas, capturar un código o imagen, grab
 ## Prueba individual · 40 min
 
 Reparar referencias y funciones de un libro; añadir gráfico adecuado y explicar por qué otro gráfico induciría a error.
+
+## PROY-3 · Cuadro de control de la empresa · Pareja de dos
+
+Integrar presupuesto, inventario, gastos e indicadores en un libro común con panel de gerencia y batería de pruebas. Debe utilizar la plantilla visual de PROY-2 y actualizarse al cambiar datos. Ambos integrantes explican fórmulas y cada uno resuelve una modificación distinta en directo.

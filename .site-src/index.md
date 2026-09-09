@@ -7,6 +7,7 @@
       <a class="primary" href="unidades/ud0/">Fundar la empresa</a>
       <a class="secondary" href="unidades/ud1/">Empezar UD01</a>
       <a class="secondary" href="metodologia/">Cómo funciona el curso</a>
+      <a class="secondary" href="proyecto-empresa/">Proyecto en pareja</a>
     </div>
   </div>
 </section>
@@ -15,7 +16,7 @@
   <div class="stat-card"><strong>224 h</strong><span>189 h en centro + 35 h en empresa</span></div>
   <div class="stat-card"><strong>9 RA</strong><span>con trazabilidad curricular</span></div>
   <div class="stat-card"><strong>8 + FFE</strong><span>unidades y formación en empresa</span></div>
-  <div class="stat-card"><strong>3 proyectos</strong><span>integradores con defensa</span></div>
+  <div class="stat-card"><strong>9 hitos</strong><span>un proyecto lineal en parejas</span></div>
 </div>
 
 ## El contenido oficial dirige el recorrido

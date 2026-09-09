@@ -6,7 +6,7 @@
 - **Módulo:** 0223 · Aplicaciones Ofimáticas.
 - **Curso:** 1.º.
 - **Carga planificada:** 224 horas: 189 en el centro y 35 vinculadas al periodo de formación en empresa.
-- **Metodología:** empresa simulada, aprendizaje basado en encargos y tres proyectos integradores.
+- **Metodología:** empresa simulada, actividades individuales y un proyecto lineal en parejas con nueve hitos, uno por unidad.
 
 La atribución de 35 horas a empresa responde a cinco semanas por las 7 horas semanales del módulo. Debe confirmarse en el plan dual anual del centro; cualquier ajuste mantiene invariable la duración curricular total de 224 horas.
 

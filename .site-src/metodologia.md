@@ -4,6 +4,8 @@
 
 Durante todo el año la clase funciona como una empresa de servicios digitales. Cada unidad representa una etapa de crecimiento: aparece una necesidad profesional, se aprenden las herramientas necesarias y se entrega un producto que continuará utilizándose.
 
+La empresa está formada por **dos alumnos**. En cada unidad realizan actividades individuales y cierran un hito grupal `PROY-n`. [Consulta la secuencia completa del proyecto](proyecto-empresa.md).
+
 | Etapa | Rol del alumnado | Tipo de ayuda |
 | --- | --- | --- |
 | 1. Fundación | Técnico/a júnior | Modelos, demostraciones y listas de control |
@@ -54,6 +56,10 @@ Antes de entregar se ejecutan pruebas: abrir en otro equipo, modificar datos, co
 ### 6. Entrega y defensa
 
 El producto puede ser colectivo; la acreditación del aprendizaje es individual. Cada alumno muestra una operación, explica una decisión y responde a una variación del caso.
+
+## Modo clase
+
+El botón flotante **Modo clase** oculta los laterales, ensancha el contenido y aumenta la tipografía para proyectar las explicaciones. Se activa también con `M`; `Esc` devuelve la vista normal. El estado se conserva al avanzar a otra página.
 
 ## Roles rotatorios
 

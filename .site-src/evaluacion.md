@@ -45,7 +45,7 @@ Pueden realizarse con documentación de consulta. Se evalúa la capacidad de apl
 
 ## Proyectos de equipo y nota individual
 
-Cada proyecto incluye producto común, registro de contribuciones, evidencia individual y defensa. La nota individual puede diferir cuando las evidencias muestran niveles distintos de participación o dominio.
+Cada unidad combina actividades `ACT-n.n` individuales con un hito `PROY-n` entregado por la pareja. El proyecto incluye producto común, registro de contribuciones, evidencia individual y defensa o modificación. La nota individual puede diferir cuando las evidencias muestran niveles distintos de participación o dominio. El proyecto grupal no compensa la ausencia de las actividades individuales necesarias para acreditar un RA.
 
 ## Recuperación
 
@@ -53,4 +53,3 @@ La recuperación se diseña por RA o CA pendiente. Puede consistir en reparar un
 
 !!! info "Condición de superación"
     Una nota alta en un RA no sustituye la ausencia de evidencia en otro. Todos los RA deben quedar acreditados conforme a la programación del departamento.
-
