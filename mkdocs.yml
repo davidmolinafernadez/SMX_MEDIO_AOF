@@ -46,9 +46,10 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 extra_css:
   - assets/stylesheets/extra.css
+  - assets/stylesheets/modo-clase-v2.css
 extra_javascript:
   - assets/javascripts/unit-progress.js
-  - assets/javascripts/modo-clase.js
+  - assets/javascripts/modo-clase-v2.js
 nav:
   - Inicio: index.md
   - Cómo trabajaremos: metodologia.md
