@@ -23,3 +23,5 @@ Propuesta comercial completa: datos RA3 25%, material RA5 25%, presentación RA7
 ## PROY-7 · Defendemos nuestra empresa · Pareja de dos
 
 Crear una presentación comercial que integre problema, solución, datos de PROY-3, funcionamiento de PROY-4, identidad de PROY-5 y formación de PROY-6. La pareja comparte archivo y relato, pero cada integrante presenta una parte equivalente y responde individualmente a una variación del cliente.
+
+[Abrir el enunciado completo de PROY-7](proy-7.md){ .md-button .md-button--primary }

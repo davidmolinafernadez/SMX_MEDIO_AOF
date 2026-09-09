@@ -25,3 +25,5 @@ Simplificar el logo en SVG, validar modelo STL/3MF, laminar con perfil autorizad
 ## PROY-5 · Identidad, campaña y logo 3D · Pareja de dos
 
 Crear el sistema visual común de la empresa: logo, cartel, banner, tarjeta/firma, guía de uso y versión simplificada para placa o llavero 3D. La entrega conserva fuentes, licencias, originales, exportaciones y laminado. Los dos integrantes alternan diseño y control de calidad y defienden una decisión técnica individualmente.
+
+[Abrir el enunciado completo de PROY-5](proy-5.md){ .md-button .md-button--primary }

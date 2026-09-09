@@ -25,3 +25,5 @@ Otro equipo realiza cinco tareas sin ayuda. Cada fallo se convierte en un caso d
 ## PROY-4 · Gestión de clientes e incidencias · Pareja de dos
 
 Transformar los datos de PROY-3 en una base común con clientes, servicios e incidencias: modelo relacionado, tablas, consultas, formulario, informe y prueba de aceptación cruzada. Se entrega una base por empresa; cada integrante crea o corrige individualmente una consulta o una operación de mantenimiento.
+
+[Abrir el enunciado completo de PROY-4](proy-4.md){ .md-button .md-button--primary }

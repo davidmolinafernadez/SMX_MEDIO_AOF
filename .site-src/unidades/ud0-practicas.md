@@ -21,3 +21,5 @@
 ## PROY-0 · Fundamos la empresa · Pareja de dos
 
 Crear una única ficha fundacional con nombre, necesidad, cliente, tres o cuatro servicios, valores, reparto inicial de roles, árbol de carpetas y pitch de 30 segundos. Ambos integrantes defienden una decisión. Este producto abre el portfolio anual y se reutiliza en todas las unidades.
+
+[Abrir el enunciado completo de PROY-0](proy-0.md){ .md-button .md-button--primary }

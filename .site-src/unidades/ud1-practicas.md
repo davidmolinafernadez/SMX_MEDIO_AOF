@@ -28,3 +28,5 @@ Se publican **cinco tareas**, exactamente con los códigos y títulos mostrados 
 ## PROY-1 · Abrimos nuestros puestos · Pareja de dos
 
 Integrar las decisiones individuales en un dossier común de los dos puestos: inventario, aplicaciones elegidas, licencias, política ODF/OOXML/PDF, configuración compartida, pruebas de aceptación y protocolo de incidencias. Se entrega una carpeta por empresa; cada integrante demuestra una instalación o resuelve una variación individual.
+
+[Abrir el enunciado completo de PROY-1](proy-1.md){ .md-button .md-button--primary }

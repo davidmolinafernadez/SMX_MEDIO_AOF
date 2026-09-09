@@ -19,3 +19,5 @@ Configurar un equipo, crear dossier de bienvenida y gestionar el hilo de comunic
 ## PROY-8 · Entrega y seguimiento · Pareja de dos
 
 Cerrar el proyecto anual mediante correo profesional, firma, contactos, filtros, calendario compartido, convocatoria de formación y dossier enlazado con los productos PROY-0 a PROY-7. La pareja entrega una evidencia común sin datos reales; cada integrante responde individualmente un correo o modifica una convocatoria planteada por el profesorado.
+
+[Abrir el enunciado completo de PROY-8](proy-8.md){ .md-button .md-button--primary }

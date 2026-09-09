@@ -23,3 +23,5 @@ Entregar base de datos de UD04, ayuda escrita y vídeo. Defensa individual y dem
 ## PROY-6 · Formación al cliente · Pareja de dos
 
 Elegir una operación real de PROY-4 y producir una guía visual y un videotutorial subtitulado con la identidad de PROY-5. Otra pareja intenta completar la tarea sin ayuda y se documenta la mejora. Ambos integrantes deben aparecer en el registro de producción y defender individualmente una decisión de guion o edición.
+
+[Abrir el enunciado completo de PROY-6](proy-6.md){ .md-button .md-button--primary }
