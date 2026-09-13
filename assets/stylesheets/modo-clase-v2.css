@@ -1,0 +1,15 @@
+.class-mode-button { position:fixed!important; right:1.2rem!important; bottom:1.2rem!important; width:auto!important; height:auto!important; min-width:0!important; max-width:13rem!important; z-index:100!important; display:inline-flex!important; gap:.5rem; align-items:center; padding:.65rem .9rem!important; border:0; border-radius:2rem!important; background:var(--md-primary-fg-color,#0b1f3a)!important; color:#fff!important; box-shadow:0 5px 18px rgba(0,0,0,.25); cursor:pointer; font:inherit; font-size:.78rem!important; font-weight:700; line-height:1.2!important; }
+.class-mode-button:hover, body.class-mode .class-mode-button { background:var(--md-accent-fg-color,#e84f3a)!important; }
+.class-mode-button svg { display:block!important; width:1.15rem!important; height:1.15rem!important; min-width:1.15rem; fill:currentColor; }
+body.class-mode .md-sidebar--primary, body.class-mode .md-sidebar--secondary, body.class-mode .md-tabs { display:none!important; }
+body.class-mode .md-main__inner { display:block; max-width:96rem; margin-inline:auto; }
+body.class-mode .md-content { max-width:none; margin:0; }
+body.class-mode .md-content__inner { max-width:84rem; margin-inline:auto; padding-inline:clamp(1rem,4vw,4rem); font-size:1.18rem; line-height:1.7; }
+body.class-mode .md-typeset h1 { font-size:2.6em; }
+body.class-mode .md-typeset h2 { font-size:1.75em; }
+@media (max-width:900px) {
+  body.class-mode .md-content__inner { font-size:1rem; padding-inline:1rem; }
+  body.class-mode .md-typeset h1 { font-size:2em; overflow-wrap:normal; word-break:normal; }
+  body.class-mode .md-typeset h2 { font-size:1.45em; }
+}
+@media (max-width:600px) { .class-mode-button span { display:none; } .class-mode-button { right:.75rem!important; bottom:.75rem!important; padding:.7rem!important; } }
