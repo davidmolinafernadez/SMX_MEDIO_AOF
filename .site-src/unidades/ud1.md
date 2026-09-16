@@ -96,6 +96,17 @@ Esta opción de respaldo permite ejecutar Windows y las aplicaciones de escritor
 
 ## Las cinco tareas de Aules
 
+## Material anterior que sí aprovechamos
+
+El PDF **«Aplicacions ofimàtiques i atenció a l'usuari» (IOC, 2019)** se utilizará como lectura de refuerzo para tipos de aplicaciones, licencias, planificación de instalaciones, incidencias y atención al usuario. No se seguirán literalmente sus pantallas de Windows 7 ni rutas de menús antiguas: en clase se demostrará el procedimiento actual en LliureX/LibreOffice y, cuando corresponda, en Microsoft 365.
+
+- [Ayuda actual de LibreOffice](https://help.libreoffice.org/latest/es/)
+- [Microsoft 365 para la Web: primeros pasos](https://support.microsoft.com/es-es/office/introducci%C3%B3n-a-office-para-la-web-en-microsoft-365-5622c7c9-721d-4b3d-8cb9-a7276c2470e5)
+- [Vídeo recomendado: qué es el software libre (TEDx, subtítulos disponibles)](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
+
+!!! info "Cómo leer un material antiguo"
+    Conserva conceptos, vocabulario, criterios y método de trabajo. Comprueba en la ayuda oficial la interfaz, la versión, los requisitos y los pasos antes de ejecutarlos.
+
 | Código | Actividad | Entrega individual | Tiempo |
 | --- | --- | --- | ---: |
 | ACT-1.1 | [Los ordenadores han llegado](ud01-actividad-1.md) | Informe de instalación | 4 h |
