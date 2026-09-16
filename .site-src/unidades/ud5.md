@@ -63,6 +63,11 @@ Solo el profesorado o la persona autorizada manipula boquilla, cama caliente, co
 - [Manual oficial de GIMP en español](https://docs.gimp.org/3.0/es/)
 - [FreeCAD en español](https://www.freecad.org/?lang=es) y [manual oficial](https://www.freecad.org/manual/a-freecad-manual.pdf)
 - [Introducción a la accesibilidad web del W3C](https://www.w3.org/WAI/fundamentals/accessibility-intro/es)
+- [Vídeos oficiales de GIMP](https://www.youtube.com/@GIMPOfficial/videos)
+
+### Uso del PDF anterior
+
+Del bloque de imagen de **«Imatge i vídeo. Presentacions» (IOC, 2019)** conservamos resolución, formatos, selección, capas, texto, transformaciones y exportación. Las pantallas de GIMP antiguas no se imitan paso a paso: el alumnado trabaja con GIMP 3 y contrasta cada herramienta con el manual actual. La fabricación 3D del logotipo es contenido nuevo del curso y no aparece en aquel PDF.
 
 [Abrir prácticas, pruebas y rúbrica de UD05](ud5-practicas.md){ .md-button .md-button--primary }
 
