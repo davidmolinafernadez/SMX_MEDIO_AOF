@@ -49,6 +49,10 @@ Todo dato incluye contexto, unidad, periodo y fuente. Las transiciones solo se u
 - [Trabajo con patrones de diapositivas](https://help.libreoffice.org/latest/es/text/simpress/01/03150000.html)
 - [Vídeo: primeros pasos en Impress](https://www.youtube.com/watch?v=9KHlZY6NxkY)
 
+### Uso del PDF anterior
+
+El bloque de presentaciones de **«Imatge i vídeo. Presentacions» (IOC, 2019)** sirve para estructura, patrones, objetos, transiciones y exportación. Se actualiza con criterios de relato, accesibilidad, fuentes, derechos y defensa oral; los menús se muestran tanto en Impress actual como en PowerPoint.
+
 [Abrir prácticas, pruebas y rúbrica de UD7](ud7-practicas.md){ .md-button .md-button--primary }
 
 !!! example "Explicación y demostración"
