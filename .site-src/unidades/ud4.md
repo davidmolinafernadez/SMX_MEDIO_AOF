@@ -47,6 +47,11 @@ Antes de crear una consulta se escribe la pregunta en lenguaje natural: «¿qué
 - [Ayuda oficial de LibreOffice Base](https://help.libreoffice.org/latest/es/text/sdatabase/main.html)
 - [Relaciones entre tablas](https://help.libreoffice.org/latest/es/text/sdatabase/05020000.html)
 - [Consultas en bases de datos](https://help.libreoffice.org/latest/es/text/sdatabase/02010100.html)
+- [Vídeo actual: consultas en LibreOffice Base](https://mediateca.educa.madrid.org/video/s528b4ph6jsfeza2)
+
+### Uso del PDF anterior
+
+**«Bases de dades» (IOC, 2019)** es aprovechable en modelo relacional, tablas, claves, relaciones, consultas, formularios, informes e integración. Las capturas y asistentes pueden diferir de la versión actual; por eso se asignarán páginas concretas como lectura y el procedimiento se demostrará de nuevo en Base y Access.
 
 [Abrir prácticas, pruebas y rúbrica de UD04](ud4-practicas.md){ .md-button .md-button--primary }
 
