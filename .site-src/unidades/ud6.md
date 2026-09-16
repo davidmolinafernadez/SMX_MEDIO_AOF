@@ -48,8 +48,13 @@ El archivo final se prueba en otro dispositivo. Debe conservar legibilidad, audi
 ## Recursos de apoyo
 
 - [Guía oficial de inicio de OBS Studio](https://obsproject.com/kb/quick-start-guide)
+- [Inicio rápido y videotutoriales de Kdenlive](https://docs.kdenlive.org/es/getting_started.html)
 - [Vídeo: grabación de pantalla con OBS](https://www.youtube.com/watch?v=xoe9ZOzlfnQ)
 - [Accesibilidad de audio y vídeo, W3C](https://www.w3.org/WAI/media/av/)
+
+### Uso del PDF anterior
+
+Del bloque audiovisual de **«Imatge i vídeo. Presentacions» (IOC, 2019)** solo se reutilizan guion, formatos, captura, edición básica y exportación. Códecs, resoluciones, menús y programas se verifican con OBS y Kdenlive actuales. El tutorial de empresa, los subtítulos y la prueba con usuarios se desarrollan con los materiales propios de esta UD.
 
 [Abrir prácticas, pruebas y rúbrica de UD06](ud6-practicas.md){ .md-button .md-button--primary }
 
