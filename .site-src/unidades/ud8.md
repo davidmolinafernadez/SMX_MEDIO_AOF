@@ -53,6 +53,12 @@ Se usa la ayuda oficial del proveedor configurado por el centro para cuentas, fi
 
 - [Guía de seguridad del correo de INCIBE](https://www.incibe.es/ciudadania/tematicas/correo-electronico)
 - [Ayuda oficial de Thunderbird](https://support.mozilla.org/es/products/thunderbird)
+- [Primeros pasos con Thunderbird](https://support.mozilla.org/es/kb/primeros-pasos-con-thunderbird)
+- [Vídeos oficiales de Microsoft 365](https://www.youtube.com/@Microsoft365/videos)
+
+### Uso del PDF anterior
+
+**«Gestió de correu i agenda electrònica» (IOC, 2019)** conserva valor para protocolos, estructura del mensaje, organización, contactos, calendarios y copias. Se descartan los recorridos visuales de Windows XP y clientes antiguos. La práctica actual se realiza con Thunderbird y el servicio institucional/Microsoft 365, incorporando phishing, 2FA, permisos de calendario y protección de datos.
 
 [Abrir prácticas, proyecto y rúbrica de UD08](ud8-practicas.md){ .md-button .md-button--primary }
 
