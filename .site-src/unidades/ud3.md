@@ -45,7 +45,11 @@ Un panel no es una colección de colores. Cada indicador responde una pregunta d
 
 - [Ayuda oficial de LibreOffice Calc](https://help.libreoffice.org/latest/es/text/scalc/guide/main.html)
 - [Listado de funciones por categoría](https://help.libreoffice.org/latest/es/text/scalc/01/04060100.html)
-- [Vídeo: fórmulas básicas en Calc](https://www.youtube.com/watch?v=cZfmGsitxF0)
+- [Vídeo: introducción práctica a Calc, referencias y fórmulas](https://www.youtube.com/watch?v=jQEa2mCoq3Y)
+
+### Atención: el supuesto PDF de hojas de cálculo
+
+El archivo entregado como **«Tema 4 · Fulls de càlcul»** no corresponde a Calc: contiene *Electricitat a l'ordinador* del módulo de Montaje y mantenimiento de equipos. **No se repartirá ni se usará en esta UD.** La teoría se apoyará en la ayuda oficial anterior, los ejemplos de la empresa y las demostraciones paralelas en Calc y Excel.
 
 [Abrir prácticas, pruebas y rúbrica de UD03](ud3-practicas.md){ .md-button .md-button--primary }
 
