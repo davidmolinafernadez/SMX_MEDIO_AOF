@@ -52,6 +52,11 @@ Revisar otro manual con al menos ocho mejoras sustantivas y comentarios profesio
 - [Plantillas y estilos de Writer](https://help.libreoffice.org/latest/es/text/swriter/guide/templates_styles.html)
 - [Administrador de plantillas](https://help.libreoffice.org/latest/es/text/shared/guide/template_manager.html)
 - [Ayuda oficial de Writer](https://help.libreoffice.org/latest/es/text/swriter/guide/main.html)
+- [Vídeo-taller: estilos y plantillas en Writer](https://www.youtube.com/watch?v=XnMXkAqRC6s)
+
+### Uso del PDF anterior
+
+**«Processadors de text» (IOC, 2019)** sigue siendo útil para estilos, plantillas, tablas, índices, revisión, combinación de correspondencia y macros. Se omiten las instrucciones ligadas a OpenOffice y se rehacen las demostraciones con LibreOffice Writer actual y Word para la Web/escritorio. El PDF será material de consulta por apartados, no un manual para seguir de principio a fin.
 
 [Abrir prácticas, control y rúbrica de UD02](ud2-practicas.md){ .md-button .md-button--primary }
 
