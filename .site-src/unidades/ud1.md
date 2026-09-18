@@ -123,7 +123,7 @@ Consulta la [rúbrica común](ud01-rubrica.md) y el [control práctico individua
 
 ## Hito final
 
-Cada integrante deja su puesto comprobado y conserva en el portfolio sus cinco entregas. La pareja incorpora al proyecto troncal únicamente las decisiones comunes: software adoptado, política de formatos y necesidades de mejora.
+Cada integrante deja su puesto comprobado y conserva en el portfolio sus cinco entregas. Después, sin modificar ACT-1.1, la pareja crea formalmente su empresa en PROY-1, compara los dos equipos e incorpora las decisiones comunes: servicios, roles, software, licencias, política de formatos, configuración y necesidades de mejora.
 
 [Comparar con la solución de NexoByte para UD01](../ejemplo/ud01.md){ .md-button .md-button--primary }
 

@@ -24,9 +24,9 @@ En sesiones de dos horas, el segundo bloque se dedica a producción autónoma, r
 
 ## Guion por unidades
 
-### UD00 · Proyecto de empresa
+### UD00 · Preparación e ideación
 
-**Explicación docente:** qué es un briefing, diferencia entre empresa y proyecto, servicios realistas, cliente, identidad y roles. Se muestra la empresa resuelta NexoByte y se analiza qué decisiones son concretas y cuáles son demasiado vagas.
+**Explicación docente:** qué es un briefing, diferencia entre empresa y proyecto, servicios realistas, cliente, identidad y roles. Se muestran ideas posibles de NexoByte para aprender a concretar, pero la empresa del alumnado no se constituye hasta PROY-1, después de las evidencias individuales de UD01.
 
 **Demostración:** transformar «hacemos cosas de informática» en una propuesta verificable: «configuramos puestos y creamos documentación y soporte para comercios locales».
 

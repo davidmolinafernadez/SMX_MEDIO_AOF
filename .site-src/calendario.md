@@ -4,7 +4,7 @@
 
 | Periodo orientativo | Unidad o fase | Horas | Hito común A/B |
 | --- | --- | ---: | --- |
-| Septiembre | UD00–UD01 | 16 | Empresa fundada y suites instaladas |
+| Septiembre | UD00–UD01 | 16 | Diagnóstico, actividades individuales y fundación en PROY-1 |
 | Octubre–noviembre | UD02 | 39 | Sistema documental corporativo |
 | Diciembre–febrero | UD03 | 34 | Libro de cálculo y panel de gerencia |
 | Febrero–marzo | UD04 | 28 | Base de clientes e incidencias |

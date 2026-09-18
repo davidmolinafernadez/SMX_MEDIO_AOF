@@ -63,7 +63,7 @@ nav:
       - Equivalencias de software: profesorado/equivalencias-software.md
   - Empresa ejemplo · NexoByte:
       - Visión general: ejemplo/index.md
-      - UD00 · Fundación: ejemplo/ud00.md
+      - UD00 · Idea previa: ejemplo/ud00.md
       - UD01 · Suites ofimáticas: ejemplo/ud01.md
       - UD02 · Procesadores de texto: ejemplo/ud02.md
       - UD03 · Hojas de cálculo: ejemplo/ud03.md
@@ -73,10 +73,10 @@ nav:
       - UD07 · Presentaciones: ejemplo/ud07.md
       - UD08 · Correo y agenda: ejemplo/ud08.md
       - Empresa · RA9 Soporte: ejemplo/ra9.md
-  - UD00 · Proyecto de empresa:
+  - UD00 · Preparación:
       - Contexto y contenidos: unidades/ud0.md
       - Prácticas y evaluación: unidades/ud0-practicas.md
-      - PROY-0 · Entrega en pareja: unidades/proy-0.md
+      - Taller previo · Sin calificación: unidades/proy-0.md
   - UD01 · Suites ofimáticas — Preparamos los puestos:
       - Contexto y contenidos: unidades/ud1.md
       - 0. Entorno, archivos y mecanografía: unidades/ud01-teoria-0.md

@@ -2,7 +2,7 @@
 
 ## Regla para Aules
 
-Se publican **cinco tareas**, exactamente con los códigos y títulos mostrados aquí. Cada alumno entrega su propio archivo. La empresa se trabaja en pareja, pero no se realizan entregas conjuntas en esta unidad.
+Se publican **cinco tareas individuales**, exactamente con los códigos y títulos mostrados aquí. Cada alumno entrega su propio archivo. Al terminar las evidencias individuales, se abre una tarea distinta de pareja para `PROY-1`.
 
 | Tarea de Aules | Archivo solicitado | Evidencia principal |
 | --- | --- | --- |
@@ -23,10 +23,10 @@ Se publican **cinco tareas**, exactamente con los códigos y títulos mostrados 
 - [Consultar control práctico](ud01-control.md)
 
 !!! info "Proyecto troncal en parejas"
-    Los dos integrantes pueden acordar las necesidades y políticas de su empresa. Después, cada uno demuestra individualmente que sabe aplicarlas y justificarlas.
+    Primero trabaja cada persona. Después, la pareja compara ambas versiones, crea la empresa desde cero y transforma las conclusiones en decisiones comunes. El proyecto no reemplaza ninguna entrega ACT.
 
-## PROY-1 · Abrimos nuestros puestos · Pareja de dos
+## PROY-1 · Nace la empresa y abrimos sus puestos · Pareja de dos
 
-Integrar las decisiones individuales en un dossier común de los dos puestos: inventario, aplicaciones elegidas, licencias, política ODF/OOXML/PDF, configuración compartida, pruebas de aceptación y protocolo de incidencias. Se entrega una carpeta por empresa; cada integrante demuestra una instalación o resuelve una variación individual.
+Crear una sola empresa y abrir su carpeta anual. La pareja integra los dos equipos y las conclusiones de ACT-1.1 a ACT-1.5 en una ficha fundacional, inventario comparado, política de software/licencias/formatos, configuración común, pruebas y protocolo de incidencias. Cada integrante demuestra una operación o resuelve una variación individual.
 
 [Abrir el enunciado completo de PROY-1](proy-1.md){ .md-button .md-button--primary }

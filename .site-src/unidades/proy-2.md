@@ -4,7 +4,11 @@
 
 ## Encargo
 
-Convertir la identidad de PROY-0 y la política de formatos de PROY-1 en documentos reutilizables por la empresa.
+Convertir la ficha fundacional y la política de formatos de PROY-1 en documentos reutilizables por la empresa.
+
+## Punto de partida obligatorio
+
+Abrir `EMPRESA_EquipoXX` de PROY-1. Se mantienen nombre, actividad, cliente, servicios, roles, puestos y políticas. La pareja incorpora las mejores soluciones de sus actividades individuales de UD02 y registra por qué adopta cada una.
 
 ## Trabajo obligatorio
 
@@ -16,6 +20,11 @@ Crear una plantilla corporativa, carta comercial, presupuesto, manual para un cl
 - Fuentes editables ODT/DOCX y plantilla OTT/DOTX.
 - PDF final de cada documento.
 - Guía de estilo y registro de revisión/contribuciones.
+- Ficha de empresa y registro de decisiones actualizados a la versión 2.
+
+## Conexión con el siguiente hito
+
+El presupuesto y la identidad documental serán la base visual y económica de PROY-3. No se crean datos comerciales que contradigan la ficha de la empresa.
 
 ## Defensa individual
 

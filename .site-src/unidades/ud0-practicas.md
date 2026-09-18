@@ -8,18 +8,18 @@
 
 ## P0.2 · El registro mercantil de la clase · 1 h
 
-**Briefing:** antes de atender clientes, la empresa necesita nombre, propósito, servicios, valores y organización.
+**Briefing:** antes de decidir la empresa definitiva, la pareja explora necesidades, nombres, servicios, valores y formas de organización.
 
 1. Detectar necesidades digitales del entorno.
 2. Proponer por parejas nombre y eslogan.
 3. Comprobar pronunciación, respeto y posible conflicto con marcas.
 4. Defender la propuesta en 30 segundos.
-5. Votar y completar la ficha fundacional.
+5. Comparar ideas y anotar qué información falta antes de decidir.
 
-**Entrega:** foto de la pizarra, ficha provisional y pitch. Se recuperará en UD02 para convertirla en documento profesional.
+**Evidencia diagnóstica:** foto de la pizarra, ficha provisional y pitch. No se califica ni obliga a mantener esa idea.
 
-## PROY-0 · Fundamos la empresa · Pareja de dos
+## Taller previo · Ideamos posibles empresas · Pareja de dos
 
-Crear una única ficha fundacional con nombre, necesidad, cliente, tres o cuatro servicios, valores, reparto inicial de roles, árbol de carpetas y pitch de 30 segundos. Ambos integrantes defienden una decisión. Este producto abre el portfolio anual y se reutiliza en todas las unidades.
+Preparar dos ideas posibles con necesidad, cliente, servicios, valores y riesgos técnicos. Este borrador ayuda a PROY-1, pero no abre todavía el portfolio anual ni constituye una entrega grupal evaluable.
 
-[Abrir el enunciado completo de PROY-0](proy-0.md){ .md-button .md-button--primary }
+[Abrir el taller previo](proy-0.md){ .md-button .md-button--primary }

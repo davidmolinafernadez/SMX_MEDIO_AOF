@@ -22,6 +22,6 @@ Reparar un documento con estilos manuales, índice roto, imagen inestable y camb
 
 ## PROY-2 · Sistema documental de la empresa · Pareja de dos
 
-Construir el paquete documental común: plantilla corporativa, carta comercial, presupuesto, manual para un cliente y guía breve de estilo. Se reutilizan identidad de PROY-0 y decisiones de formatos de PROY-1. La pareja entrega editables y PDF; cada integrante repara o modifica individualmente una parte elegida por el profesorado.
+Construir el paquete documental común: plantilla corporativa, carta comercial, presupuesto, manual para un cliente y guía breve de estilo. Se reutilizan la ficha fundacional y las decisiones de formatos de PROY-1. La pareja entrega editables y PDF; cada integrante repara o modifica individualmente una parte elegida por el profesorado.
 
 [Abrir el enunciado completo de PROY-2](proy-2.md){ .md-button .md-button--primary }

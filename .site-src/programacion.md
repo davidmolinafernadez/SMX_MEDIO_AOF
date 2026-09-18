@@ -6,7 +6,7 @@
 - **Módulo:** 0223 · Aplicaciones Ofimáticas.
 - **Curso:** 1.º.
 - **Carga planificada:** 224 horas: 189 en el centro y 35 vinculadas al periodo de formación en empresa.
-- **Metodología:** empresa simulada, actividades individuales y un proyecto lineal en parejas con nueve hitos, uno por unidad.
+- **Metodología:** empresa simulada, actividades individuales y un proyecto lineal en parejas con ocho hitos acumulativos, de PROY-1 a PROY-8.
 
 La atribución de 35 horas a empresa responde a cinco semanas por las 7 horas semanales del módulo. Debe confirmarse en el plan dual anual del centro; cualquier ajuste mantiene invariable la duración curricular total de 224 horas.
 
@@ -14,7 +14,7 @@ La atribución de 35 horas a empresa responde a cinco semanas por las 7 horas se
 
 | Evaluación | Evolución de la empresa | Unidades | Cierre |
 | --- | --- | --- | --- |
-| 1.ª | Nace, instala la suite y crea su sistema documental | UD00–UD02 y comienzo de UD03 | Dossier corporativo |
+| 1.ª | Explora ideas, funda la empresa, prepara sus puestos y crea su sistema documental | UD00–UD02 y comienzo de UD03 | Fundación, puestos y dossier corporativo |
 | 2.ª | Controla datos, clientes y operaciones | UD03–UD04 | Solución de gestión |
 | 3.ª | Construye marca, forma, presenta y comunica | UD05–UD08 | Propuesta final para un cliente |
 | Empresa | Presta soporte en un entorno productivo real | RA9 · 35 h | Valoración del tutor y evidencias |

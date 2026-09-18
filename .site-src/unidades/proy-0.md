@@ -1,10 +1,10 @@
-# PROY-0 · Fundamos la empresa
+# Taller previo · Ideamos posibles empresas
 
-**Entrega en Aules:** una por pareja · **Equipo:** exactamente 2 alumnos · **Producto:** carpeta fundacional.
+**No es una entrega evaluable del proyecto.** Es un taller de preparación que puede realizarse antes de PROY-1.
 
 ## Encargo
 
-Crear una empresa o proyecto digital que evolucionará durante todo el curso. Debe responder a una necesidad concreta y poder utilizar productos ofimáticos reales.
+Explorar posibles empresas o proyectos digitales antes de adoptar una decisión definitiva. La pareja podrá conservar, combinar o descartar estas ideas cuando constituya formalmente su empresa en PROY-1.
 
 ## Trabajo obligatorio
 
@@ -13,12 +13,12 @@ Crear una empresa o proyecto digital que evolucionará durante todo el curso. De
 3. Repartir los primeros roles y crear el árbol de carpetas anual.
 4. Preparar un pitch de 30 segundos y revisar la propuesta.
 
-## Entrega de la pareja
+## Resultado de trabajo
 
-- `PROY-0_EquipoXX_Ficha_fundacional.pdf`.
-- Árbol de carpetas comprimido o captura verificable.
-- Registro con aportación y rol de cada integrante.
+- Borrador no evaluable con dos posibles ideas.
+- Preguntas que todavía deben resolverse con las actividades de UD01.
+- Lista de riesgos o necesidades técnicas que deberán comprobarse.
 
 ## Defensa individual
 
-Cada integrante explica una decisión y propone una mejora sin ayuda de su compañero. Se acepta cuando la empresa es concreta, coherente y reutilizable en las unidades posteriores.
+Cada integrante explica una idea y señala qué datos necesita antes de decidir. La empresa definitiva, su carpeta y sus roles se crean en PROY-1.

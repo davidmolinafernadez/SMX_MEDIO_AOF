@@ -4,7 +4,7 @@
     <h1>Tu primer trabajo empieza aquí</h1>
     <p>Aprenderás cada aplicación mientras una empresa de servicios digitales nace, crece, consigue clientes y entrega soluciones.</p>
     <div class="hero-actions">
-      <a class="primary" href="unidades/ud0/">Fundar la empresa</a>
+      <a class="primary" href="unidades/ud1/">Comenzar UD01</a>
       <a class="secondary" href="unidades/ud1/">Empezar UD01</a>
       <a class="secondary" href="metodologia/">Cómo funciona el curso</a>
       <a class="secondary" href="proyecto-empresa/">Proyecto en pareja</a>
@@ -16,7 +16,7 @@
   <div class="stat-card"><strong>224 h</strong><span>189 h en centro + 35 h en empresa</span></div>
   <div class="stat-card"><strong>9 RA</strong><span>con trazabilidad curricular</span></div>
   <div class="stat-card"><strong>8 + FFE</strong><span>unidades y formación en empresa</span></div>
-  <div class="stat-card"><strong>9 hitos</strong><span>un proyecto lineal en parejas</span></div>
+  <div class="stat-card"><strong>8 hitos</strong><span>una empresa lineal en parejas</span></div>
 </div>
 
 ## El contenido oficial dirige el recorrido
@@ -25,7 +25,7 @@ El nombre principal de cada unidad identifica el contenido ofimático. El subtí
 
 ```mermaid
 flowchart LR
-  U0["UD00 · Proyecto de empresa"] --> U1["UD01 · Suites ofimáticas"]
+  U0["UD00 · Preparación e ideas"] --> U1["UD01 · Suites y fundación"]
   U1 --> U2["UD02 · Procesadores de texto"]
   U2 --> U3["UD03 · Hojas de cálculo"]
   U3 --> U4["UD04 · Bases de datos"]
@@ -39,7 +39,7 @@ flowchart LR
 ## Unidades didácticas
 
 <div class="unit-grid">
-  <a class="unit-card" style="--unit-color:#22c9c3" href="unidades/ud0/"><span class="unit-code">UD00 · PROYECTO DE EMPRESA</span><b>Fundamos la empresa</b><small>Nombre, servicios, valores, roles y forma de trabajar.</small><span class="product">Ficha fundacional y pitch</span></a>
+  <a class="unit-card" style="--unit-color:#22c9c3" href="unidades/ud0/"><span class="unit-code">UD00 · PREPARACIÓN</span><b>Exploramos ideas de empresa</b><small>Diagnóstico, organización e ideas previas no definitivas.</small><span class="product">Borrador para PROY-1</span></a>
   <a class="unit-card" style="--unit-color:#25a4d8" href="unidades/ud1/"><span class="unit-code">UD01 · SUITES OFIMÁTICAS</span><b>Preparamos los puestos</b><small>Instalamos y documentamos software legal y seguro.</small><span class="product">Equipo operativo e informe</span></a>
   <a class="unit-card" style="--unit-color:#5375df" href="unidades/ud2/"><span class="unit-code">UD02 · PROCESADORES DE TEXTO</span><b>Creamos documentos corporativos</b><small>Construimos el sistema documental de la empresa.</small><span class="product">Plantilla, manual y guía</span></a>
   <a class="unit-card" style="--unit-color:#ec6b4e" href="unidades/ud3/"><span class="unit-code">UD03 · HOJAS DE CÁLCULO</span><b>Controlamos cuentas e inventario</b><small>Presupuesto, ventas, existencias e indicadores.</small><span class="product">Libro de gestión y panel</span></a>

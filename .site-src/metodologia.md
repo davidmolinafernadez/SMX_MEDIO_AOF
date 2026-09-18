@@ -4,7 +4,10 @@
 
 Durante todo el año la clase funciona como una empresa de servicios digitales. Cada unidad representa una etapa de crecimiento: aparece una necesidad profesional, se aprenden las herramientas necesarias y se entrega un producto que continuará utilizándose.
 
-La empresa está formada por **dos alumnos**. En cada unidad realizan actividades individuales y cierran un hito grupal `PROY-n`. [Consulta la secuencia completa del proyecto](proyecto-empresa.md).
+La empresa está formada por **dos alumnos** y se constituye formalmente en PROY-1. En cada unidad realizan primero actividades individuales y después cierran un hito grupal `PROY-n` utilizando las dos versiones como evidencia para decidir. [Consulta la secuencia completa del proyecto](proyecto-empresa.md).
+
+!!! info "Una sola empresa y una sola carpeta"
+    Cada nuevo hito abre la entrega anterior, actualiza su versión y añade un producto. No se empieza de cero, no se cambia de empresa y no se limitan a juntar los dos trabajos individuales.
 
 | Etapa | Rol del alumnado | Tipo de ayuda |
 | --- | --- | --- |
