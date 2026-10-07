@@ -12,7 +12,7 @@ UD00 queda como preparación, diagnóstico e ideación. No genera una empresa de
 | Evidencia | Autoría | Entrega | Finalidad |
 |---|---|---|---|
 | Actividades `ACT-unidad.número` | Individual | Un archivo por alumno en Aules | Comprobar procedimiento, autonomía y RA |
-| Proyecto `PROY-unidad` | Pareja fija de dos | Una carpeta/producto por empresa | Integrar las actividades y hacer evolucionar la empresa |
+| Proyecto `PROY-unidad` | Pareja fija de dos | Un único documento de proyecto por empresa | Integrar las actividades y hacer evolucionar la empresa |
 | Defensa del proyecto | Individual | Pregunta, demostración o modificación | Confirmar autoría y ajustar la nota individual |
 
 ## Evolución obligatoria
@@ -30,30 +30,22 @@ UD00 queda como preparación, diagnóstico e ideación. No genera una empresa de
 
 ## Condiciones comunes de cada hito
 
-1. Desde PROY-2 se abre la entrega anterior, se duplica como nueva versión y se amplía: no se empieza otra empresa ni una carpeta independiente.
+1. Desde PROY-2 se abre el documento entregado anteriormente, se duplica como nueva versión y se amplía: no se empieza otra empresa ni un documento independiente.
 2. Los roles de coordinación y control de calidad se alternan en cada unidad.
-3. La carpeta incluye fuente editable, versión entregable, registro de versiones y lista de comprobación.
+3. El documento incluye fuente editable, versión entregable, registro de versiones y lista de comprobación.
 4. Cada integrante identifica su contribución y debe poder explicar y modificar cualquier parte esencial.
 5. Cada hito identifica qué conclusiones de las actividades individuales se compararon y qué decisión conjunta se adoptó.
 6. Si falta una actividad individual, el proyecto grupal no sustituye esa evidencia.
 7. Si el producto común es excelente pero un integrante no demuestra dominio, su calificación individual puede ser diferente.
 
-## Carpeta única y versiones
+## Documento único y versiones
 
 ```text
-EMPRESA_EquipoXX/
-├── 00_Gestion/              # ficha, roles, decisiones y versiones
-├── 01_Puestos/              # PROY-1
-├── 02_Documentos/           # PROY-2
-├── 03_Control/              # PROY-3
-├── 04_Base_datos/           # PROY-4
-├── 05_Identidad/            # PROY-5
-├── 06_Formacion/             # PROY-6
-├── 07_Presentacion/          # PROY-7
-└── 08_Entrega_seguimiento/   # PROY-8 y dossier final
+EMPRESA_EquipoXX.odt
+EMPRESA_EquipoXX.pdf
 ```
 
-En `00_Gestion` se mantiene `FICHA_EMPRESA.pdf`, `REGISTRO_DECISIONES.md`, `CONTRIBUCIONES.md` y `CONTROL_VERSIONES.md`. Cada PROY actualiza esos cuatro documentos y enlaza los productos anteriores que reutiliza.
+Cada pareja entrega un solo documento de proyecto, llamado `EMPRESA_EquipoXX`, que organiza las actividades individuales y las transforma en un proyecto común bien estructurado. Dentro de ese documento deben aparecer la ficha de empresa, las decisiones tomadas, el registro de versiones y las contribuciones de cada integrante. Cada PROY actualiza ese mismo documento y añade el nuevo apartado correspondiente, sin entregar archivos sueltos ni carpetas paralelas.
 
 ## Registro de continuidad
 

@@ -1,6 +1,6 @@
 # PROY-1 · Nace la empresa y abrimos sus puestos
 
-**Entrega en Aules:** una por pareja · **Equipo:** exactamente 2 alumnos · **Producto:** carpeta fundacional y dossier técnico de los dos puestos.
+**Entrega en Aules:** una por pareja · **Equipo:** exactamente 2 alumnos · **Producto:** documento fundacional y dossier técnico de los dos puestos.
 
 ## Encargo
 
@@ -22,7 +22,7 @@ Después de completar las actividades individuales de UD01, la pareja crea su em
 ## Trabajo obligatorio
 
 1. Elegir nombre provisional, actividad, cliente objetivo, necesidad, tres servicios y valores de la empresa.
-2. Crear la carpeta única `EMPRESA_EquipoXX` y el registro de versiones, decisiones y contribuciones.
+2. Elaborar un único documento de proyecto, identificado como `EMPRESA_EquipoXX`, que organice las actividades individuales de la pareja y formalice el proyecto común. El documento debe incluir registro de versiones, decisiones tomadas y contribuciones de cada integrante.
 3. Comparar en una tabla los dos equipos y las conclusiones de ACT-1.1 a ACT-1.5.
 4. Definir aplicaciones comunes, licencias, formatos internos y formatos de entrega.
 5. Asignar un uso a cada puesto y justificar ampliaciones o limitaciones.
@@ -32,8 +32,7 @@ Después de completar las actividades individuales de UD01, la pareja crea su em
 
 ## Entrega de la pareja
 
-- Carpeta `EMPRESA_EquipoXX` con `00_Gestion` y `01_Puestos`.
-- `PROY-1_EquipoXX_Fundacion_y_puestos.pdf`.
+- Un único documento editable `EMPRESA_EquipoXX` y su versión en PDF `PROY-1_EquipoXX_Fundacion_y_puestos.pdf`.
 - Ficha de empresa: nombre, actividad, cliente, necesidad, servicios, valores y roles.
 - Tabla comparativa de los dos equipos.
 - Política de software, licencias y formatos.
@@ -41,7 +40,7 @@ Después de completar las actividades individuales de UD01, la pareja crea su em
 
 ## Condición de continuidad
 
-Esta carpeta será la única empresa del equipo durante todo el curso. En PROY-2 se conserva la ficha y se incorporan documentos corporativos; cambiar de empresa exige autorización docente y una justificación registrada.
+Este documento será la base de la única empresa del equipo durante todo el curso. En PROY-2 se conserva la ficha, se incorporan documentos corporativos y se mantiene el registro de decisiones; cambiar de empresa exige autorización docente y una justificación registrada.
 
 ## Defensa individual y aceptación
 
