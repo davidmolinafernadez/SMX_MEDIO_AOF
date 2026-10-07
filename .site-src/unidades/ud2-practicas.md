@@ -1,27 +1,48 @@
-# UD02 · Procesadores de texto — Prácticas de identidad documental
+# UD02 · Procesadores de texto — Actividades
 
-## A1 · Plantilla corporativa · 9 h
+## R1-R3 · Retos de formato · Individual
 
-Crear estilos de título, cuerpo, cita y término técnico; página, cabecera, pie, portada y logo. Guardar como `.ott` y probar con un documento nuevo. **CA:** RA2.a 30%, b 40%, c 30%.
+Antes de crear documentos nuevos, repararás documentos mal hechos: espacios para alinear, listas falsas, títulos sin estilo, imágenes que se mueven, índices rotos y numeración incoherente.
 
-## A2 · Manual para un cliente · 11 h
+**Entrega:** tres documentos corregidos y sus PDF.
 
-Importar notas DOCX, estructurar un manual específico, generar índice y referencias, grabar una macro, revisar con control de cambios y validar el PDF. **CA:** RA2.d 30%, e 30%, f 40%.
+## ACT-2.1 · La identidad documental de la empresa · Pareja
 
-## A3 · Guía de estilo · 6 h
+Crear una plantilla corporativa `.ott` con estilos de párrafo, carácter, lista y página. Debe incluir portada, índice, cuerpo, página horizontal, cabecera, pie, identidad visual provisional y documento de prueba.
 
-Explicar cuándo usar cada estilo, paleta, tipografía y logo; incluir ejemplos correctos e incorrectos. La guía debe ser un ejemplo de sí misma.
+**Entrega:** plantilla, documento de prueba y decisiones registradas en `EMPRESA_EquipoXX`.
+**CA:** RA2.a, RA2.b, RA2.c.
 
-## A4 · Revisión cruzada · 7 h
+## ACT-2.2 · El informe, versión cliente · Individual
 
-Revisar otro manual con ocho mejoras sustantivas y comentarios profesionales. Resolver la revisión recibida y escribir retrospectiva.
+Elegir una evidencia propia de UD01 y convertirla en un informe profesional creado desde la plantilla: portada, índice, títulos numerados, tabla, capturas con leyenda, notas al pie, referencias cruzadas y PDF con marcadores.
 
-## Prueba individual · 40 min
+**Entrega:** ODT, PDF y nota breve comparando la versión antigua con la versión cliente.
+**CA:** RA2.b, RA2.c, RA2.d.
 
-Reparar un documento con estilos manuales, índice roto, imagen inestable y cambio pendiente. Entregar ODT y PDF.
+## ACT-2.3 · Documentos de gestión · Individual
 
-## PROY-2 · Sistema documental de la empresa · Pareja de dos
+Crear una carta combinada desde una base de datos, un formulario PDF rellenable, una macro documentada y un contrato revisado con control de cambios y compatibilidad DOCX.
 
-Construir el paquete documental común: plantilla corporativa, carta comercial, presupuesto, manual para un cliente y guía breve de estilo. Se reutilizan la ficha fundacional y las decisiones de formatos de PROY-1. La pareja entrega editables y PDF; cada integrante repara o modifica individualmente una parte elegida por el profesorado.
+**Entrega:** carta y PDF combinado, formulario editable y PDF, documento con macro, contrato revisado y comprobación de compatibilidad.
+**CA:** RA2.a, RA2.d, RA2.e.
+
+## ACT-2.4 · Guía documental de la empresa · Pareja
+
+Actualizar `EMPRESA_EquipoXX` con una guía documental: cuándo usar cada estilo, normas de portada, cabecera, pie, tablas, imágenes, notas, referencias, nombres de archivo, formatos editables, formatos de entrega y revisión.
+
+**Entrega:** `EMPRESA_EquipoXX` versión 2 y PDF actualizado.
+**CA:** RA2.b, RA2.d, RA2.f.
+
+## ACT-2.5 · Manual para un cliente · Individual
+
+Práctica final en clase. A partir de notas en bruto, crear un manual completo para usuario no técnico: portada, índice, capítulos, capturas, tablas, glosario, referencias cruzadas y PDF final.
+
+**Entrega:** ODT, PDF y lista de comprobación.
+**CA:** RA2.b, RA2.c, RA2.d, RA2.f.
+
+## PROY-2 · Sistema documental de la empresa · Pareja
+
+La pareja compara las soluciones individuales de UD02, decide qué criterios adopta y actualiza `EMPRESA_EquipoXX`. No se entrega una carpeta paralela: el proyecto común se mantiene como documento acumulativo de empresa, con anexos o enlaces a las evidencias cuando proceda.
 
 [Abrir el enunciado completo de PROY-2](proy-2.md){ .md-button .md-button--primary }

@@ -1,50 +1,66 @@
-# UD02 · Procesadores de texto — Creamos la identidad documental
+# UD02 · Procesadores de texto — Identidad documental de la empresa
 
 **Duración de referencia:** 22 sesiones, 39 horas. **RA:** RA2 completo.
 
 ## Encargo
 
-Convertir documentos inconsistentes en un sistema corporativo reutilizable: plantilla `.ott`, manual técnico largo, guía de estilo y revisión cruzada real.
+La empresa ya existe en `EMPRESA_EquipoXX`, pero sus documentos todavía no tienen un sistema común. En esta unidad el alumnado aprende a construir documentos profesionales, estables y reutilizables: estilos, plantillas, documentos largos, combinación, formularios, macros, revisión y PDF final.
+
+La unidad mezcla dos planos:
+
+- **Actividades individuales**, para demostrar dominio personal del procesador de textos.
+- **Proyecto en pareja**, para convertir esas evidencias en un sistema documental común dentro de `EMPRESA_EquipoXX`.
 
 ## Teoría y talleres
 
-- **Fundamentos Writer:** interfaz, formato manual, listas, página, búsqueda/reemplazo, ortografía y formatos ODT/DOCX/PDF.
-- **Estilos y plantillas:** párrafo, carácter, página y lista; herencia, modificación global, encabezado/pie, portada y plantilla `.ott`.
-- **Imágenes y objetos:** resolución, anclaje, ajuste del texto, digitalización, capturas y logo estable.
-- **Documentos largos:** índice automático, referencias cruzadas, importación/exportación, control de cambios, comentarios y macro grabada.
+- **Formato y limpieza:** carácter, párrafo, listas, tabulaciones, búsqueda, reemplazo, ortografía y errores típicos de documentos hechos a mano.
+- **Estilos y plantillas:** párrafo, carácter, lista y página; portada, índice, cuerpo, página horizontal, cabecera, pie y plantilla `.ott`.
+- **Documento complejo:** secciones, tablas, imágenes, notas, leyendas, texto alternativo, referencias cruzadas e índices.
+- **Gestión documental:** combinación de correspondencia, formularios, macros, revisión, comparación de versiones, compatibilidad DOCX y exportación PDF.
+- **Guía documental:** normas internas para que la empresa use siempre los mismos criterios.
 
 ## Calendario por bloques
 
 | Sesiones | Horas | Bloque |
 | --- | ---: | --- |
-| 1-4 | 7 | Fundamentos y sistema de estilos |
-| 5-9 | 9 | A1: estilos, plantilla, cabecera, pie, portada y logo |
-| 10-15 | 11 | A2: documento largo, índice, referencias, macro y revisión |
-| 16-18 | 6 | A3: guía de estilo y ejemplos |
-| 19-22 | 7 | A4: revisión cruzada, mejoras y cierre |
+| 1-3 | 5 | Retos R1-R3: limpieza, estructura y estabilidad documental |
+| 4-7 | 7 | ACT-2.1: plantilla corporativa de la empresa |
+| 8-12 | 9 | ACT-2.2: informe individual en versión cliente |
+| 13-15 | 5 | ACT-2.3: documentos de gestión, macro y revisión |
+| 16-18 | 6 | ACT-2.4: guía documental de la empresa |
+| 19-21 | 6 | ACT-2.5: manual individual para un cliente |
+| 22 | 1 | Prueba práctica o defensa individual |
 
-## A1 · La identidad de la empresa
+## Actividades
 
-Crear estilos corporativos, personalizar opciones, diseñar cabecera/pie/portada, insertar logo, guardar como `.ott` y probar generando un documento nuevo.
+### R1-R3 · Retos de formato
 
-**Entrega:** plantilla + documento de prueba. **Pesos:** RA2.a 30%, RA2.b 40%, RA2.c 30%.
+Corregir documentos mal construidos: espacios manuales, listas falsas, imágenes inestables, índice roto y numeración incoherente. Preparan el terreno para trabajar con estilos.
 
-## A2 · Manual técnico para el cliente
+### ACT-2.1 · La identidad documental de la empresa
 
-Aplicar la plantilla a un manual con introducción, instalación, configuración y solución de problemas; importar notas DOCX; añadir referencia cruzada e índice automático; grabar una macro; revisar con seguimiento de cambios; resolver todos los cambios y comprobar el PDF.
+La pareja crea una plantilla corporativa `.ott` con estilos, portada, cabecera, pie, página horizontal y documento de prueba. Las decisiones se registran en `EMPRESA_EquipoXX`.
 
-**Entrega:** ODT, PDF y nota sobre la macro. **Pesos:** RA2.d 30%, RA2.e 30%, RA2.f 40%.
+### ACT-2.2 · El informe, versión cliente
 
-## A3 · Guía de estilo
+Cada alumno rehace una evidencia propia de UD01 como informe profesional: portada, índice, tablas, capturas, notas, referencias cruzadas y PDF con marcadores.
 
-Documentar cuándo usar/no usar cada estilo, paleta/tipografía, reglas del logo y dos ejemplos correctos/incorrectos. La propia guía debe cumplir lo que explica.
+### ACT-2.3 · Documentos de gestión
 
-**Pesos de refuerzo:** RA2.a 40%, RA2.b 60%.
+Cada alumno crea una carta combinada, un formulario rellenable, una macro documentada y un contrato revisado con control de cambios y compatibilidad.
 
-## A4 · Revisión cruzada
+### ACT-2.4 · Guía documental de la empresa
 
-Revisar otro manual con al menos ocho mejoras sustantivas y comentarios profesionales; crear una macro distinta; aceptar, rechazar o mejorar cada propuesta recibida; entregar evidencias y reflexión de media página.
+La pareja añade a `EMPRESA_EquipoXX` la guía documental: uso de estilos, normas de formato, nombres de archivo, revisión, formatos editables y formatos de entrega.
 
-**Pesos de refuerzo:** RA2.e 40%, RA2.f 60%.
+### ACT-2.5 · Manual para un cliente
 
-**Hito A/B:** A1 común antes de iniciar A2; intercambio A4 entre equipos con protocolo idéntico.
+Práctica individual en clase. Cada alumno convierte notas en bruto en un manual final completo, estable y útil para un usuario no técnico.
+
+## Hito PROY-2
+
+La pareja actualiza el documento `EMPRESA_EquipoXX` a versión 2. Debe incorporar el sistema documental común, enlazar o adjuntar la plantilla, recoger decisiones, justificar qué soluciones individuales adopta y dejar lista la base documental para las siguientes unidades.
+
+## Evaluación
+
+RA2 se evalúa con evidencias individuales y de pareja. Las actividades individuales demuestran dominio personal; PROY-2 demuestra que la pareja sabe organizar esas evidencias y convertirlas en proyecto común.

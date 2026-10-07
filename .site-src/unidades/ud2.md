@@ -1,73 +1,45 @@
-# UD02 · Procesadores de texto — Creamos la identidad documental
-
-**Duración:** 39 horas. **RA:** RA2 completo.
+# UD02 · Procesadores de texto — Identidad documental de la empresa
 
 ## Encargo
 
-Convertir documentos inconsistentes en un sistema corporativo reutilizable: plantilla `.ott`, manual técnico largo, guía de estilo y revisión cruzada real.
+La empresa ya existe en `EMPRESA_EquipoXX`, pero sus documentos todavía no tienen un sistema común. En esta unidad aprenderás a construir documentos profesionales, estables y reutilizables: estilos, plantillas, documentos largos, combinación, formularios, macros, revisión y PDF final.
 
-## Teoría y talleres
+La idea no es aprender botones sueltos de Writer. La idea es que cada documento de la empresa tenga estructura, identidad, versiones y calidad de entrega.
 
 **Ruta guiada:** [0. Texto, página y formato](ud02-teoria-0.md) → [1. Estilos y plantillas](ud02-teoria-1.md) → [2. Documentos largos y automatización](ud02-teoria-2.md).
 
-- **Fundamentos Writer:** interfaz, formato manual, listas, página, búsqueda/reemplazo, ortografía y formatos ODT/DOCX/PDF.
-- **Estilos y plantillas:** párrafo, carácter, página y lista; herencia, modificación global, encabezado/pie, portada y plantilla `.ott`.
-- **Imágenes y objetos:** resolución, anclaje, ajuste del texto, digitalización, capturas y logo estable.
-- **Documentos largos:** índice automático, referencias cruzadas, importación/exportación, control de cambios, comentarios y macro grabada.
+## Qué vas a entregar
 
-## Calendario por bloques
+| Evidencia | Autoría | Producto |
+| --- | --- | --- |
+| R1-R3 · Retos de formato | Individual | Documentos defectuosos corregidos |
+| ACT-2.1 · Identidad documental | Pareja | Plantilla `.ott` y documento de prueba |
+| ACT-2.2 · Informe cliente | Individual | Informe técnico rehecho con calidad de cliente |
+| ACT-2.3 · Documentos de gestión | Individual | Carta combinada, formulario, macro y contrato revisado |
+| ACT-2.4 · Guía documental | Pareja | Apartado nuevo dentro de `EMPRESA_EquipoXX` |
+| ACT-2.5 · Manual para un cliente | Individual | Manual completo en ODT y PDF |
+| PROY-2 · Sistema documental | Pareja | `EMPRESA_EquipoXX` actualizado a versión 2 |
 
-| Sesiones | Horas | Bloque |
-| --- | ---: | --- |
-| 1-4 | 7 | Fundamentos y sistema de estilos |
-| 5-9 | 9 | A1: estilos, plantilla, cabecera, pie, portada y logo |
-| 10-15 | 11 | A2: documento largo, índice, referencias, macro y revisión |
-| 16-18 | 6 | A3: guía de estilo y ejemplos |
-| 19-22 | 7 | A4: revisión cruzada, mejoras y cierre |
+## Secuencia
 
-## A1 · La identidad de la empresa
+| Sesiones | Bloque |
+| --- | --- |
+| 1-3 | Retos R1-R3: limpiar, estructurar y estabilizar documentos |
+| 4-7 | ACT-2.1: construir la plantilla corporativa |
+| 8-12 | ACT-2.2: rehacer un informe propio de UD01 como documento de cliente |
+| 13-15 | ACT-2.3: crear documentos de gestión y revisar compatibilidad |
+| 16-18 | ACT-2.4: cerrar la guía documental común |
+| 19-21 | ACT-2.5: práctica final individual |
+| 22 | Defensa o prueba práctica |
 
-Crear estilos corporativos, personalizar opciones, diseñar cabecera/pie/portada, insertar logo, guardar como `.ott` y probar generando un documento nuevo.
+## Criterio de continuidad
 
-**Entrega:** plantilla + documento de prueba. **Pesos:** RA2.a 30%, RA2.b 40%, RA2.c 30%.
+Cada actividad individual produce evidencias técnicas. La pareja no las pega sin más: las compara, decide qué solución adopta y actualiza `EMPRESA_EquipoXX`. El proyecto común organiza el trabajo y formaliza la empresa, pero no sustituye las entregas individuales.
 
-## A2 · Manual técnico para el cliente
+## Recursos
 
-Aplicar la plantilla a un manual con introducción, instalación, configuración y solución de problemas; importar notas DOCX; añadir referencia cruzada e índice automático; grabar una macro; revisar con seguimiento de cambios; resolver todos los cambios y comprobar el PDF.
+- [Administrador de plantillas de LibreOffice](https://help.libreoffice.org/latest/es/text/shared/guide/template_manager.html)
+- [Estilos y formato en Writer](https://help.libreoffice.org/latest/es/text/swriter/guide/templates_styles.html)
+- [Exportar a PDF](https://help.libreoffice.org/latest/es/text/shared/01/ref_pdf_export.html)
 
-**Entrega:** ODT, PDF y nota sobre la macro. **Pesos:** RA2.d 30%, RA2.e 30%, RA2.f 40%.
-
-## A3 · Guía de estilo
-
-Documentar cuándo usar/no usar cada estilo, paleta/tipografía, reglas del logo y dos ejemplos correctos/incorrectos. La propia guía debe cumplir lo que explica.
-
-**Pesos de refuerzo:** RA2.a 40%, RA2.b 60%.
-
-## A4 · Revisión cruzada
-
-Revisar otro manual con al menos ocho mejoras sustantivas y comentarios profesionales; crear una macro distinta; aceptar, rechazar o mejorar cada propuesta recibida; entregar evidencias y reflexión de media página.
-
-## Recursos de apoyo
-
-- [Plantillas y estilos de Writer](https://help.libreoffice.org/latest/es/text/swriter/guide/templates_styles.html)
-- [Administrador de plantillas](https://help.libreoffice.org/latest/es/text/shared/guide/template_manager.html)
-- [Ayuda oficial de Writer](https://help.libreoffice.org/latest/es/text/swriter/guide/main.html)
-- [Vídeo-taller: estilos y plantillas en Writer](https://www.youtube.com/watch?v=XnMXkAqRC6s)
-
-### Uso del PDF anterior
-
-**«Processadors de text» (IOC, 2019)** sigue siendo útil para estilos, plantillas, tablas, índices, revisión, combinación de correspondencia y macros. Se omiten las instrucciones ligadas a OpenOffice y se rehacen las demostraciones con LibreOffice Writer actual y Word para la Web/escritorio. El PDF será material de consulta por apartados, no un manual para seguir de principio a fin.
-
-[Abrir prácticas, control y rúbrica de UD02](ud2-practicas.md){ .md-button .md-button--primary }
-
-!!! example "Explicación y demostración"
-    El docente construye en Writer y Word el mismo fragmento: estilos, página, imagen, índice, revisión, macro y PDF. El alumnado practica primero sobre un archivo breve. [Comparar con NexoByte UD02](../ejemplo/ud02.md).
-
-**Pesos de refuerzo:** RA2.e 40%, RA2.f 60%.
-
-**Hito A/B:** A1 común antes de iniciar A2; intercambio A4 entre equipos con protocolo idéntico.
-
-[Comparar con la solución documental de NexoByte](../ejemplo/ud02.md){ .md-button .md-button--primary }
-
-!!! warning "Primero, tu propio borrador"
-    El modelo se abre durante la revisión o cuando lo indique el profesorado. Tu empresa debe conservar una identidad, contenido y decisiones propias.
+[Abrir actividades, control y PROY-2](ud2-practicas.md){ .md-button .md-button--primary }
