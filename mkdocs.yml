@@ -95,10 +95,19 @@ nav:
       - Control práctico individual: unidades/ud01-control.md
   - UD02 · Procesadores de texto — Creamos documentos:
       - Contexto y contenidos: unidades/ud2.md
-      - 0. Texto, página y formato: unidades/ud02-teoria-0.md
+      - 0. Formato de carácter y párrafo: unidades/ud02-teoria-0.md
       - 1. Estilos y plantillas: unidades/ud02-teoria-1.md
-      - 2. Documentos largos y automatización: unidades/ud02-teoria-2.md
-      - Prácticas y evaluación: unidades/ud2-practicas.md
+      - 2. El documento complejo: unidades/ud02-teoria-2.md
+      - 3. Índices, referencias y PDF: unidades/ud02-teoria-3.md
+      - 4. Documentos de gestión: unidades/ud02-teoria-4.md
+      - 5. Markdown y webs de documentación: unidades/ud02-teoria-5.md
+      - Actividades y entregas: unidades/ud2-practicas.md
+      - R1-R3 · Retos de formato: unidades/ud02-retos-formato.md
+      - ACT-2.1 · La identidad documental: unidades/ud02-actividad-1.md
+      - ACT-2.2 · El informe versión cliente: unidades/ud02-actividad-2.md
+      - ACT-2.3 · Documentos de gestión: unidades/ud02-actividad-3.md
+      - ACT-2.4 · La web documental: unidades/ud02-actividad-4.md
+      - ACT-2.5 · Manual para cliente: unidades/ud02-actividad-5.md
       - PROY-2 · Entrega en pareja: unidades/proy-2.md
   - UD03 · Hojas de cálculo — Controlamos la empresa:
       - Contexto y contenidos: unidades/ud3.md

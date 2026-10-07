@@ -1,48 +1,33 @@
-# UD02 · Procesadores de texto — Actividades
+# UD02 · Actividades y entregas
 
-## R1-R3 · Retos de formato · Individual
+## Regla para Aules
 
-Antes de crear documentos nuevos, repararás documentos mal hechos: espacios para alinear, listas falsas, títulos sin estilo, imágenes que se mueven, índices rotos y numeración incoherente.
+Se publican tareas con códigos propios de la unidad. Algunas son individuales y otras de pareja, pero **cada alumno debe conservar evidencias de lo que ha hecho**. La empresa en pareja organiza decisiones comunes; no sustituye el trabajo individual.
 
-**Entrega:** tres documentos corregidos y sus PDF.
+| Tarea de Aules | Archivo solicitado | Evidencia principal |
+| --- | --- | --- |
+| R1-R3 · Retos de formato | `R1-R3_apellido_nombre_formato.zip` | Tres documentos reparados y PDF |
+| ACT-2.1 · Identidad documental | `ACT-2.1_EquipoXX_plantilla.zip` | Plantilla corporativa y prueba |
+| ACT-2.2 · Informe versión cliente | `ACT-2.2_apellido_nombre_informe.zip` | Informe ODT/PDF desde plantilla |
+| ACT-2.3 · Documentos de gestión | `ACT-2.3_apellido_nombre_gestion.zip` | Carta, formulario, macro y contrato |
+| ACT-2.4 · Web documental | `ACT-2.4_EquipoXX_web.pdf` | Página web o documentación publicada |
+| ACT-2.5 · Manual para cliente | `ACT-2.5_apellido_nombre_manual.zip` | Manual completo ODT/PDF |
 
-## ACT-2.1 · La identidad documental de la empresa · Pareja
+## Navegación
 
-Crear una plantilla corporativa `.ott` con estilos de párrafo, carácter, lista y página. Debe incluir portada, índice, cuerpo, página horizontal, cabecera, pie, identidad visual provisional y documento de prueba.
+- [Abrir R1-R3](ud02-retos-formato.md)
+- [Abrir ACT-2.1](ud02-actividad-1.md)
+- [Abrir ACT-2.2](ud02-actividad-2.md)
+- [Abrir ACT-2.3](ud02-actividad-3.md)
+- [Abrir ACT-2.4](ud02-actividad-4.md)
+- [Abrir ACT-2.5](ud02-actividad-5.md)
+- [Abrir PROY-2](proy-2.md)
 
-**Entrega:** plantilla, documento de prueba y decisiones registradas en `EMPRESA_EquipoXX`.
-**CA:** RA2.a, RA2.b, RA2.c.
+!!! info "Proyecto troncal en parejas"
+    La pareja mantiene una única empresa y una única carpeta `EMPRESA_EquipoXX`. Las actividades alimentan ese proyecto: plantilla, normas, web, manuales y decisiones comunes. No se crea una carpeta paralela para cada actividad.
 
-## ACT-2.2 · El informe, versión cliente · Individual
+## PROY-2 · Sistema documental de la empresa · Pareja de dos
 
-Elegir una evidencia propia de UD01 y convertirla en un informe profesional creado desde la plantilla: portada, índice, títulos numerados, tabla, capturas con leyenda, notas al pie, referencias cruzadas y PDF con marcadores.
-
-**Entrega:** ODT, PDF y nota breve comparando la versión antigua con la versión cliente.
-**CA:** RA2.b, RA2.c, RA2.d.
-
-## ACT-2.3 · Documentos de gestión · Individual
-
-Crear una carta combinada desde una base de datos, un formulario PDF rellenable, una macro documentada y un contrato revisado con control de cambios y compatibilidad DOCX.
-
-**Entrega:** carta y PDF combinado, formulario editable y PDF, documento con macro, contrato revisado y comprobación de compatibilidad.
-**CA:** RA2.a, RA2.d, RA2.e.
-
-## ACT-2.4 · Guía documental de la empresa · Pareja
-
-Actualizar `EMPRESA_EquipoXX` con una guía documental: cuándo usar cada estilo, normas de portada, cabecera, pie, tablas, imágenes, notas, referencias, nombres de archivo, formatos editables, formatos de entrega y revisión.
-
-**Entrega:** `EMPRESA_EquipoXX` versión 2 y PDF actualizado.
-**CA:** RA2.b, RA2.d, RA2.f.
-
-## ACT-2.5 · Manual para un cliente · Individual
-
-Práctica final en clase. A partir de notas en bruto, crear un manual completo para usuario no técnico: portada, índice, capítulos, capturas, tablas, glosario, referencias cruzadas y PDF final.
-
-**Entrega:** ODT, PDF y lista de comprobación.
-**CA:** RA2.b, RA2.c, RA2.d, RA2.f.
-
-## PROY-2 · Sistema documental de la empresa · Pareja
-
-La pareja compara las soluciones individuales de UD02, decide qué criterios adopta y actualiza `EMPRESA_EquipoXX`. No se entrega una carpeta paralela: el proyecto común se mantiene como documento acumulativo de empresa, con anexos o enlaces a las evidencias cuando proceda.
+Actualizar `EMPRESA_EquipoXX` a versión 2. La pareja compara las soluciones individuales, elige una plantilla común, redacta la guía documental, enlaza la web documental, registra versiones y deja preparado el sistema para futuros presupuestos, contratos, informes y manuales.
 
 [Abrir el enunciado completo de PROY-2](proy-2.md){ .md-button .md-button--primary }
