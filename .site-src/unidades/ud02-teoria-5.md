@@ -4,6 +4,16 @@ Una empresa también documenta procesos en formato web: normas internas, manuale
 
 Markdown permite escribir documentación sencilla con títulos, listas, tablas, enlaces e imágenes sin depender de un procesador de textos pesado. Después puede publicarse en una web estática o convertirse a otros formatos.
 
+## Vídeo de apoyo
+
+Antes del taller, visualiza [Markdown con Copilot](https://learn.microsoft.com/es-es/shows/github-copilot-series/markdown-using-copilot) como introducción rápida a la escritura de documentación estructurada.
+
+Mientras lo ves, anota:
+
+- Cómo se escriben títulos, listas y enlaces en Markdown.
+- Qué ventajas tiene Markdown para una guía interna de empresa.
+- Qué partes de una web documental deben seguir estando claras aunque el diseño sea sencillo.
+
 ## Qué es Markdown
 
 Markdown es una forma de escribir texto estructurado con marcas simples:

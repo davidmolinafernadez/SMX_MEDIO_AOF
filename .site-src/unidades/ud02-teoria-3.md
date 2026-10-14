@@ -4,6 +4,16 @@ Los índices y las referencias son la prueba de que el documento tiene estructur
 
 En documentos de empresa se usan elementos automáticos porque reducen errores y permiten entregar versiones actualizadas con seguridad.
 
+## Vídeo de apoyo
+
+Antes del taller, revisa en el curso de Writer las lecciones **28/40 Índice general**, **31/40 Referencias cruzadas** y **39/40 Exportar a PDF**: [LibreOffice Writer · curso en castellano](https://cursa.app/es/curso-gratis/libreoffice-writter-bfjb).
+
+Mientras lo ves, anota:
+
+- Qué condición debe cumplirse para que el índice se genere automáticamente.
+- Qué diferencia hay entre escribir "Figura 2" a mano y usar una referencia cruzada.
+- Qué comprobaciones hay que hacer en el PDF final.
+
 ## Índice automático
 
 El índice automático se genera desde estilos de título. Por eso en la teoría anterior se insiste en usar `Título 1`, `Título 2` y niveles de esquema.

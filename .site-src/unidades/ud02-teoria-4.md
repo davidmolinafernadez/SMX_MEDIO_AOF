@@ -4,6 +4,18 @@ Las empresas no solo redactan informes. También generan cartas, formularios, co
 
 En esta parte se trabaja la automatización básica y la revisión profesional. No se trata de programar por programar, sino de ahorrar tareas repetitivas y reducir errores.
 
+## Vídeo de apoyo
+
+Antes del taller, visualiza [Tutorial LibreOffice Writer - Herramientas para crear formularios](https://www.youtube.com/watch?v=FV7UsiELN-0). Para la carta combinada, utiliza también [Combinar correspondencia en LibreOffice Writer](https://mediateca.educa.madrid.org/video/25h5la7nqqk4c4iv).
+
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/FV7UsiELN-0" title="Tutorial LibreOffice Writer - Herramientas para crear formularios" frameborder="0" allowfullscreen></iframe>
+
+Mientras lo ves, anota:
+
+- Qué controles de formulario son adecuados para cada tipo de dato.
+- Qué parte de una carta combinada es plantilla y qué parte son datos.
+- Qué riesgos aparecen al usar macros o datos reales.
+
 ## Carta combinada
 
 La combinación de correspondencia permite crear muchas cartas a partir de una plantilla y una tabla de datos.

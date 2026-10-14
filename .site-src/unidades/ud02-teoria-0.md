@@ -4,6 +4,16 @@ Un procesador de textos no es una máquina de escribir digital. En una máquina 
 
 Si el alumno alinea con espacios, crea páginas con muchos Enter o simula títulos solo con tamaño y negrita, el documento puede parecer correcto durante unos minutos, pero se romperá en cuanto cambie el texto, se abra en otra suite o se exporte a PDF.
 
+## Vídeo de apoyo
+
+Antes del taller, revisa en el curso de Writer las lecciones **06/40 Alineación, sangría, tabuladores, espaciado e interlineado** y **07/40 Listas, numeración y viñetas**: [LibreOffice Writer · curso en castellano](https://cursa.app/es/curso-gratis/libreoffice-writter-bfjb).
+
+Mientras lo ves, anota:
+
+- Qué ajustes pertenecen al carácter y cuáles al párrafo.
+- Por qué no se debe alinear con espacios.
+- Cómo se reconocen listas y sangrías construidas correctamente.
+
 ## Carácter, párrafo y página
 
 El **carácter** es cada letra, número o símbolo. Su formato afecta a fragmentos pequeños: negrita, cursiva, color, superíndice o idioma.

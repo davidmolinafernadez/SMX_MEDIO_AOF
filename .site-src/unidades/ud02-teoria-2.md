@@ -4,6 +4,16 @@ Un documento complejo es aquel que deja de ser una página suelta y empieza a co
 
 El reto no es escribir mucho, sino conseguir que el documento siga siendo editable cuando crece. Por eso se trabaja con estructura, campos y referencias en lugar de correcciones manuales.
 
+## Vídeo de apoyo
+
+Antes del taller, revisa en el curso de Writer las lecciones sobre **imágenes**, **tablas** y **marcos**: [LibreOffice Writer · curso en castellano](https://cursa.app/es/curso-gratis/libreoffice-writter-bfjb).
+
+Mientras lo ves, anota:
+
+- Cómo se inserta una imagen sin que tape texto.
+- Qué opciones ayudan a que una tabla no se rompa al cambiar de página.
+- Por qué el anclaje y el ajuste son decisiones documentales, no decorativas.
+
 ## Estructura antes de contenido
 
 Antes de escribir un informe o manual conviene decidir:
