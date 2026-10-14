@@ -8,7 +8,7 @@ Si el alumno alinea con espacios, crea páginas con muchos Enter o simula títul
 
 Antes del taller, revisa en el curso de Writer las lecciones **06/40 Alineación, sangría, tabuladores, espaciado e interlineado** y **07/40 Listas, numeración y viñetas**.
 
-<iframe width="100%" height="520" src="https://cursa.app/es/curso-gratis/libreoffice-writter-bfjb" title="LibreOffice Writer - formato de párrafo y listas" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/17qiQOzf4GU" title="Curso LibreOffice Writer - índice de 40 tutoriales en castellano" frameborder="0" allowfullscreen></iframe>
 
 Mientras lo ves, anota:
 

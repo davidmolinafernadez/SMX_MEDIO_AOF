@@ -8,7 +8,7 @@ El reto no es escribir mucho, sino conseguir que el documento siga siendo editab
 
 Antes del taller, revisa en el curso de Writer las lecciones sobre **imágenes**, **tablas** y **marcos**.
 
-<iframe width="100%" height="520" src="https://cursa.app/es/curso-gratis/libreoffice-writter-bfjb" title="LibreOffice Writer - imágenes, tablas y marcos" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/17qiQOzf4GU" title="Curso LibreOffice Writer - índice de 40 tutoriales en castellano" frameborder="0" allowfullscreen></iframe>
 
 Mientras lo ves, anota:
 

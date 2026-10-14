@@ -12,12 +12,12 @@ El objetivo no es decorar documentos. El alumno debe aprender a construir docume
 
 ## Teoría guiada
 
-1. [Formato de carácter y párrafo](ud02-teoria-0.md) · vídeo: [alineación, sangrías, tabuladores e interlineado](https://cursa.app/es/curso-gratis/libreoffice-writter-bfjb).
+1. [Formato de carácter y párrafo](ud02-teoria-0.md) · vídeo: [curso Writer en castellano](https://www.youtube.com/watch?v=17qiQOzf4GU).
 2. [Estilos y plantillas](ud02-teoria-1.md) · vídeo: [estilos de párrafo, carácter y lista](https://www.youtube.com/watch?v=0gvovKKfEAw).
-3. [El documento complejo](ud02-teoria-2.md) · vídeo: [imágenes, tablas y marcos en Writer](https://cursa.app/es/curso-gratis/libreoffice-writter-bfjb).
-4. [Índices, referencias y PDF](ud02-teoria-3.md) · vídeo: [índices, referencias cruzadas y exportación PDF](https://cursa.app/es/curso-gratis/libreoffice-writter-bfjb).
+3. [El documento complejo](ud02-teoria-2.md) · vídeo: [curso Writer en castellano](https://www.youtube.com/watch?v=17qiQOzf4GU).
+4. [Índices, referencias y PDF](ud02-teoria-3.md) · vídeo: [curso Writer en castellano](https://www.youtube.com/watch?v=17qiQOzf4GU).
 5. [Documentos de gestión](ud02-teoria-4.md) · vídeo: [formularios en Writer](https://www.youtube.com/watch?v=FV7UsiELN-0).
-6. [Markdown y webs de documentación](ud02-teoria-5.md) · vídeo: [Markdown para documentación](https://learn.microsoft.com/es-es/shows/github-copilot-series/markdown-using-copilot).
+6. [Markdown y webs de documentación](ud02-teoria-5.md) · vídeo: [Markdown explicado fácil](https://www.youtube.com/watch?v=TmM8O7HZsfY).
 
 En clase se combina explicación breve, demostración y práctica guiada. Primero se muestra el procedimiento en **LibreOffice Writer**, porque es la herramienta base disponible en LliureX. Cuando proceda, se enseña el equivalente en **Microsoft Word/Microsoft 365**, para comprobar compatibilidad y preparar entregas a clientes que usan otra suite.
 

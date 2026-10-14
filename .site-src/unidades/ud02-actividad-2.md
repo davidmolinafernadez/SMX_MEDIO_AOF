@@ -17,7 +17,7 @@ El informe debe poder entregarse a una persona que no ha visto tus prácticas de
 
 Antes de empezar, revisa en el curso de Writer las lecciones **28/40 Índice general**, **29/40 Índice de ilustraciones y tablas**, **31/40 Referencias cruzadas** y **39/40 Exportar a PDF**.
 
-<iframe width="100%" height="520" src="https://cursa.app/es/curso-gratis/libreoffice-writter-bfjb" title="LibreOffice Writer - curso en castellano" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/17qiQOzf4GU" title="Curso LibreOffice Writer - índice de 40 tutoriales en castellano" frameborder="0" allowfullscreen></iframe>
 
 Mientras lo ves, anota cómo vas a crear índice, pies de figura, referencias cruzadas y PDF final sin escribir numeraciones a mano.
 
