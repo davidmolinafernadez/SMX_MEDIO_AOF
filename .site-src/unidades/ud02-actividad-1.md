@@ -15,7 +15,7 @@ La plantilla no es un documento decorado. Debe ser un sistema reutilizable: esti
 
 ## Vídeo de apoyo
 
-Antes de empezar, visualiza [Tutorial LibreOffice Writer - Estilos de párrafo, carácter y lista](https://www.youtube.com/watch?v=0gvovKKfEAw). Sirve para preparar la parte de estilos comunes de la plantilla.
+Antes de empezar, visualiza este tutorial. Sirve para preparar la parte de estilos comunes de la plantilla.
 
 <iframe width="100%" height="420" src="https://www.youtube.com/embed/0gvovKKfEAw" title="Tutorial LibreOffice Writer - Estilos de párrafo, carácter y lista" frameborder="0" allowfullscreen></iframe>
 

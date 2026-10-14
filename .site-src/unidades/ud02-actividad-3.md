@@ -15,9 +15,11 @@ Vas a crear un paquete de documentos de gestión utilizando datos ficticios y cu
 
 ## Vídeo de apoyo
 
-Antes de empezar, visualiza [Tutorial LibreOffice Writer - Herramientas para crear formularios](https://www.youtube.com/watch?v=FV7UsiELN-0). Para la carta, consulta también [Combinar correspondencia en LibreOffice Writer](https://mediateca.educa.madrid.org/video/25h5la7nqqk4c4iv).
+Antes de empezar, visualiza el tutorial de formularios. Para la carta combinada, tienes debajo el vídeo específico de combinación de correspondencia.
 
 <iframe width="100%" height="420" src="https://www.youtube.com/embed/FV7UsiELN-0" title="Tutorial LibreOffice Writer - Herramientas para crear formularios" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="100%" height="420" src="https://mediateca.educa.madrid.org/video/25h5la7nqqk4c4iv/fs" title="Combinar correspondencia en LibreOffice Writer" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 Mientras lo ves, anota qué parte de tu entrega será carta combinada, qué parte formulario y cómo vas a evitar datos reales.
 
