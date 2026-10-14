@@ -13,14 +13,6 @@ La empresa necesita una página sencilla donde organizar su documentación: qui�
 
 No es una web publicitaria. Es una web o página documental para trabajar mejor.
 
-## Vídeo de apoyo
-
-Antes de empezar, visualiza esta introducción a la escritura de documentación web con títulos, listas, enlaces y tablas.
-
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/TmM8O7HZsfY" title="Markdown explicado fácil para documentación" frameborder="0" allowfullscreen></iframe>
-
-Mientras lo ves, anota qué secciones de vuestra web documental pueden escribirse en Markdown y qué enlaces deben comprobarse antes de entregar.
-
 ## Qué debe contener
 
 La página debe incluir:
