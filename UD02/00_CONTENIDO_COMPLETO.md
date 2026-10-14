@@ -19,6 +19,14 @@ La unidad mezcla dos planos:
 - **Gestión documental:** combinación de correspondencia, formularios, macros, revisión, comparación de versiones, compatibilidad DOCX y exportación PDF.
 - **Guía documental:** normas internas para que la empresa use siempre los mismos criterios.
 
+## Recurso audiovisual en castellano
+
+Antes de empezar ACT-2.1, proyectar o recomendar este videotutorial breve para fijar la idea de que los documentos profesionales se construyen con estilos, no con formato manual:
+
+- [Tutorial LibreOffice Writer - Estilos de párrafo, carácter y lista](https://www.youtube.com/watch?v=0gvovKKfEAw). Ver especialmente la parte dedicada a aplicar, crear y modificar estilos. Después del visionado, el alumnado debe localizar en un documento propio tres formatos manuales que deberían convertirse en estilos.
+
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/0gvovKKfEAw" title="Tutorial LibreOffice Writer - Estilos de párrafo, carácter y lista" frameborder="0" allowfullscreen></iframe>
+
 ## Calendario por bloques
 
 | Sesiones | Horas | Bloque |

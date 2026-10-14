@@ -6,7 +6,7 @@ Esta biblioteca acompaña a las unidades, pero **no sustituye los microtalleres 
 
 | Necesidad | Herramienta propuesta | Documentación fiable | Punto de partida audiovisual |
 | --- | --- | --- | --- |
-| Documentos | LibreOffice Writer | [Guía de Writer](https://help.libreoffice.org/latest/es/text/swriter/guide/main.html) · [Plantillas y estilos](https://help.libreoffice.org/latest/es/text/swriter/guide/templates_styles.html) | [Canal oficial de LibreOffice](https://www.youtube.com/@LibreOfficeTheDocumentFoundation) |
+| Documentos | LibreOffice Writer | [Guía de Writer](https://help.libreoffice.org/latest/es/text/swriter/guide/main.html) · [Plantillas y estilos](https://help.libreoffice.org/latest/es/text/swriter/guide/templates_styles.html) | [Estilos de párrafo, carácter y lista](https://www.youtube.com/watch?v=0gvovKKfEAw) · [Canal oficial de LibreOffice](https://www.youtube.com/@LibreOfficeTheDocumentFoundation) |
 | Cálculo | LibreOffice Calc | [Guía de Calc](https://help.libreoffice.org/latest/es/text/scalc/guide/main.html) | [Fórmulas básicas explicadas](https://www.youtube.com/watch?v=cZfmGsitxF0) |
 | Bases de datos | LibreOffice Base | [Guía de Base](https://help.libreoffice.org/latest/es/text/sdatabase/main.html) | [Lista de vídeos de LibreOffice](https://www.youtube.com/@LibreOfficeTheDocumentFoundation/videos) |
 | Imagen | GIMP | [Manual oficial en español](https://docs.gimp.org/3.0/es/) | [Canal oficial de GIMP](https://www.youtube.com/@GIMP_Official) |

@@ -4,6 +4,18 @@ Los estilos convierten decisiones visuales en un sistema. Si todos los títulos 
 
 Una empresa necesita estilos porque varias personas producirán documentos distintos: informes, cartas, manuales, contratos, instrucciones y presupuestos. Todos deben reconocerse como documentos de la misma empresa.
 
+## Vídeo de apoyo
+
+Antes del taller, visualiza [Tutorial LibreOffice Writer - Estilos de párrafo, carácter y lista](https://www.youtube.com/watch?v=0gvovKKfEAw).
+
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/0gvovKKfEAw" title="Tutorial LibreOffice Writer - Estilos de párrafo, carácter y lista" frameborder="0" allowfullscreen></iframe>
+
+Mientras lo ves, anota:
+
+- Qué diferencia hay entre aplicar formato manual y aplicar un estilo.
+- Cómo se modifica un estilo ya creado.
+- Qué estilos necesitaría una plantilla corporativa básica.
+
 ## Familias de estilos
 
 En Writer se trabajan varias familias de estilos. En Word los nombres cambian, pero la lógica es parecida.

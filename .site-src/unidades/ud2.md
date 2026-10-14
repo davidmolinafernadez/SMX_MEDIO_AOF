@@ -21,6 +21,11 @@ El objetivo no es decorar documentos. El alumno debe aprender a construir docume
 
 En clase se combina explicación breve, demostración y práctica guiada. Primero se muestra el procedimiento en **LibreOffice Writer**, porque es la herramienta base disponible en LliureX. Cuando proceda, se enseña el equivalente en **Microsoft Word/Microsoft 365**, para comprobar compatibilidad y preparar entregas a clientes que usan otra suite.
 
+!!! video "Vídeo de apoyo en castellano"
+    Antes de empezar ACT-2.1, revisa [Tutorial LibreOffice Writer - Estilos de párrafo, carácter y lista](https://www.youtube.com/watch?v=0gvovKKfEAw). Después localiza en un documento propio tres formatos manuales que deberían convertirse en estilos.
+
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/0gvovKKfEAw" title="Tutorial LibreOffice Writer - Estilos de párrafo, carácter y lista" frameborder="0" allowfullscreen></iframe>
+
 La regla de trabajo será siempre la misma: antes de entregar un documento, hay que poder responder a cuatro preguntas:
 
 - ¿Tiene estructura real o solo apariencia visual?
@@ -89,6 +94,7 @@ También se aprovecharán informes, capturas e incidencias de UD01 como materia 
 
 - [Ayuda actual de LibreOffice Writer](https://help.libreoffice.org/latest/es/text/swriter/main0000.html)
 - [Estilos y plantillas en LibreOffice](https://help.libreoffice.org/latest/es/text/swriter/guide/templates_styles.html)
+- [Videotutorial: estilos de párrafo, carácter y lista en LibreOffice Writer](https://www.youtube.com/watch?v=0gvovKKfEAw)
 - [Exportación PDF en LibreOffice](https://help.libreoffice.org/latest/es/text/shared/01/ref_pdf_export.html)
 - [Ayuda de Microsoft Word](https://support.microsoft.com/es-es/word)
 
