@@ -13,6 +13,12 @@ La empresa necesita una página sencilla donde organizar su documentación: qui�
 
 No es una web publicitaria. Es una web o página documental para trabajar mejor.
 
+## Vídeo de apoyo
+
+Antes de empezar, visualiza [Markdown con Copilot](https://learn.microsoft.com/es-es/shows/github-copilot-series/markdown-using-copilot) como introducción a la escritura de documentación web con títulos, listas, enlaces y tablas.
+
+Mientras lo ves, anota qué secciones de vuestra web documental pueden escribirse en Markdown y qué enlaces deben comprobarse antes de entregar.
+
 ## Qué debe contener
 
 La página debe incluir:

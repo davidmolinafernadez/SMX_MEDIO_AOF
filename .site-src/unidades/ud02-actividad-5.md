@@ -13,6 +13,12 @@ Práctica final de la unidad. A partir de notas en bruto, capturas y requisitos 
 
 El manual debe explicar un procedimiento de forma clara, ordenada y verificable. No basta con acumular capturas.
 
+## Vídeo de apoyo
+
+Antes de empezar, revisa en el curso de Writer las lecciones sobre **imágenes**, **pies de foto**, **índices**, **referencias cruzadas** y **exportación a PDF**: [LibreOffice Writer · curso en castellano](https://cursa.app/es/curso-gratis/libreoffice-writter-bfjb).
+
+Mientras lo ves, anota cómo vas a controlar capturas, pasos numerados, referencias y comprobación final del PDF.
+
 ## Estructura mínima
 
 El manual debe incluir:

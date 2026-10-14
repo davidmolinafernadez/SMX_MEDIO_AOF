@@ -13,6 +13,14 @@ La empresa necesita documentos repetitivos y revisables: cartas para clientes, f
 
 Vas a crear un paquete de documentos de gestión utilizando datos ficticios y cuidando compatibilidad, protección de datos y revisión.
 
+## Vídeo de apoyo
+
+Antes de empezar, visualiza [Tutorial LibreOffice Writer - Herramientas para crear formularios](https://www.youtube.com/watch?v=FV7UsiELN-0). Para la carta, consulta también [Combinar correspondencia en LibreOffice Writer](https://mediateca.educa.madrid.org/video/25h5la7nqqk4c4iv).
+
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/FV7UsiELN-0" title="Tutorial LibreOffice Writer - Herramientas para crear formularios" frameborder="0" allowfullscreen></iframe>
+
+Mientras lo ves, anota qué parte de tu entrega será carta combinada, qué parte formulario y cómo vas a evitar datos reales.
+
 ## Parte 1 · Carta combinada
 
 1. Crea una tabla con cinco clientes ficticios.
