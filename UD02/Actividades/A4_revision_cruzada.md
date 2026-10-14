@@ -1,5 +1,9 @@
 # ACT-2.4 · Guía documental de la empresa
 
+![Ejemplo visual de guía documental](../Recursos/imagenes_ejemplo/ejemplo_ACT_2_4_guia_documental.png)
+
+*Ejemplo visual orientativo: no hay que copiarlo exactamente, pero muestra una guía con normas claras sobre estilos, archivos y revisión.*
+
 ## Tipo
 
 Trabajo de pareja con defensa individual breve.

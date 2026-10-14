@@ -1,5 +1,9 @@
 # ACT-2.5 · Manual para un cliente
 
+![Ejemplo visual de manual para cliente](../assets/images/ud02/ejemplo_ACT_2_5_manual_cliente.png)
+
+*Ejemplo visual orientativo: no hay que copiarlo exactamente, pero muestra un manual con índice, pasos, capturas, leyendas y tablas.*
+
 **Tarea en Aules:** `ACT-2.5 · Manual para un cliente`  
 **Archivo:** `ACT-2.5_apellido_nombre_manual.zip` · **Individual** · 4 h.
 

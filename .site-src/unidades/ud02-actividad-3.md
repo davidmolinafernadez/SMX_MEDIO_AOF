@@ -1,5 +1,9 @@
 # ACT-2.3 · Documentos de gestión
 
+![Ejemplo visual de documentos de gestión](../assets/images/ud02/ejemplo_ACT_2_3_documentos_gestion.png)
+
+*Ejemplo visual orientativo: no hay que copiarlo exactamente, pero muestra las cuatro piezas que deben funcionar como documentos reales.*
+
 **Tarea en Aules:** `ACT-2.3 · Documentos de gestión`  
 **Archivo:** `ACT-2.3_apellido_nombre_gestion.zip` · **Individual** · 4 h.
 

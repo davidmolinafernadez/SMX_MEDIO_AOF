@@ -1,5 +1,9 @@
 # ACT-2.3 · Documentos de gestión
 
+![Ejemplo visual de documentos de gestión](../Recursos/imagenes_ejemplo/ejemplo_ACT_2_3_documentos_gestion.png)
+
+*Ejemplo visual orientativo: no hay que copiarlo exactamente, pero muestra las cuatro piezas que deben funcionar como documentos reales.*
+
 ## Tipo
 
 Individual. Cada alumno crea documentos administrativos reutilizables de la empresa.

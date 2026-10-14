@@ -1,5 +1,9 @@
 # ACT-2.2 · El informe, versión cliente
 
+![Ejemplo visual de informe para cliente](../Recursos/imagenes_ejemplo/ejemplo_ACT_2_2_informe_cliente.png)
+
+*Ejemplo visual orientativo: no hay que copiarlo exactamente, pero muestra la estructura esperada de portada, índice, cuerpo, figuras y tablas.*
+
 ## Tipo
 
 Individual. Cada alumno transforma una evidencia técnica propia de UD01 en un documento profesional.

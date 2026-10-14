@@ -1,5 +1,9 @@
 # ACT-2.4 · La web documental de la empresa
 
+![Ejemplo visual de guía documental](../assets/images/ud02/ejemplo_ACT_2_4_guia_documental.png)
+
+*Ejemplo visual orientativo: no hay que copiarlo exactamente, pero muestra una guía con normas claras sobre estilos, archivos y revisión.*
+
 **Tarea en Aules:** `ACT-2.4 · La web documental de la empresa`  
 **Archivo:** `ACT-2.4_EquipoXX_web.pdf` · **Pareja** · 3 h.
 

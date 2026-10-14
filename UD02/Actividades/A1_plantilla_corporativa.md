@@ -1,5 +1,9 @@
 # ACT-2.1 · La identidad documental de la empresa
 
+![Ejemplo visual de plantilla corporativa](../Recursos/imagenes_ejemplo/ejemplo_ACT_2_1_plantilla_corporativa.png)
+
+*Ejemplo visual orientativo: no hay que copiarlo exactamente, pero muestra una plantilla con portada, estilos y páginas diferenciadas.*
+
 ## Tipo
 
 Trabajo de pareja. Cada empresa tendrá una sola plantilla corporativa, pero ambos integrantes deben poder explicar todas las decisiones.

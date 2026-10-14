@@ -1,5 +1,9 @@
 # R1-R3 · Retos de formato
 
+![Ejemplo visual de los retos de formato](../assets/images/ud02/ejemplo_R1_R3_retos_formato.png)
+
+*Ejemplo visual orientativo: no hay que copiarlo exactamente, pero muestra el tipo de mejora que se busca en cada reto.*
+
 **Tarea en Aules:** `R1-R3 · Retos de formato`  
 **Archivo:** `R1-R3_apellido_nombre_formato.zip` · **Individual** · 3 h.
 

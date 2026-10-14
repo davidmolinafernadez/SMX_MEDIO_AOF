@@ -1,5 +1,9 @@
 # R1-R3 · Retos de formato
 
+![Ejemplo visual de los retos de formato](../Recursos/imagenes_ejemplo/ejemplo_R1_R3_retos_formato.png)
+
+*Ejemplo visual orientativo: no hay que copiarlo exactamente, pero muestra el tipo de mejora que se busca en cada reto.*
+
 ## Tipo
 
 Individual. Retos cortos de entrenamiento antes de las actividades principales.

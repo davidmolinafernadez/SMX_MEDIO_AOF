@@ -1,5 +1,9 @@
 # ACT-2.1 · La identidad documental de la empresa
 
+![Ejemplo visual de plantilla corporativa](../assets/images/ud02/ejemplo_ACT_2_1_plantilla_corporativa.png)
+
+*Ejemplo visual orientativo: no hay que copiarlo exactamente, pero muestra una plantilla con portada, estilos y páginas diferenciadas.*
+
 **Tarea en Aules:** `ACT-2.1 · La identidad documental de la empresa`  
 **Archivo:** `ACT-2.1_EquipoXX_plantilla.zip` · **Pareja** · 4 h.
 

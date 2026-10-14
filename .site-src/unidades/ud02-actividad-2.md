@@ -1,5 +1,9 @@
 # ACT-2.2 · El informe, versión cliente
 
+![Ejemplo visual de informe para cliente](../assets/images/ud02/ejemplo_ACT_2_2_informe_cliente.png)
+
+*Ejemplo visual orientativo: no hay que copiarlo exactamente, pero muestra la estructura esperada de portada, índice, cuerpo, figuras y tablas.*
+
 **Tarea en Aules:** `ACT-2.2 · El informe, versión cliente`  
 **Archivo:** `ACT-2.2_apellido_nombre_informe.zip` · **Individual** · 5 h.
 
