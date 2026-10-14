@@ -17,7 +17,9 @@ El objetivo no es decorar documentos. El alumno debe aprender a construir docume
 3. [El documento complejo](ud02-teoria-2.md) · vídeos: [imágenes y capturas](https://www.youtube.com/watch?v=9FvDdXNe2fI) · [tablas](https://www.youtube.com/watch?v=OVEv0FdaaqY).
 4. [Índices, referencias y PDF](ud02-teoria-3.md) · vídeo: [índice general y portada](https://www.youtube.com/watch?v=ESb8OTWVPZ0).
 5. [Documentos de gestión](ud02-teoria-4.md) · vídeo: [formularios en Writer](https://www.youtube.com/watch?v=FV7UsiELN-0).
-6. [Markdown y webs de documentación](ud02-teoria-5.md) · vídeo: [Markdown explicado fácil](https://www.youtube.com/watch?v=TmM8O7HZsfY).
+6. [Markdown, IA y web documental desde cero](ud02-teoria-5.md): sintaxis explicada, borradores de IA, prompts comentados, revisión y construcción de una web local.
+
+Cada bloque incluye un recorrido guiado con ejemplos, resultados esperados y corrección de fallos. Si empiezas desde cero, realiza primero el ensayo de teoría y después abre la actividad correspondiente. En las actividades encontrarás fases de trabajo, estructuras para completar y pruebas antes de entregar.
 
 En clase se combina explicación breve, demostración y práctica guiada. Primero se muestra el procedimiento en **LibreOffice Writer**, porque es la herramienta base disponible en LliureX. Cuando proceda, se enseña el equivalente en **Microsoft Word/Microsoft 365**, para comprobar compatibilidad y preparar entregas a clientes que usan otra suite.
 

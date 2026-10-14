@@ -87,3 +87,62 @@ LibreOffice Basic y VBA no son iguales. El aprendizaje importante es detectar un
 
 !!! danger "Protección de datos"
     En las prácticas se usan datos inventados. Si una captura muestra nombres, correos, teléfonos o identificadores reales, hay que ocultarlos antes de entregar.
+
+## Aprende los cuatro procesos con un caso sencillo
+
+### Combinación: una carta, varios destinatarios
+
+Un **registro** es una fila de cliente. Un **campo** es una columna, como `Nombre`. La carta contiene el texto común y campos vinculados; el resultado contiene una carta personalizada por registro. Escribir «[Nombre]» como texto no lo convierte en un campo de combinación.
+
+Crea una hoja con estos encabezados en la primera fila, sin celdas combinadas:
+
+| Nombre | Empresa | Poblacion | Servicio | Equipo |
+| --- | --- | --- | --- | --- |
+| Ana Ejemplo | Taller Norte | Valencia | Mantenimiento | PC-01 |
+| Luis Prueba | Tienda Centro | Alicante | Configuración | PC-02 |
+| Marta Modelo | Academia Sur | Castellón | Soporte | PC-03 |
+
+Guarda la hoja. Abre la carta base y utiliza el asistente de combinación de correspondencia para seleccionar esa fuente de datos. Los nombres de los campos deben coincidir con las columnas. Puedes omitir bloques de dirección o saludos automáticos si no los necesitas y colocar tus campos en el cuerpo.
+
+Texto de ensayo: «Hola, [campo Nombre]. Hemos preparado el servicio [campo Servicio] para el equipo [campo Equipo] de [campo Empresa].» Inserta cada campo desde la fuente de datos: los corchetes de este ejemplo son instrucciones, no el resultado final.
+
+Avanza por los registros en la vista previa. Para Ana debe aparecer PC-01, nunca PC-02. Genera el documento combinado y comprueba el primer y último destinatario. No envíes correos: el taller produce archivos de prueba.
+
+### Formulario: etiqueta, control y respuesta
+
+Una línea dibujada deja espacio para escribir en papel. Un **control de formulario** permite introducir datos de forma interactiva.
+
+| Dato solicitado | Control apropiado | Ejemplo |
+| --- | --- | --- |
+| Equipo | Texto | PC-01 |
+| Fecha | Fecha | Fecha de solicitud |
+| Tipo de incidencia | Lista desplegable | Acceso, impresión, aplicación |
+| Prioridad | Botones de opción agrupados | Normal o urgente, una sola elección |
+| Confirmación de revisión | Casilla | «He revisado los datos» |
+
+En Writer activa **Ver → Barras de herramientas → Controles de formulario**. Con el modo diseño activo, inserta controles y configura sus propiedades: nombre único, etiqueta y opciones de lista. Agrupa los botones de prioridad para que elegir uno desmarque el otro. Desactiva el modo diseño y rellena el formulario para probarlo.
+
+Al exportar a PDF, activa la opción de **crear formulario PDF**. Abre el PDF, rellena, guarda una copia y vuelve a abrirla. Debe conservar las respuestas en un visor compatible. Si solo puedes ver cajas, revisa la exportación; si no conserva respuestas, prueba el guardado y otro visor e informa del resultado.
+
+### Macro: grabar, ejecutar y explicar
+
+Una macro reproduce acciones; no comprende tu intención. Para el ensayo grabaremos la inserción de «Documento interno. Revisar antes de compartir» y la aplicación del estilo `Aviso`.
+
+1. Abre un documento de prueba y crea el estilo `Aviso`.
+2. Busca **Herramientas → Macros → Grabar macro**. Si no aparece, comprueba las opciones avanzadas de LibreOffice: la grabación tiene limitaciones y puede necesitar habilitarse.
+3. Inicia la grabación, escribe el aviso y aplica el estilo.
+4. Detén y guarda con un nombre como `InsertarAviso`, en la biblioteca del documento de prueba cuando se requiera entregar la macro con él.
+5. En otra posición, ejecuta tu macro y comprueba qué se inserta y qué formato queda.
+6. Cierra, vuelve a abrir y comprueba dónde se conserva. Una macro guardada solo en «Mis macros» de tu equipo no viaja con el documento.
+
+Si el grabador no registra una acción, anota cuál y consulta al docente para adaptar el ensayo. No sustituyas la explicación por código que no puedas comprender ni reduzcas globalmente la seguridad para ejecutar una macro desconocida.
+
+### Revisión: conservar pruebas y producir una copia limpia
+
+Para el ensayo usa un texto ficticio: «El servicio incluye una revisión mensual. Las incidencias se comunican mediante el formulario de soporte. La respuesta se realiza en dos días de clase». No es un contrato válido para uso real.
+
+Guarda como versión inicial. Activa el registro de cambios y corrige «dos días» a «un día», dejando un comentario: «Cambio propuesto para el ejercicio; requiere aprobación». Corrige también una errata e incluye una duda concreta como segundo comentario.
+
+Guarda una copia **con cambios** antes de resolverlos. En otra copia acepta la errata y rechaza el cambio de plazo si no está aprobado. Resuelve los comentarios y guarda la versión limpia. **Ocultar cambios no equivale a aceptarlos o rechazarlos**: revisa que no queden cambios pendientes antes de entregar la copia limpia.
+
+Para comprobar DOCX, abre la copia en otra suite si está disponible y observa tablas, títulos y paginación. Registra programa, resultado y corrección. Si no puedes hacer esa prueba, indícalo; no escribas «compatible» sin haberlo comprobado.

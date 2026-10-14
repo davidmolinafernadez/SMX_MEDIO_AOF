@@ -4,7 +4,7 @@
 
 *Ejemplo visual orientativo: no hay que copiarlo exactamente, pero muestra una plantilla con portada, estilos y páginas diferenciadas.*
 
-**Tarea en Aules:** `ACT-2.1 · La identidad documental de la empresa`  
+**Tarea en Aules:** `ACT-2.1 · La identidad documental de la empresa`
 **Archivo:** `ACT-2.1_EquipoXX_plantilla.zip` · **Pareja** · 4 h.
 
 ## Encargo
@@ -75,3 +75,39 @@ Un ZIP de pareja con:
 **CA:** RA2.a, RA2.b y RA2.c.
 
 Se evaluará que la plantilla sea reutilizable, coherente con la empresa, técnicamente estable y comprendida por los dos miembros de la pareja.
+
+## Guion de trabajo: una fase cada vez
+
+Lee primero [Estilos y plantillas](ud02-teoria-1.md). En cada fase guardad un resultado antes de pasar a la siguiente. Alternad las funciones de edición y revisión: los dos debéis realizar alguna parte y poder explicar el conjunto.
+
+### Fase 1. Decidir antes de maquetar
+
+Completad una ficha con: empresa, lector habitual, fuente disponible en ambos equipos, color principal, color de aviso y datos del pie. Escribid una razón por decisión. Ejemplo: «Usamos azul oscuro en títulos porque mantiene contraste sobre blanco». Evitad «porque queda bonito» como única explicación.
+
+### Fase 2. Construir con contenido de prueba
+
+1. Cread un documento vacío. Escribid marcadores `[TÍTULO]`, `[AUTOR]`, `[FECHA]` y `[VERSIÓN]` en la portada.
+2. Aplicad y modificad los estilos de título y cuerpo desde el panel de estilos. Cread `Aviso` y un estilo de carácter para nombres de archivo.
+3. Insertad un salto para entrar en la página interior. Activad allí cabecera y pie; insertad el número como campo.
+4. Añadid «Objetivo» y «Procedimiento» como títulos principales, y «Comprobación» como subapartado.
+5. Insertad una lista de pasos, una de requisitos y una tabla de dos columnas: `Versión` y `Cambio`.
+6. Insertad una imagen de ensayo sin datos personales, con proporción conservada y anclaje comprobado.
+7. Guardad como plantilla OTT. En el documento de empresa anotad nombre del archivo y versión.
+
+### Fase 3. Probar como si fuerais otra persona
+
+El integrante que no estaba editando crea un documento nuevo desde la plantilla. Completa los marcadores, añade dos páginas de prueba y cambia el estilo `Título 1`. Todos los títulos de ese nivel deben cambiar. Exporta a PDF y comprueba cabecera, pie y objetos. Si aparece un fallo, corregid la plantilla y generad otra prueba.
+
+### Nota de decisiones lista para completar
+
+| Decisión | Valor elegido | Motivo | Quién propone | Quién comprueba |
+| --- | --- | --- | --- | --- |
+| Cuerpo | [Fuente y tamaño] | [Legibilidad y disponibilidad] | [Nombre] | [Nombre] |
+| Títulos | [Niveles y formato] | [Jerarquía] | [Nombre] | [Nombre] |
+| Pie | [Datos y campo] | [Identificación] | [Nombre] | [Nombre] |
+
+### Revisión del ZIP
+
+Incluid `plantilla.ott`, `prueba.odt`, `prueba.pdf` y `decisiones` en un formato legible. Abrid el ZIP y comprobad los archivos desde una carpeta de prueba. No entreguéis solo una captura: debe ser posible crear un documento con la plantilla.
+
+**Para explicar vuestro trabajo:** mostrad un estilo, el campo de página y el procedimiento para crear un documento nuevo. Si el índice futuro no reconoce un título, revisad su estilo y nivel de esquema, no su tamaño.

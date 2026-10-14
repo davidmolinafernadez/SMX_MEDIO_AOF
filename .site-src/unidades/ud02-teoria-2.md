@@ -105,3 +105,52 @@ Sobre un documento de seis páginas:
 
 !!! failure "Una entrega no está terminada si..."
     El índice se rompe, quedan comentarios visibles, una imagen tapa texto, las tablas se cortan sin sentido, el PDF no coincide con el editable o el archivo final no puede abrirse en otra suite.
+
+## Taller explicado: tabla, captura y página horizontal
+
+### Diferencia entre anclaje y ajuste
+
+El **anclaje** indica a qué parte del documento está unida la imagen. El **ajuste** indica cómo se coloca el texto a su alrededor. Son decisiones distintas: una imagen puede estar anclada a un párrafo y permitir texto alrededor, o reservar un espacio propio.
+
+Para empezar, prueba **como carácter**: la imagen se comporta como un carácter grande en un párrafo y se desplaza con él. Es útil para capturas entre pasos de un manual. Si necesitas otro diseño, utiliza anclaje al párrafo y configura el ajuste; no arrastres la imagen hasta que «parezca» colocada sin comprobar su comportamiento.
+
+### Una captura completa y explicada
+
+1. Captura una pantalla de prueba sin datos personales. Recorta para mostrar la opción que quieres explicar, conservando el contexto necesario.
+2. Guarda como `captura_exportar_pdf.png`. Ese nombre informa de su contenido.
+3. Inserta el archivo desde el menú de imágenes. Mantén la proporción al cambiar tamaño: una pantalla estirada dificulta reconocer botones.
+4. Colócala en su propio párrafo, inicialmente como carácter.
+5. Añade una leyenda automática de categoría `Figura`: «Opciones de exportación del informe».
+6. Añade texto alternativo que comunique la información relevante: «Cuadro de exportación con la opción de marcadores activada». No repitas únicamente «imagen».
+7. Escribe antes la instrucción y después la comprobación. La captura ayuda a localizar una opción; el texto explica qué hacer.
+8. Inserta un párrafo antes de la captura. Imagen y explicación deben mantenerse en un orden comprensible.
+
+Una **leyenda** se ve bajo la figura y permite numerarla. El **texto alternativo** describe su información para lectores que no pueden verla. Ninguno sustituye el procedimiento escrito.
+
+### Tabla de ejemplo para construir
+
+| Equipo | Prueba realizada | Resultado | Acción |
+| --- | --- | --- | --- |
+| PC-01 | Abrir el informe ODT | Correcto | Ninguna |
+| PC-02 | Abrir la copia DOCX | Tabla demasiado ancha | Revisar ancho de columnas |
+| PC-03 | Abrir el PDF | Correcto | Entregar tras revisión |
+
+Inserta una tabla de cuatro columnas y cuatro filas en el procesador. La primera fila es cabecera: activa su repetición si la tabla pasa a otra página. Ajusta el ancho al área útil y evita reducir tanto la fuente que deje de leerse. Cuando una tabla necesita más anchura, usa una página horizontal delimitada por saltos.
+
+**No toda fila debe mantenerse unida a cualquier precio:** una fila más alta que una página necesita poder dividirse o reformularse. Para filas breves, evita que una parte quede en otra página. Revisa el resultado en el PDF.
+
+### Sección no significa capítulo
+
+Un capítulo es una división del contenido identificada con títulos. Una sección de Writer permite, entre otras cosas, aplicar columnas o proteger un tramo; no equivale a una sección de Word para cambiar orientación. Para un glosario de dos columnas en Writer, selecciona solo sus entradas e inserta una sección con dos columnas. Los títulos y el resto del manual deben conservar su diseño.
+
+### Diagnóstico rápido
+
+| Problema | Qué revisar primero |
+| --- | --- |
+| Imagen encima del texto | Ajuste y anclaje |
+| Imagen deformada | Proporción entre ancho y alto |
+| Toda la unidad en horizontal | Estilo global o saltos de sección/página |
+| Cabecera de tabla ausente en la segunda página | Repetición de filas de encabezado |
+| Figura lejos de su explicación | Orden de párrafos y opciones de mantener con el siguiente |
+
+**Resultado esperado:** puedes añadir texto, eliminar una fila y mover un apartado sin recolocar cada objeto a mano. La comprobación consiste en editar, no solo en observar una página quieta.

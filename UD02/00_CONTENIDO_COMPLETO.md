@@ -18,6 +18,20 @@ La unidad mezcla dos planos:
 - **Documento complejo:** secciones, tablas, imágenes, notas, leyendas, texto alternativo, referencias cruzadas e índices.
 - **Gestión documental:** combinación de correspondencia, formularios, macros, revisión, comparación de versiones, compatibilidad DOCX y exportación PDF.
 - **Guía documental:** normas internas para que la empresa use siempre los mismos criterios.
+- **Markdown, IA y web:** escritura estructurada desde cero, revisión de borradores de IA, prompts comentados, rutas de archivos y construcción de una web documental local.
+
+## Apuntes y actividades guiadas
+
+Los apuntes incluyen ejemplos resueltos, pasos para practicar, resultados esperados y diagnóstico de errores:
+
+1. [Formato de carácter y párrafo](Teoria/01_fundamentos_writer.md).
+2. [Estilos y plantillas](Teoria/02_estilos_y_plantillas.md).
+3. [Documento complejo](Teoria/03_imagenes_y_objetos.md).
+4. [Índices, referencias y PDF](Teoria/04_documentos_largos.md).
+5. [Documentos de gestión](Teoria/05_documentos_gestion.md).
+6. [Markdown, IA y web desde cero](Teoria/06_markdown_ia_web.md).
+
+Realiza el ensayo del tema antes de abrir su actividad. Para las entregas, sigue el enunciado detallado en `Actividades`: contiene las fases, los formatos y las pruebas. ACT-2.4 permite un borrador de IA con registro y revisión; ACT-2.5 se realiza individualmente sin IA.
 
 ## Recurso audiovisual en castellano
 
@@ -57,9 +71,9 @@ Cada alumno rehace una evidencia propia de UD01 como informe profesional: portad
 
 Cada alumno crea una carta combinada, un formulario rellenable, una macro documentada y un contrato revisado con control de cambios y compatibilidad.
 
-### ACT-2.4 · Guía documental de la empresa
+### ACT-2.4 · La web documental de la empresa
 
-La pareja añade a `EMPRESA_EquipoXX` la guía documental: uso de estilos, normas de formato, nombres de archivo, revisión, formatos editables y formatos de entrega.
+La pareja crea una web documental con páginas de inicio, normas y documentos, vinculada a `EMPRESA_EquipoXX`: estilos, nombres de archivo, revisión, formatos y enlaces reales. El enunciado incluye una base Markdown para completar y un guion de comprobación.
 
 ### ACT-2.5 · Manual para un cliente
 

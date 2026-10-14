@@ -89,3 +89,59 @@ Recibirás un texto en bruto. Debes transformarlo en un documento breve de empre
 ## Comprobación
 
 Un documento está bien construido si al añadir un párrafo en mitad del texto todo se recoloca sin romper portada, listas, numeración ni saltos. Si un pequeño cambio obliga a recolocar todo manualmente, todavía no es un documento profesional.
+
+## Aprende desde cero: seleccionar y dar formato
+
+El cursor indica dónde escribirás. Seleccionar significa marcar el contenido sobre el que actuarás. Para cambiar una palabra, selecciónala; para cambiar la alineación de un párrafo, basta colocar el cursor dentro. Si seleccionas todo para corregir un detalle, puedes alterar elementos que ya estaban bien.
+
+**Ejemplo:** en «No desconectes el equipo durante la instalación», pon en negrita solo «No desconectes». Después coloca el cursor en ese párrafo y cambia su alineación. La negrita afecta al fragmento; la alineación afecta al párrafo completo.
+
+| Ajuste | Qué cambia | Ejemplo para practicar |
+| --- | --- | --- |
+| Sangría izquierda | Distancia del párrafo al margen | Un aviso separado 0,5 cm del margen |
+| Sangría de primera línea | Solo el inicio del párrafo | Primera línea desplazada, sin espacios escritos |
+| Interlineado | Distancia entre líneas del mismo párrafo | 1,15 para el texto del ejercicio |
+| Espacio después | Separación con el siguiente párrafo | 6 puntos, sin pulsar Enter dos veces |
+| Tabulación | Posición de alineación dentro de una línea | Alinear una etiqueta con su valor |
+
+Estos valores son un punto de partida del taller, no requisitos universales. En Writer encontrarás estos ajustes en **Formato → Párrafo**; en Word, en el cuadro de diálogo de **Párrafo**. La regla permite observar sangrías y tabuladores, pero no sustituyas una tabla de datos por tabulaciones improvisadas.
+
+### Enter, salto de línea y salto de página
+
+**Enter** crea otro párrafo. **Mayús+Enter** baja a la línea siguiente dentro del mismo párrafo. **Ctrl+Enter** comienza otra página. Úsalos con intención: un apartado nuevo necesita un párrafo; una portada terminada necesita un salto de página. Los símbolos no imprimibles permiten distinguirlos y no salen impresos.
+
+### Ejercicio resuelto: de texto en bruto a documento
+
+Copia este texto como texto sin formato en un documento nuevo:
+
+```text
+NexoByte: instrucciones de soporte
+Antes de solicitar ayuda
+Comprueba que el equipo está conectado. Anota el mensaje de error.
+Datos necesarios
+Nombre del equipo
+Aplicación afectada
+Descripción del problema
+Importante
+No compartas contraseñas en la solicitud.
+```
+
+1. Guarda como `ensayo_formato.odt` para conservar un editable.
+2. Aplica `Título` a la primera línea y `Título 1` a «Antes de solicitar ayuda», «Datos necesarios» e «Importante».
+3. Selecciona las tres líneas de datos y activa las viñetas. Al pulsar Enter al final de un elemento aparece otra viñeta: esa es la prueba de que es una lista real.
+4. Configura el cuerpo con interlineado 1,15 y 6 puntos después. Elimina los párrafos vacíos usados para separar.
+5. Antes de «Importante», inserta un salto de página. Añade texto en la primera página: «Importante» debe seguir empezando en una nueva página.
+6. Busca una palabra con **Buscar**; usa **Buscar y reemplazar** solo después de revisar qué coincidencias cambiarás. No sustituyas todo sin leer.
+7. Revisa el idioma y la ortografía. Un nombre de empresa subrayado puede ser correcto; no aceptes todas las sugerencias automáticamente.
+8. Exporta a PDF, ábrelo y comprueba que las viñetas y el salto coinciden con el editable.
+
+### Si algo no sale
+
+| Síntoma | Causa probable | Cómo corregirlo |
+| --- | --- | --- |
+| El texto cambia de aspecto al pegar | Has importado formato ajeno | Deshaz y pega como texto sin formato |
+| Hay una página vacía | Párrafos vacíos o un salto adicional | Activa los símbolos y elimina solo el sobrante |
+| Una lista vuelve a empezar en 1 | Se ha creado otra lista | Usa continuar numeración en esa lista |
+| Las palabras quedan muy separadas | Texto justificado en una columna estrecha | Prueba alineación izquierda |
+
+**Comprueba que lo entiendes:** ¿qué ajuste usarías para separar párrafos sin líneas vacías? Respuesta: el espacio antes/después del párrafo. ¿Qué guardarías para seguir editando? El ODT o DOCX; el PDF es la copia de entrega.

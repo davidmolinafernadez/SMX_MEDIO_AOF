@@ -90,3 +90,45 @@ Partiendo del informe de ACT-2.2:
 
 !!! warning "Error típico"
     Entregar un PDF bonito pero con el editable roto. En esta unidad se revisan ambos: el documento editable debe demostrar estructura y el PDF debe demostrar entrega profesional.
+
+## Recorrido guiado: del título al PDF navegable
+
+### 1. Preparar el contenido del índice
+
+Escribe tres apartados: «Objetivo», «Procedimiento» y «Comprobación». Aplica `Título 1` a cada uno. Dentro de «Procedimiento», añade «Acceso» y «Exportación» con `Título 2`. Abre el Navegador de Writer o el panel de navegación de Word: deben aparecer en esa jerarquía. Si no aparecen, revisa los estilos antes de insertar el índice.
+
+En Writer coloca el cursor en la página del índice y usa **Insertar → Sumario e índice → Sumario, índice o bibliografía**; el nombre puede variar según versión. Selecciona el sumario basado en el esquema y muestra dos niveles. En Word usa **Referencias → Tabla de contenido** automática.
+
+No escribas dentro del índice para arreglar un título. Corrige el título en el cuerpo y actualiza el índice desde su menú contextual. Si falta un apartado, revisa su nivel; si el número de página está desfasado, actualiza después de terminar la maquetación.
+
+### 2. Leyenda y tabla de figuras
+
+Selecciona una captura y añade una leyenda de categoría `Figura` mediante la opción de leyendas del programa. Repite con otra imagen. Inserta un índice de ilustraciones/tabla de figuras basado en esa categoría. Una frase escrita manualmente bajo una imagen no crea por sí sola una entrada automática.
+
+### 3. Referencia cruzada resuelta
+
+Queremos escribir «Consulta la Figura 2 para comprobar la exportación», pero el número debe cambiar si insertamos otra figura antes.
+
+1. Escribe «Consulta la » y deja ahí el cursor.
+2. En Writer abre **Insertar → Referencia cruzada** y elige el tipo/categoría de la figura.
+3. Selecciona la leyenda de exportación y el formato que incluye categoría y número.
+4. Inserta y termina la frase: « para comprobar la exportación».
+5. Añade una figura antes y actualiza campos. La referencia debe mostrar el nuevo número de la figura de exportación.
+
+En Word la herramienta equivalente está en **Referencias → Referencia cruzada**. Puedes referenciar un título, una figura o su página: elige el destino y la información a mostrar. Un enlace externo a una web y una referencia cruzada interna cumplen funciones diferentes.
+
+### 4. Nota al pie y fuente
+
+Coloca el cursor después de una afirmación que requiera aclaración e inserta una nota al pie desde el menú correspondiente. Escribe la explicación o la fuente, su título y enlace. El procesador crea la llamada y reserva el espacio; no escribas un número elevado y una nota a mano al final de la página.
+
+### 5. Exportar y comprobar
+
+Actualiza índices y campos. Guarda el editable. En las opciones de exportación PDF revisa la exportación de marcadores/esquema y enlaces, y utiliza PDF etiquetado cuando esté disponible para conservar estructura de accesibilidad. Abre el PDF en un visor y comprueba estas tres cosas por separado:
+
+- **Índice visible:** página del documento que enumera apartados.
+- **Enlaces internos:** al pulsar un apartado del índice, el visor llega a su destino.
+- **Marcadores del visor:** árbol lateral con capítulos que permite navegar sin volver al índice.
+
+Que se vea el índice no garantiza que los otros dos funcionen. Si faltan marcadores, revisa los títulos y la opción de exportación. Si una referencia muestra un error, comprueba que no se haya eliminado su destino.
+
+**Prueba de estabilidad:** añade temporalmente una página antes del procedimiento, actualiza y observa el cambio de números. Retira la página, actualiza otra vez y exporta de nuevo. La copia final debe corresponder al editable final.
