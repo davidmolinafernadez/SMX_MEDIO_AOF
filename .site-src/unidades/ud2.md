@@ -14,8 +14,8 @@ El objetivo no es decorar documentos. El alumno debe aprender a construir docume
 
 1. [Formato de carácter y párrafo](ud02-teoria-0.md) · vídeo: [curso Writer en castellano](https://www.youtube.com/watch?v=17qiQOzf4GU).
 2. [Estilos y plantillas](ud02-teoria-1.md) · vídeo: [estilos de párrafo, carácter y lista](https://www.youtube.com/watch?v=0gvovKKfEAw).
-3. [El documento complejo](ud02-teoria-2.md) · vídeo: [curso Writer en castellano](https://www.youtube.com/watch?v=17qiQOzf4GU).
-4. [Índices, referencias y PDF](ud02-teoria-3.md) · vídeo: [curso Writer en castellano](https://www.youtube.com/watch?v=17qiQOzf4GU).
+3. [El documento complejo](ud02-teoria-2.md) · vídeo: [anclaje y ajuste de imágenes](https://www.youtube.com/watch?v=kRMPug6ZkYs).
+4. [Índices, referencias y PDF](ud02-teoria-3.md) · vídeo: [índice general y portada](https://www.youtube.com/watch?v=ESb8OTWVPZ0).
 5. [Documentos de gestión](ud02-teoria-4.md) · vídeo: [formularios en Writer](https://www.youtube.com/watch?v=FV7UsiELN-0).
 6. [Markdown y webs de documentación](ud02-teoria-5.md) · vídeo: [Markdown explicado fácil](https://www.youtube.com/watch?v=TmM8O7HZsfY).
 

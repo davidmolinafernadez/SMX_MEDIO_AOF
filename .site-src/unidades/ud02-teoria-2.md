@@ -6,9 +6,9 @@ El reto no es escribir mucho, sino conseguir que el documento siga siendo editab
 
 ## Vídeo de apoyo
 
-Antes del taller, revisa en el curso de Writer las lecciones sobre **imágenes**, **tablas** y **marcos**.
+Antes del taller, visualiza este tutorial sobre posición, alineación, anclaje y ajuste de imágenes. Es clave para que un documento complejo no se rompa al añadir texto, tablas o capturas.
 
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/17qiQOzf4GU" title="Curso LibreOffice Writer - índice de 40 tutoriales en castellano" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/kRMPug6ZkYs" title="Tutorial LibreOffice Writer - Posición, alineación, anclaje y ajuste de imagen" frameborder="0" allowfullscreen></iframe>
 
 Mientras lo ves, anota:
 

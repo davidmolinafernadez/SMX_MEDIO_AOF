@@ -6,9 +6,9 @@ En documentos de empresa se usan elementos automáticos porque reducen errores y
 
 ## Vídeo de apoyo
 
-Antes del taller, revisa en el curso de Writer las lecciones **28/40 Índice general**, **31/40 Referencias cruzadas** y **39/40 Exportar a PDF**.
+Antes del taller, visualiza este tutorial sobre índice general y portada. Es la base para crear índices automáticos a partir de títulos reales y revisar el documento antes de exportarlo a PDF.
 
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/17qiQOzf4GU" title="Curso LibreOffice Writer - índice de 40 tutoriales en castellano" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/ESb8OTWVPZ0" title="Tutorial LibreOffice Writer - Insertar índice general y página de portada" frameborder="0" allowfullscreen></iframe>
 
 Mientras lo ves, anota:
 
