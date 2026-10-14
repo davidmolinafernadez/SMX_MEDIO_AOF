@@ -6,7 +6,9 @@ Markdown permite escribir documentación sencilla con títulos, listas, tablas, 
 
 ## Vídeo de apoyo
 
-Antes del taller, visualiza [Markdown con Copilot](https://learn.microsoft.com/es-es/shows/github-copilot-series/markdown-using-copilot) como introducción rápida a la escritura de documentación estructurada.
+Antes del taller, visualiza esta introducción rápida a la escritura de documentación estructurada.
+
+<iframe width="100%" height="520" src="https://learn.microsoft.com/es-es/shows/github-copilot-series/markdown-using-copilot" title="Markdown para documentación" frameborder="0" allowfullscreen></iframe>
 
 Mientras lo ves, anota:
 
