@@ -171,36 +171,130 @@ El **editor** modifica archivos. La **vista previa** interpreta una página. El 
 
 En este taller usaremos **MkDocs**, el generador de esta web, con un proyecto pequeño independiente. El docente debe preparar Python y MkDocs en los equipos; no tienes que instalar nada para entender o ensayar la sintaxis. Si se utiliza otra herramienta, se mantienen los mismos contenidos y comprobaciones.
 
-### Crear el proyecto guiado
+### Paso 1. Crear el proyecto una sola vez
 
-Abre una terminal en tu carpeta de trabajo, comprueba `python -m mkdocs --version` y, si está disponible, ejecuta:
+Para este recorrido utiliza **PowerShell** para las órdenes y **Visual Studio Code** para editar. Python y MkDocs deben estar preparados en el equipo. Copia únicamente las líneas del interior de los bloques, sin las marcas que los rodean.
+
+Abre PowerShell en tu carpeta de trabajo y comprueba:
+
+```powershell
+python -m mkdocs --version
+```
+
+**Debes ver:** el número de versión de MkDocs. Si aparece que Python no se reconoce o que falta el módulo, avisa al docente antes de continuar.
+
+Si todavía no has creado `web-empresa`, ejecuta estas líneas, una cada vez:
 
 ```powershell
 python -m mkdocs new web-empresa
 cd web-empresa
 ```
 
-La primera orden crea el proyecto. La segunda entra en su carpeta. Si Python o MkDocs no se reconocen, avisa al docente y continúa con el editor; no pruebes comandos de instalación al azar.
+La primera crea la carpeta y los archivos iniciales. La segunda entra en la carpeta. **Si ya habías creado el proyecto, no repitas `new`: abre PowerShell en esa carpeta.** Por ejemplo, si lo creaste en tu carpeta de usuario de Windows:
 
-Organiza el proyecto así:
-
-```text
-web-empresa/
-  mkdocs.yml
-  docs/
-    index.md
-    guia-estilo.md
-    documentos.md
-    archivos/
-      plantilla.ott
-      informe.pdf
+```powershell
+cd "$env:USERPROFILE\web-empresa"
 ```
 
-`docs` contiene tus fuentes. `mkdocs.yml` define el nombre y el menú. `site` aparecerá al construir y contendrá la web generada. No edites `site` para corregir textos: cambia `docs` y vuelve a construir.
+**Comprueba antes de seguir:** en esa carpeta existe `mkdocs.yml` y una subcarpeta `docs`. Aún no ejecutes `serve`: primero prepararemos todas las páginas.
 
-### Configuración mínima lista para adaptar
+### Paso 2. Abrir la carpeta completa en VS Code
 
-Sustituye el contenido de `mkdocs.yml` del proyecto de ensayo por:
+1. Abre VS Code.
+2. Selecciona **File → Open Folder… / Archivo → Abrir carpeta…**.
+3. Selecciona **web-empresa**, la carpeta que contiene `mkdocs.yml`, y pulsa **Seleccionar carpeta**.
+4. Pulsa el icono del **Explorador de archivos** de la barra izquierda de VS Code. Despliega `docs`.
+
+**Debes ver:** `mkdocs.yml` fuera de `docs` y `index.md` dentro de `docs`. No edites una copia situada en otra carpeta ni archivos dentro de `site`.
+
+### Paso 3. Sustituir la página de ejemplo por tu inicio
+
+MkDocs crea `docs/index.md` con el texto **Welcome to MkDocs**. Cambiar el nombre de la web en la configuración no sustituye ese contenido: hay que editar esta página.
+
+1. En el Explorador de VS Code, abre **docs → index.md**.
+2. Dentro del editor pulsa **Ctrl+A** para seleccionar su contenido.
+3. Sustituye todo por este ejemplo:
+
+```md
+# NexoByte · Guía documental
+
+Esta guía explica cómo crear, revisar y entregar
+los documentos de nuestra empresa ficticia.
+
+## Empieza aquí
+
+- Consulta las [normas documentales](guia-estilo.md).
+- Revisa los [documentos y formatos](documentos.md).
+
+## Cómo trabajamos
+
+1. Creamos el documento desde la plantilla corporativa.
+2. Revisamos contenido, imágenes y ortografía.
+3. Guardamos el editable.
+4. Exportamos a PDF y comprobamos el resultado.
+```
+
+4. Pulsa **Ctrl+S** para guardar. No uses «Guardar como» para crear otra copia.
+
+**Comprueba:** la pestaña se llama `index.md` y el texto ya no contiene «Welcome to MkDocs». Los dos enlaces funcionarán después de crear las páginas de los pasos siguientes.
+
+### Paso 4. Crear la página de normas con el nombre exacto
+
+1. En el Explorador de VS Code, haz clic derecho sobre **docs**.
+2. Selecciona **New File / Nuevo archivo**.
+3. Escribe exactamente **guia-estilo.md** y pulsa Enter.
+4. Pega este contenido:
+
+```md
+# Normas documentales
+
+## Estilos
+
+Utilizamos títulos jerárquicos y párrafos breves.
+En los informes aplicamos los estilos de la plantilla corporativa.
+
+## Imágenes
+
+Las capturas deben ser legibles y no mostrar datos personales.
+
+## Revisión
+
+1. Revisar el contenido y la ortografía.
+2. Comprobar imágenes y enlaces.
+3. Guardar el editable y exportar a PDF.
+4. Abrir el PDF y revisar todas sus páginas.
+```
+
+5. Guarda con **Ctrl+S**.
+
+**Comprueba:** el nombre termina en `.md`, sin `.txt` añadido. Crear el archivo desde el Explorador de VS Code permite escribir directamente el nombre completo.
+
+### Paso 5. Crear la página de documentos
+
+Repite el procedimiento: clic derecho en **docs → Nuevo archivo**, escribe **documentos.md** y pega:
+
+```md
+# Documentos de la empresa
+
+## Formatos que utilizamos
+
+| Documento | Formato de trabajo | Formato de entrega |
+| --- | --- | --- |
+| Informe | ODT | PDF |
+| Plantilla | OTT | OTT |
+
+## Antes de entregar
+
+Conservamos el archivo editable y comprobamos el PDF final.
+```
+
+Guarda con **Ctrl+S**. Por ahora no necesitas adjuntar documentos: primero comprobaremos que las tres páginas funcionan.
+
+**Si has guardado algún archivo como `.md.txt`:** en el Explorador de VS Code, selecciónalo, pulsa **F2** y elimina únicamente el `.txt` final. Si el archivo con el nombre correcto ya existe, abre y revisa ambos antes de sustituir nada. Si utilizas «Guardar como», selecciona **Markdown** en el desplegable **Tipo** y escribe el nombre terminado en `.md`.
+
+### Paso 6. Configurar el nombre y el menú
+
+Abre **mkdocs.yml**, situado en la carpeta principal, fuera de `docs`. Sustituye su contenido por:
 
 ```yaml
 site_name: NexoByte · Guía documental
@@ -214,46 +308,100 @@ markdown_extensions:
   - admonition
 ```
 
-El nombre es un ejemplo. Cada archivo del menú debe existir dentro de `docs`. Conserva la sangría de YAML con espacios: desplazar una línea cambia su significado. `use_directory_urls: false` produce enlaces a archivos HTML y facilita revisar las páginas locales; algunas funciones pueden necesitar servidor.
+Guarda con **Ctrl+S**. Conserva los espacios de sangría, sin usar tabuladores.
 
-### Ver, corregir y construir
+`site_name` cambia el nombre de la cabecera. `nav` indica las páginas del menú. **Escribir un archivo en `nav` no lo crea**: por eso hemos creado las páginas antes de configurar el menú. `tables` permite interpretar las tablas y `admonition` los recuadros de aviso.
 
-Desde la carpeta donde está `mkdocs.yml`, ejecuta:
+**Comprueba esta estructura exacta antes de arrancar:**
+
+```text
+web-empresa/
+  mkdocs.yml
+  docs/
+    index.md
+    guia-estilo.md
+    documentos.md
+```
+
+### Paso 7. Arrancar la web y comprobar las tres páginas
+
+Vuelve a PowerShell. Debes estar dentro de **web-empresa**, donde se encuentra `mkdocs.yml`. Ejecuta:
 
 ```powershell
 python -m mkdocs serve
 ```
 
-Abre la dirección local que indique la terminal, normalmente `http://127.0.0.1:8000`. Guarda cambios en un `.md` y observa su actualización. Para detener el servidor usa `Ctrl+C` en la terminal.
+Espera a que aparezca **Serving on…**. Abre en el navegador la dirección que indique la terminal, normalmente `http://127.0.0.1:8000`.
 
-Después construye:
+**Deja PowerShell abierto:** mientras el servidor está activo, esa terminal queda ocupada. No escribas ahí otras órdenes hasta detenerlo con **Ctrl+C**.
+
+Comprueba en este orden:
+
+1. En **Inicio** aparece «NexoByte · Guía documental» y el texto que has escrito, sin «Welcome to MkDocs».
+2. Al pulsar **Normas**, aparecen Estilos, Imágenes y Revisión.
+3. Al pulsar **Documentos**, aparece la tabla de formatos.
+4. Al volver a Inicio, los enlaces del contenido también abren esas páginas.
+
+### Paso 8. Comprobar que los cambios se actualizan
+
+En VS Code, añade una frase a `docs/index.md` y guarda con **Ctrl+S**. El navegador debería actualizarse. Si no lo hace, pulsa **Ctrl+F5** en el navegador.
+
+**Si continúa apareciendo la página antigua o «Welcome to MkDocs»:**
+
+1. Comprueba en VS Code que editas `web-empresa/docs/index.md`, sin `.txt`, y guarda con **Ctrl+S**.
+2. Vuelve a la ventana de PowerShell donde está ejecutándose MkDocs y pulsa **Ctrl+C**.
+3. Comprueba que sigues en la carpeta `web-empresa` que contiene esos archivos.
+4. Ejecuta otra vez `python -m mkdocs serve`.
+5. Abre la dirección que indique y pulsa **Ctrl+F5**.
+
+No vuelvas a crear el proyecto para resolverlo: primero comprueba archivo, guardado y servidor.
+
+### Paso 9. Añadir documentos reales cuando la navegación funcione
+
+1. Crea una carpeta **archivos** dentro de **docs**.
+2. Copia en ella tu plantilla y un informe PDF revisado. Para este ensayo utiliza los nombres `plantilla.ott` e `informe.pdf`; si tienen otros nombres, adapta los enlaces.
+3. Añade al final de `documentos.md`:
+
+```md
+## Archivos disponibles
+
+- [Descargar plantilla corporativa](archivos/plantilla.ott)
+- [Consultar informe de ejemplo](archivos/informe.pdf)
+```
+
+4. Guarda y comprueba en la web que ambos enlaces abren o descargan el archivo correcto.
+
+No añadas un enlace a un archivo que todavía no existe. No uses rutas como `C:\Users\...`: los documentos deben estar dentro del proyecto para poder compartirlos.
+
+### Paso 10. Construir la versión de entrega
+
+Cuando las páginas y enlaces funcionen, vuelve a PowerShell y pulsa **Ctrl+C** para detener el servidor. Desde la misma carpeta ejecuta:
 
 ```powershell
 python -m mkdocs build --strict
 ```
 
-La orden genera `site`. Si informa de un archivo ausente, revisa el nombre y la ruta. Si señala una línea de configuración, comprueba sangría y sintaxis. Lee el error antes de cambiar cosas. Para compartir el trabajo entrega las fuentes y la web generada, además de la evidencia pedida en ACT-2.4. La publicación en Internet es opcional y se realizará por el procedimiento que indique el docente.
+**Resultado esperado:** se crea o actualiza la carpeta `site` y la orden termina sin errores. Si aparece un aviso sobre un archivo del menú, revisa que exista dentro de `docs` y que su nombre coincida exactamente.
 
-## 6. Ensayo completo antes de ACT-2.4
+`docs` y `mkdocs.yml` son los archivos que editas. `site` es el resultado generado: no corrijas sus páginas a mano, porque la próxima construcción las reemplaza.
 
-1. Crea las tres páginas del menú.
-2. En Inicio escribe nombre, actividad, lector de la guía y enlaces a las otras dos páginas.
-3. En Normas incluye una regla de títulos, una de imágenes y una lista de revisión.
-4. En Documentos añade la tabla de formatos y enlaza los dos archivos reales de `archivos`.
-5. Previsualiza o sirve el proyecto. Abre los enlaces y vuelve al inicio desde el menú.
-6. Cambia deliberadamente una ruta y observa el fallo. Restáurala y prueba de nuevo.
-7. Construye y abre el resultado. Conserva el proyecto fuente para poder corregirlo.
+Conserva el proyecto fuente y la carpeta `site`. Prepara la evidencia solicitada en ACT-2.4. La dirección `127.0.0.1` solo permite ver el servidor en tu propio equipo; publicar en Internet es un paso posterior que indicará el docente.
 
-| Si ocurre esto | Comprueba esto |
+## 6. Comprobación final antes de ACT-2.4
+
+| Comprobación | Resultado que debes obtener |
 | --- | --- |
-| Aparece `#Título` literal | Falta el espacio después de `#` |
-| La tabla aparece como texto | Fila separadora y extensión de tablas |
-| Se ven todas las marcas como código | Has dejado un bloque de tres acentos graves envolviendo la página |
-| No aparece una imagen | Ruta, extensión y archivo real |
-| Un enlace solo funciona en tu equipo | Puede ser una ruta absoluta local |
-| La web muestra texto antiguo | Guarda la fuente y vuelve a construir/actualizar |
+| Nombre de los archivos | Tres páginas `.md`, sin `.txt` añadido |
+| Inicio | Tu texto, sin la página de bienvenida de MkDocs |
+| Menú | Inicio, Normas y Documentos abren correctamente |
+| Tabla | Los formatos se muestran en columnas |
+| Cambios | Al guardar se actualiza el contenido de la web |
+| Archivos adjuntos | La plantilla y el PDF abren desde Documentos |
+| Construcción | `build --strict` termina correctamente |
 
-**Puedes dar el taller por terminado** cuando otra persona logra encontrar la plantilla, entender los formatos y seguir tu protocolo de revisión sin preguntarte qué significa cada paso.
+Si VS Code muestra un error de **LTeX/Java**, corresponde a su extensión de corrección lingüística. Ese aviso no significa que MkDocs haya fallado: comprueba el resultado de MkDocs en PowerShell y la página en el navegador.
+
+Una vez completado este ensayo, adapta los textos de NexoByte a tu empresa y continúa con ACT-2.4. Mantén la misma estructura y revisa los enlaces después de cambiar nombres o archivos.
 
 ## Fuentes para consultar
 
