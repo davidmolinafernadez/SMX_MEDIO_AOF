@@ -60,6 +60,54 @@ La vista previa no es otro archivo ni tienes que escribir el texto dos veces. El
 
 Con esto has creado y comprobado un documento Markdown. La vista previa permite ver su aspecto dentro del editor; todavía no lo has publicado en Internet. Más adelante aprenderás a convertir varios documentos en una web.
 
+### Ver esta primera guía en el navegador
+
+Para este paso, el docente debe haber preparado **Python 3 y MkDocs** en el equipo. MkDocs es la herramienta que convierte el texto Markdown en páginas que puede mostrar el navegador.
+
+Vamos a utilizar el archivo `index.md` que acabas de guardar. No necesitas programar: sigue estas instrucciones y comprueba el resultado de cada paso.
+
+1. En el gestor de archivos, abre la carpeta **ensayo_markdown**, donde has guardado `index.md`. Haz clic derecho en un espacio vacío y selecciona **Abrir terminal aquí**. La Terminal es una ventana donde escribes instrucciones para el equipo. Aquí las llamaremos **comandos**. Escribe cada comando y pulsa **Enter** para ejecutarlo; espera a que termine antes de escribir el siguiente.
+2. Escribe este comando para comprobar que MkDocs está disponible:
+
+   ```bash
+   python3 -m mkdocs --version
+   ```
+
+   **Qué significa:** `python3` abre Python; `-m mkdocs` le pide que utilice MkDocs; `--version` solicita su número de versión. **Debes ver:** un número de versión. Si aparece `No module named mkdocs` o `command not found`, pide al docente que revise la preparación del equipo antes de continuar.
+
+3. Crea el proyecto que mostrará tu guía:
+
+   ```bash
+   python3 -m mkdocs new web-guia
+   ```
+
+   **Qué significa:** `new` indica «crear un proyecto» y `web-guia` es el nombre de la carpeta nueva. **Debes ver:** dentro de `ensayo_markdown` aparece `web-guia`, que contiene el archivo de configuración `mkdocs.yml` y la carpeta `docs`. Ejecuta este comando solo la primera vez.
+
+4. Vuelve al gestor de archivos. **Copia** tu `index.md` de `ensayo_markdown` y pégalo dentro de **web-guia → docs**. Cuando pregunte si quieres reemplazar el `index.md` de ejemplo, acepta. Así la página de inicio contendrá tu título y tu frase.
+5. Vuelve a la Terminal y entra en la carpeta del proyecto:
+
+   ```bash
+   cd web-guia
+   ```
+
+   **Qué significa:** `cd` cambia la carpeta en la que trabaja la Terminal. A partir de ahora los comandos se ejecutan dentro de `web-guia`.
+
+6. Pon en marcha la visualización de la web:
+
+   ```bash
+   python3 -m mkdocs serve
+   ```
+
+   **Qué significa:** `serve` inicia un pequeño servidor en tu equipo para que el navegador pueda mostrar la guía. **Debes ver:** una línea con `Serving on` y una dirección parecida a `http://127.0.0.1:8000/`. Deja esta Terminal abierta y no escribas más comandos mientras esté funcionando.
+
+7. Abre **Firefox** o el navegador del aula. En la barra de direcciones de la parte superior, escribe **`http://127.0.0.1:8000/`** y pulsa **Enter**. Si la Terminal muestra otra dirección, utiliza esa. No la escribas en el buscador. **Debes ver:** tu título y tu frase dentro de una página web, sin las marcas de Markdown.
+8. Para probar un cambio, abre en VS Code **ensayo_markdown/web-guia/docs/index.md**, cambia la frase y guarda. Comprueba el cambio en el navegador; si hace falta, pulsa el botón de recargar. Desde este momento, edita esta copia, que es la que utiliza la web.
+9. Para terminar, vuelve a la Terminal y pulsa **Ctrl+C**. Esto detiene el servidor. Los archivos se conservan, pero la dirección local deja de funcionar hasta que vuelvas a arrancarlo.
+
+**Para abrirlo otro día:** entra en `ensayo_markdown/web-guia` con el gestor de archivos, selecciona **Abrir terminal aquí**, ejecuta `python3 -m mkdocs serve` y abre la dirección indicada en el navegador. No repitas `new` ni vuelvas a copiar el archivo inicial.
+
+La dirección `127.0.0.1` significa «este equipo». Has conseguido ver tu guía como una web en tu ordenador; para que otras personas accedan desde Internet habrá que publicarla más adelante. El apartado 5 amplía este ensayo con varias páginas y un menú.
+
 ## 3. Sintaxis explicada con ejemplos
 
 ### Títulos, párrafos y énfasis
@@ -361,11 +409,15 @@ web-empresa/
 
 Vuelve a la Terminal. Debes estar dentro de **web-empresa**, donde se encuentra `mkdocs.yml`. Ejecuta:
 
+Si acabas de abrir una Terminal nueva, escribe primero `cd ~/web-empresa` y pulsa Enter. `cd` cambia de carpeta y `~` representa tu carpeta personal.
+
 ```bash
 python3 -m mkdocs serve
 ```
 
-Espera a que aparezca **Serving on…**. Abre en el navegador la dirección que indique la terminal, normalmente `http://127.0.0.1:8000`.
+En este comando, `python3` abre Python, `-m mkdocs` selecciona la herramienta MkDocs y `serve` pone en marcha el servidor para ver la web en tu equipo.
+
+Espera a que aparezca **Serving on…**. Abre Firefox o el navegador del aula, escribe en su **barra de direcciones** la dirección que indique la Terminal, normalmente `http://127.0.0.1:8000/`, y pulsa **Enter**. No escribas la dirección en el buscador. Verás las páginas que MkDocs prepara a partir de tus archivos Markdown.
 
 **Deja la Terminal abierta:** mientras el servidor está activo, esa terminal queda ocupada. No escribas ahí otras órdenes hasta detenerlo con **Ctrl+C**.
 
