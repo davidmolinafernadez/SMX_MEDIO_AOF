@@ -67,7 +67,7 @@ Se valorará que la web organice la documentación real de la empresa, no que te
 
 ## Paso a paso para tu primera web documental
 
-Antes de empezar, realiza el ensayo de [Markdown, IA y web desde cero](../Teoria/06_markdown_ia_web.md). Para esta ruta guiada usarás Markdown y MkDocs. Si el docente indica Google Sites u otra herramienta, conserva las secciones, archivos y pruebas del encargo.
+Antes de empezar, realiza el ensayo de [Markdown, IA y web desde cero](../Teoria/06_markdown_ia_web.md). Para esta ruta guiada usarás Markdown y MkDocs en **Linux/LliureX**. Abre la aplicación **Terminal** y utiliza `python3`; sigue los diez pasos de la teoría para crear el proyecto en `~/web-empresa`. Si el docente indica Google Sites u otra herramienta, conserva las secciones, archivos y pruebas del encargo.
 
 ### Fase 1. Preparar los materiales reales
 
@@ -138,11 +138,11 @@ Podéis usar el prompt de la teoría para un borrador. Cambiad los datos a vuest
 ### Fase 4. Construir y probar con otro lector
 
 1. Completa el menú de `mkdocs.yml` con las tres páginas.
-2. Abre la vista local con `python -m mkdocs serve` desde la carpeta del proyecto.
+2. Abre la vista local con `python3 -m mkdocs serve` desde la carpeta del proyecto.
 3. Haz que tu compañero entre por Inicio y encuentre la plantilla, los formatos y el protocolo de revisión.
 4. Prueba cada enlace y descarga. Anota el destino y el resultado; corrige fallos y repite.
 5. Revisa en una ventana estrecha: títulos, tablas y textos deben seguir siendo legibles.
-6. Detén el servidor y construye con `python -m mkdocs build --strict`.
+6. Detén el servidor y construye con `python3 -m mkdocs build --strict`.
 7. Conserva las fuentes y `site`. Si no se publica, entrega evidencias completas de las páginas y pruebas. Una dirección `localhost` solo funciona en el equipo que ejecuta el servidor.
 
 ### PDF de evidencia: orden listo para seguir

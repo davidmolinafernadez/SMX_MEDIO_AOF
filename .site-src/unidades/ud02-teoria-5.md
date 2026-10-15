@@ -21,7 +21,7 @@ La equivalencia es funcional, no una correspondencia automática de nombres: en 
 
 1. Crea una carpeta `ensayo_markdown`.
 2. Abre un editor de texto con vista previa, por ejemplo el disponible en el aula. No crees el archivo en Writer ni Word.
-3. Crea `index.md`. En Windows comprueba que no se llama `index.md.txt`: activa la visualización de extensiones en el Explorador.
+3. Crea `index.md` desde el editor de texto y guarda con ese nombre exacto. En Linux/LliureX, comprueba el nombre completo en el gestor de archivos o en el Explorador de VS Code.
 4. Escribe `# Mi primera guía`, deja una línea en blanco y escribe una frase.
 5. Guarda. Abre la vista previa del editor y compara el título con el código fuente. En VS Code puedes usar **Abrir vista previa** o **Abrir vista previa al lado**.
 
@@ -74,7 +74,7 @@ Usa viñetas cuando el orden no importa y números para pasos que deben seguirse
 
 El texto entre corchetes dice qué abrirás. Lo que está entre paréntesis es la dirección o **ruta**. Una ruta relativa se calcula desde la carpeta del archivo Markdown. Si `index.md` y `guia-estilo.md` están juntos, basta el nombre. Si la plantilla está en `archivos`, necesitas `archivos/plantilla.ott`.
 
-El signo `!` diferencia una imagen de un enlace. Su texto alternativo explica el contenido relevante. Respeta exactamente nombres, extensiones y mayúsculas: una ruta que funciona en Windows puede fallar en un servidor que distingue mayúsculas. No enlaces `C:\Users\...`: esa ruta solo existe en tu ordenador.
+El signo `!` diferencia una imagen de un enlace. Su texto alternativo explica el contenido relevante. Respeta exactamente nombres, extensiones y mayúsculas: en Linux `Informe.pdf` e `informe.pdf` son nombres distintos. No enlaces rutas personales como `/home/usuario/...`: solo existen en ese equipo. Utiliza rutas relativas dentro del proyecto.
 
 ### Tablas
 
@@ -173,36 +173,37 @@ En este taller usaremos **MkDocs**, el generador de esta web, con un proyecto pe
 
 ### Paso 1. Crear el proyecto una sola vez
 
-Para este recorrido utiliza **PowerShell** para las órdenes y **Visual Studio Code** para editar. Python y MkDocs deben estar preparados en el equipo. Copia únicamente las líneas del interior de los bloques, sin las marcas que los rodean.
+Este recorrido está preparado para **Linux/LliureX**, el sistema del aula. Utiliza la aplicación **Terminal** para las órdenes y **Visual Studio Code** para editar. El docente debe comprobar previamente que Python 3, MkDocs y el editor están disponibles en los equipos. Copia únicamente las líneas del interior de los bloques, sin las marcas que los rodean.
 
-Abre PowerShell en tu carpeta de trabajo y comprueba:
+Abre **Terminal** desde el menú de aplicaciones de LliureX; también puedes buscar «Terminal» en el menú. Escribe esta orden y pulsa Enter:
 
-```powershell
-python -m mkdocs --version
+```bash
+python3 -m mkdocs --version
 ```
 
-**Debes ver:** el número de versión de MkDocs. Si aparece que Python no se reconoce o que falta el módulo, avisa al docente antes de continuar.
+**Debes ver:** el número de versión de MkDocs. Si aparece `python3: command not found` o `No module named mkdocs`, avisa al docente: falta preparar la herramienta. No ejecutes instalaciones con `sudo` ni cambies el Python del sistema para seguir este taller.
 
-Si todavía no has creado `web-empresa`, ejecuta estas líneas, una cada vez:
+Para que todos trabajemos desde una ubicación clara, utiliza tu **carpeta personal**. Si todavía no has creado `web-empresa`, ejecuta estas líneas una cada vez, pulsando Enter después de cada una:
 
-```powershell
-python -m mkdocs new web-empresa
+```bash
+cd ~
+python3 -m mkdocs new web-empresa
 cd web-empresa
 ```
 
-La primera crea la carpeta y los archivos iniciales. La segunda entra en la carpeta. **Si ya habías creado el proyecto, no repitas `new`: abre PowerShell en esa carpeta.** Por ejemplo, si lo creaste en tu carpeta de usuario de Windows:
+`cd ~` entra en tu carpeta personal; `~` representa esa carpeta, normalmente `/home/tu_usuario`. La segunda orden crea el proyecto y la tercera entra en él. **Si ya habías creado el proyecto en tu carpeta personal, no repitas `new`: entra directamente con esta orden:**
 
-```powershell
-cd "$env:USERPROFILE\web-empresa"
+```bash
+cd ~/web-empresa
 ```
 
-**Comprueba antes de seguir:** en esa carpeta existe `mkdocs.yml` y una subcarpeta `docs`. Aún no ejecutes `serve`: primero prepararemos todas las páginas.
+**Comprueba antes de seguir:** escribe `pwd` y pulsa Enter para ver la carpeta actual; después escribe `ls` y pulsa Enter para listar su contenido. La ruta debe terminar en `/web-empresa` y deben aparecer `mkdocs.yml` y `docs`. Si habías creado el proyecto en otra ubicación, abre esa carpeta en el gestor de archivos y utiliza «Abrir terminal aquí», si está disponible. Aún no ejecutes `serve`: primero prepararemos todas las páginas.
 
 ### Paso 2. Abrir la carpeta completa en VS Code
 
 1. Abre VS Code.
 2. Selecciona **File → Open Folder… / Archivo → Abrir carpeta…**.
-3. Selecciona **web-empresa**, la carpeta que contiene `mkdocs.yml`, y pulsa **Seleccionar carpeta**.
+3. En el diálogo de carpetas, entra en tu **carpeta personal**, selecciona **web-empresa** —la que contiene `mkdocs.yml`— y confirma con **Abrir/Seleccionar carpeta**. El texto del botón puede variar con el idioma del equipo.
 4. Pulsa el icono del **Explorador de archivos** de la barra izquierda de VS Code. Despliega `docs`.
 
 **Debes ver:** `mkdocs.yml` fuera de `docs` y `index.md` dentro de `docs`. No edites una copia situada en otra carpeta ni archivos dentro de `site`.
@@ -290,7 +291,7 @@ Conservamos el archivo editable y comprobamos el PDF final.
 
 Guarda con **Ctrl+S**. Por ahora no necesitas adjuntar documentos: primero comprobaremos que las tres páginas funcionan.
 
-**Si has guardado algún archivo como `.md.txt`:** en el Explorador de VS Code, selecciónalo, pulsa **F2** y elimina únicamente el `.txt` final. Si el archivo con el nombre correcto ya existe, abre y revisa ambos antes de sustituir nada. Si utilizas «Guardar como», selecciona **Markdown** en el desplegable **Tipo** y escribe el nombre terminado en `.md`.
+**Comprueba también las mayúsculas:** escribe `guia-estilo.md` y `documentos.md` tal como aparecen aquí. En Linux, `Documentos.md` no coincide con `documentos.md`.
 
 ### Paso 6. Configurar el nombre y el menú
 
@@ -325,15 +326,15 @@ web-empresa/
 
 ### Paso 7. Arrancar la web y comprobar las tres páginas
 
-Vuelve a PowerShell. Debes estar dentro de **web-empresa**, donde se encuentra `mkdocs.yml`. Ejecuta:
+Vuelve a la Terminal. Debes estar dentro de **web-empresa**, donde se encuentra `mkdocs.yml`. Ejecuta:
 
-```powershell
-python -m mkdocs serve
+```bash
+python3 -m mkdocs serve
 ```
 
 Espera a que aparezca **Serving on…**. Abre en el navegador la dirección que indique la terminal, normalmente `http://127.0.0.1:8000`.
 
-**Deja PowerShell abierto:** mientras el servidor está activo, esa terminal queda ocupada. No escribas ahí otras órdenes hasta detenerlo con **Ctrl+C**.
+**Deja la Terminal abierta:** mientras el servidor está activo, esa terminal queda ocupada. No escribas ahí otras órdenes hasta detenerlo con **Ctrl+C**.
 
 Comprueba en este orden:
 
@@ -349,9 +350,9 @@ En VS Code, añade una frase a `docs/index.md` y guarda con **Ctrl+S**. El naveg
 **Si continúa apareciendo la página antigua o «Welcome to MkDocs»:**
 
 1. Comprueba en VS Code que editas `web-empresa/docs/index.md`, sin `.txt`, y guarda con **Ctrl+S**.
-2. Vuelve a la ventana de PowerShell donde está ejecutándose MkDocs y pulsa **Ctrl+C**.
+2. Vuelve a la ventana de Terminal donde está ejecutándose MkDocs y pulsa **Ctrl+C**.
 3. Comprueba que sigues en la carpeta `web-empresa` que contiene esos archivos.
-4. Ejecuta otra vez `python -m mkdocs serve`.
+4. Ejecuta otra vez `python3 -m mkdocs serve`.
 5. Abre la dirección que indique y pulsa **Ctrl+F5**.
 
 No vuelvas a crear el proyecto para resolverlo: primero comprueba archivo, guardado y servidor.
@@ -371,14 +372,14 @@ No vuelvas a crear el proyecto para resolverlo: primero comprueba archivo, guard
 
 4. Guarda y comprueba en la web que ambos enlaces abren o descargan el archivo correcto.
 
-No añadas un enlace a un archivo que todavía no existe. No uses rutas como `C:\Users\...`: los documentos deben estar dentro del proyecto para poder compartirlos.
+No añadas un enlace a un archivo que todavía no existe. No uses rutas como `/home/tu_usuario/...`: los documentos deben estar dentro del proyecto y enlazarse con rutas relativas para poder compartirlos.
 
 ### Paso 10. Construir la versión de entrega
 
-Cuando las páginas y enlaces funcionen, vuelve a PowerShell y pulsa **Ctrl+C** para detener el servidor. Desde la misma carpeta ejecuta:
+Cuando las páginas y enlaces funcionen, vuelve a la Terminal y pulsa **Ctrl+C** para detener el servidor. Desde la misma carpeta ejecuta:
 
-```powershell
-python -m mkdocs build --strict
+```bash
+python3 -m mkdocs build --strict
 ```
 
 **Resultado esperado:** se crea o actualiza la carpeta `site` y la orden termina sin errores. Si aparece un aviso sobre un archivo del menú, revisa que exista dentro de `docs` y que su nombre coincida exactamente.
@@ -399,9 +400,15 @@ Conserva el proyecto fuente y la carpeta `site`. Prepara la evidencia solicitada
 | Archivos adjuntos | La plantilla y el PDF abren desde Documentos |
 | Construcción | `build --strict` termina correctamente |
 
-Si VS Code muestra un error de **LTeX/Java**, corresponde a su extensión de corrección lingüística. Ese aviso no significa que MkDocs haya fallado: comprueba el resultado de MkDocs en PowerShell y la página en el navegador.
+Si VS Code muestra un error de **LTeX/Java**, corresponde a su extensión de corrección lingüística. Ese aviso no significa que MkDocs haya fallado: comprueba el resultado de MkDocs en la Terminal y la página en el navegador.
 
 Una vez completado este ensayo, adapta los textos de NexoByte a tu empresa y continúa con ACT-2.4. Mantén la misma estructura y revisa los enlaces después de cambiar nombres o archivos.
+
+## Nota para quien repita el ensayo en Windows
+
+El recorrido principal del aula utiliza Linux/LliureX. En Windows abre **PowerShell**, usa `python -m mkdocs` en lugar de `python3 -m mkdocs` y entra en la carpeta real donde creaste tu proyecto. Los archivos Markdown y `mkdocs.yml` tienen el mismo contenido en ambos sistemas.
+
+Si en Windows un archivo se guarda como `.md.txt`, selecciónalo en el Explorador de VS Code, pulsa **F2** y elimina el `.txt` final. Si usas «Guardar como», selecciona **Markdown** en **Tipo**. Si el nombre correcto ya existe, revisa ambos archivos antes de sustituir nada.
 
 ## Fuentes para consultar
 
