@@ -19,13 +19,46 @@ La equivalencia es funcional, no una correspondencia automática de nombres: en 
 
 ## 2. Preparar el primer archivo
 
-1. Crea una carpeta `ensayo_markdown`.
-2. Abre un editor de texto con vista previa, por ejemplo el disponible en el aula. No crees el archivo en Writer ni Word.
-3. Crea `index.md` desde el editor de texto y guarda con ese nombre exacto. En Linux/LliureX, comprueba el nombre completo en el gestor de archivos o en el Explorador de VS Code.
-4. Escribe `# Mi primera guía`, deja una línea en blanco y escribe una frase.
-5. Guarda. Abre la vista previa del editor y compara el título con el código fuente. En VS Code puedes usar **Abrir vista previa** o **Abrir vista previa al lado**.
+### Antes de empezar: dos formas de ver el mismo texto
 
-Ver el archivo como texto en un navegador no demuestra que esté convertido en web. Para empezar basta la vista previa; más adelante lo procesará un generador.
+No necesitas haber programado. En esta actividad vas a escribir una frase y a indicar cuál es su título mediante una marca: `#` seguido de un espacio.
+
+Usaremos **Visual Studio Code (VS Code)**, una aplicación que permite escribir y guardar texto. Aunque también se utiliza para programar, aquí solo la usaremos para escribir un documento. No crees este archivo en Writer ni Word.
+
+El editor permite ver el mismo documento de dos formas:
+
+- **Texto que escribes:** aparecen las marcas, por ejemplo `# Mi primera guía`.
+- **Vista previa:** es un panel del editor que muestra cómo queda el documento con formato. En el ejemplo verás **Mi primera guía** como un título grande, sin el signo `#`.
+
+La vista previa no es otro archivo ni tienes que escribir el texto dos veces. El editor la prepara a partir de lo que has escrito.
+
+### Crear y guardar el documento
+
+1. Abre el gestor de archivos de Linux/LliureX, entra en tu carpeta de trabajo y crea una carpeta llamada `ensayo_markdown`.
+2. Abre **Visual Studio Code** desde el menú de aplicaciones.
+3. En VS Code, selecciona **Archivo → Nuevo archivo de texto**.
+4. Escribe estas tres líneas. La segunda debe quedar vacía. Copia solo el contenido del recuadro:
+
+   ```md
+   # Mi primera guía
+
+   Esta es mi primera página escrita con Markdown.
+   ```
+
+5. Selecciona **Archivo → Guardar como…**, entra en la carpeta `ensayo_markdown` y escribe el nombre **`index.md`**. Pulsa **Guardar**. `index` es el nombre y `.md` indica que el documento está escrito en Markdown.
+6. Comprueba en el gestor de archivos que se llama exactamente `index.md`, sin añadir `.txt` al final.
+
+### Abrir la vista previa y comprobar el resultado
+
+1. Vuelve a VS Code y pulsa en la pestaña **index.md** para tener abierto el documento.
+2. Selecciona **Ver → Paleta de comandos…**. Aparecerá un cuadro donde puedes buscar acciones del editor.
+3. Escribe **Markdown** y selecciona **Markdown: Abrir vista previa al lado**. Si la aplicación está en inglés, busca **Markdown: Open Preview to the Side**.
+4. Verás dos paneles: en uno está el texto que has escrito; en el otro, el resultado con formato. Comprueba que el título aparece grande y sin `#`, y que la frase aparece debajo.
+5. En el panel donde escribes, cambia «Mi primera guía» por «Mi guía de clase», conservando `#` y el espacio. Guarda con **Archivo → Guardar** y comprueba que el título también cambia en la vista previa.
+
+**Si no encuentras la acción:** comprueba que has guardado el archivo con la terminación `.md` y que tienes seleccionada su pestaña. Si sigue sin aparecer, pide ayuda al docente para comprobar el editor del aula.
+
+Con esto has creado y comprobado un documento Markdown. La vista previa permite ver su aspecto dentro del editor; todavía no lo has publicado en Internet. Más adelante aprenderás a convertir varios documentos en una web.
 
 ## 3. Sintaxis explicada con ejemplos
 
