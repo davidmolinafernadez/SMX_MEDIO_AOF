@@ -1,6 +1,6 @@
 # 5. Markdown, IA y web documental: desde cero
 
-Al terminar podrás escribir una página Markdown, comprobarla en una vista previa, revisar un borrador de IA y construir una pequeña web documental. Primero aprenderás las marcas; después crearás la web. No necesitas saber programar para comenzar.
+Al terminar podrás escribir una página Markdown, comprobarla en una vista previa, revisar un borrador de IA y preparar una guía documental y exportarla a PDF desde VS Code. No necesitas saber programar para comenzar.
 
 ## 1. Qué estás escribiendo y qué verá el lector
 
@@ -58,55 +58,7 @@ La vista previa no es otro archivo ni tienes que escribir el texto dos veces. El
 
 **Si no encuentras la acción:** comprueba que has guardado el archivo con la terminación `.md` y que tienes seleccionada su pestaña. Si sigue sin aparecer, pide ayuda al docente para comprobar el editor del aula.
 
-Con esto has creado y comprobado un documento Markdown. La vista previa permite ver su aspecto dentro del editor; todavía no lo has publicado en Internet. Más adelante aprenderás a convertir varios documentos en una web.
-
-### Ver esta primera guía en el navegador
-
-Para este paso, el docente debe haber preparado **Python 3 y MkDocs** en el equipo. MkDocs es la herramienta que convierte el texto Markdown en páginas que puede mostrar el navegador.
-
-Vamos a utilizar el archivo `index.md` que acabas de guardar. No necesitas programar: sigue estas instrucciones y comprueba el resultado de cada paso.
-
-1. En el gestor de archivos, abre la carpeta **ensayo_markdown**, donde has guardado `index.md`. Haz clic derecho en un espacio vacío y selecciona **Abrir terminal aquí**. La Terminal es una ventana donde escribes instrucciones para el equipo. Aquí las llamaremos **comandos**. Escribe cada comando y pulsa **Enter** para ejecutarlo; espera a que termine antes de escribir el siguiente.
-2. Escribe este comando para comprobar que MkDocs está disponible:
-
-   ```bash
-   python3 -m mkdocs --version
-   ```
-
-   **Qué significa:** `python3` abre Python; `-m mkdocs` le pide que utilice MkDocs; `--version` solicita su número de versión. **Debes ver:** un número de versión. Si aparece `No module named mkdocs` o `command not found`, pide al docente que revise la preparación del equipo antes de continuar.
-
-3. Crea el proyecto que mostrará tu guía:
-
-   ```bash
-   python3 -m mkdocs new web-guia
-   ```
-
-   **Qué significa:** `new` indica «crear un proyecto» y `web-guia` es el nombre de la carpeta nueva. **Debes ver:** dentro de `ensayo_markdown` aparece `web-guia`, que contiene el archivo de configuración `mkdocs.yml` y la carpeta `docs`. Ejecuta este comando solo la primera vez.
-
-4. Vuelve al gestor de archivos. **Copia** tu `index.md` de `ensayo_markdown` y pégalo dentro de **web-guia → docs**. Cuando pregunte si quieres reemplazar el `index.md` de ejemplo, acepta. Así la página de inicio contendrá tu título y tu frase.
-5. Vuelve a la Terminal y entra en la carpeta del proyecto:
-
-   ```bash
-   cd web-guia
-   ```
-
-   **Qué significa:** `cd` cambia la carpeta en la que trabaja la Terminal. A partir de ahora los comandos se ejecutan dentro de `web-guia`.
-
-6. Pon en marcha la visualización de la web:
-
-   ```bash
-   python3 -m mkdocs serve
-   ```
-
-   **Qué significa:** `serve` inicia un pequeño servidor en tu equipo para que el navegador pueda mostrar la guía. **Debes ver:** una línea con `Serving on` y una dirección parecida a `http://127.0.0.1:8000/`. Deja esta Terminal abierta y no escribas más comandos mientras esté funcionando.
-
-7. Abre **Firefox** o el navegador del aula. En la barra de direcciones de la parte superior, escribe **`http://127.0.0.1:8000/`** y pulsa **Enter**. Si la Terminal muestra otra dirección, utiliza esa. No la escribas en el buscador. **Debes ver:** tu título y tu frase dentro de una página web, sin las marcas de Markdown.
-8. Para probar un cambio, abre en VS Code **ensayo_markdown/web-guia/docs/index.md**, cambia la frase y guarda. Comprueba el cambio en el navegador; si hace falta, pulsa el botón de recargar. Desde este momento, edita esta copia, que es la que utiliza la web.
-9. Para terminar, vuelve a la Terminal y pulsa **Ctrl+C**. Esto detiene el servidor. Los archivos se conservan, pero la dirección local deja de funcionar hasta que vuelvas a arrancarlo.
-
-**Para abrirlo otro día:** entra en `ensayo_markdown/web-guia` con el gestor de archivos, selecciona **Abrir terminal aquí**, ejecuta `python3 -m mkdocs serve` y abre la dirección indicada en el navegador. No repitas `new` ni vuelvas a copiar el archivo inicial.
-
-La dirección `127.0.0.1` significa «este equipo». Has conseguido ver tu guía como una web en tu ordenador; para que otras personas accedan desde Internet habrá que publicarla más adelante. El apartado 5 amplía este ensayo con varias páginas y un menú.
+Con esto has creado y comprobado un documento Markdown. La vista previa permite ver su aspecto dentro del editor; todavía no lo has publicado en Internet. Continúa con la guía de exportación a PDF enlazada al final.
 
 ## 3. Sintaxis explicada con ejemplos
 
@@ -166,7 +118,7 @@ El signo `!` diferencia una imagen de un enlace. Su texto alternativo explica el
 | Plantilla | OTT | OTT y prueba PDF |
 ```
 
-La segunda fila separa la cabecera. Cada fila debe tener el mismo número de columnas. Las tablas son una extensión habitual: nuestro proyecto las activa. Evita tablas enormes que obliguen a desplazarse continuamente en el móvil.
+La segunda fila separa la cabecera. Cada fila debe tener el mismo número de columnas. Las tablas se visualizan en VS Code y se exportan con Markdown PDF. Evita tablas enormes que obliguen a desplazarse continuamente en el móvil.
 
 ### Código, citas y avisos
 
@@ -185,14 +137,9 @@ Una cita comienza con `>`:
 > Revisa el PDF antes de entregar.
 ```
 
-Los recuadros `!!!` son una extensión de nuestro sitio, no funcionan en todos los editores:
+Para los avisos utiliza citas con negrita:
 
-```md
-!!! warning "Antes de compartir"
-    Comprueba que no hay datos personales en las capturas.
-```
-
-Las cuatro posiciones de sangría indican que la frase pertenece al aviso. Si ves `!!!` como texto, puede faltar la extensión en ese editor; compruébalo en la web del proyecto.
+> **Antes de compartir:** comprueba que no hay datos personales.
 
 ## 4. IA desde cero: qué hace y qué tienes que revisar
 
@@ -227,7 +174,7 @@ Imagina que el borrador dice «El PDF se puede editar igual que el ODT» y enlaz
 1. Identifica los dos problemas: una explicación incorrecta para nuestro flujo y una ruta inventada.
 2. Corrige a «Conserva el ODT para editar; entrega el PDF revisado al cliente».
 3. Localiza tu archivo real y cambia el enlace a `archivos/plantilla.ott`.
-4. Abre el enlace desde la web. Que una ruta parezca correcta no demuestra que exista.
+4. Abre el enlace desde la vista previa. Que una ruta parezca correcta no demuestra que exista.
 5. Revisa que haya un solo título principal y que las listas tengan una acción por paso.
 6. Registra lo que corregiste y por qué. La revisión humana forma parte del trabajo.
 
@@ -246,257 +193,7 @@ Para pedir una mejora, puedes escribir: «Revisa este apartado para un lector pr
 
 Si no has usado IA, escribe «No se ha utilizado IA». Debes poder explicar una marca de Markdown, una norma de tu empresa y una corrección sin depender de la respuesta del asistente.
 
-## 5. De Markdown a web: qué hace cada herramienta
 
-El **editor** modifica archivos. La **vista previa** interpreta una página. El **generador de sitios** convierte páginas y configuración en una web. El **navegador** muestra el resultado. La **publicación** lo coloca en un servidor accesible por otras personas. Son pasos diferentes: ver `localhost` no significa que la web esté publicada.
+## 5. Vista previa y entrega en PDF
 
-En este taller usaremos **MkDocs**, el generador de esta web, con un proyecto pequeño independiente. El docente debe preparar Python y MkDocs en los equipos; no tienes que instalar nada para entender o ensayar la sintaxis. Si se utiliza otra herramienta, se mantienen los mismos contenidos y comprobaciones.
-
-### Paso 1. Crear el proyecto una sola vez
-
-Este recorrido está preparado para **Linux/LliureX**, el sistema del aula. Utiliza la aplicación **Terminal** para las órdenes y **Visual Studio Code** para editar. El docente debe comprobar previamente que Python 3, MkDocs y el editor están disponibles en los equipos. Copia únicamente las líneas del interior de los bloques, sin las marcas que los rodean.
-
-Abre **Terminal** desde el menú de aplicaciones de LliureX; también puedes buscar «Terminal» en el menú. Escribe esta orden y pulsa Enter:
-
-```bash
-python3 -m mkdocs --version
-```
-
-**Debes ver:** el número de versión de MkDocs. Si aparece `python3: command not found` o `No module named mkdocs`, avisa al docente: falta preparar la herramienta. No ejecutes instalaciones con `sudo` ni cambies el Python del sistema para seguir este taller.
-
-Para que todos trabajemos desde una ubicación clara, utiliza tu **carpeta personal**. Si todavía no has creado `web-empresa`, ejecuta estas líneas una cada vez, pulsando Enter después de cada una:
-
-```bash
-cd ~
-python3 -m mkdocs new web-empresa
-cd web-empresa
-```
-
-`cd ~` entra en tu carpeta personal; `~` representa esa carpeta, normalmente `/home/tu_usuario`. La segunda orden crea el proyecto y la tercera entra en él. **Si ya habías creado el proyecto en tu carpeta personal, no repitas `new`: entra directamente con esta orden:**
-
-```bash
-cd ~/web-empresa
-```
-
-**Comprueba antes de seguir:** escribe `pwd` y pulsa Enter para ver la carpeta actual; después escribe `ls` y pulsa Enter para listar su contenido. La ruta debe terminar en `/web-empresa` y deben aparecer `mkdocs.yml` y `docs`. Si habías creado el proyecto en otra ubicación, abre esa carpeta en el gestor de archivos y utiliza «Abrir terminal aquí», si está disponible. Aún no ejecutes `serve`: primero prepararemos todas las páginas.
-
-### Paso 2. Abrir la carpeta completa en VS Code
-
-1. Abre VS Code.
-2. Selecciona **File → Open Folder… / Archivo → Abrir carpeta…**.
-3. En el diálogo de carpetas, entra en tu **carpeta personal**, selecciona **web-empresa** —la que contiene `mkdocs.yml`— y confirma con **Abrir/Seleccionar carpeta**. El texto del botón puede variar con el idioma del equipo.
-4. Pulsa el icono del **Explorador de archivos** de la barra izquierda de VS Code. Despliega `docs`.
-
-**Debes ver:** `mkdocs.yml` fuera de `docs` y `index.md` dentro de `docs`. No edites una copia situada en otra carpeta ni archivos dentro de `site`.
-
-### Paso 3. Sustituir la página de ejemplo por tu inicio
-
-MkDocs crea `docs/index.md` con el texto **Welcome to MkDocs**. Cambiar el nombre de la web en la configuración no sustituye ese contenido: hay que editar esta página.
-
-1. En el Explorador de VS Code, abre **docs → index.md**.
-2. Dentro del editor pulsa **Ctrl+A** para seleccionar su contenido.
-3. Sustituye todo por este ejemplo:
-
-```md
-# NexoByte · Guía documental
-
-Esta guía explica cómo crear, revisar y entregar
-los documentos de nuestra empresa ficticia.
-
-## Empieza aquí
-
-- Consulta las [normas documentales](guia-estilo.md).
-- Revisa los [documentos y formatos](documentos.md).
-
-## Cómo trabajamos
-
-1. Creamos el documento desde la plantilla corporativa.
-2. Revisamos contenido, imágenes y ortografía.
-3. Guardamos el editable.
-4. Exportamos a PDF y comprobamos el resultado.
-```
-
-4. Pulsa **Ctrl+S** para guardar. No uses «Guardar como» para crear otra copia.
-
-**Comprueba:** la pestaña se llama `index.md` y el texto ya no contiene «Welcome to MkDocs». Los dos enlaces funcionarán después de crear las páginas de los pasos siguientes.
-
-### Paso 4. Crear la página de normas con el nombre exacto
-
-1. En el Explorador de VS Code, haz clic derecho sobre **docs**.
-2. Selecciona **New File / Nuevo archivo**.
-3. Escribe exactamente **guia-estilo.md** y pulsa Enter.
-4. Pega este contenido:
-
-```md
-# Normas documentales
-
-## Estilos
-
-Utilizamos títulos jerárquicos y párrafos breves.
-En los informes aplicamos los estilos de la plantilla corporativa.
-
-## Imágenes
-
-Las capturas deben ser legibles y no mostrar datos personales.
-
-## Revisión
-
-1. Revisar el contenido y la ortografía.
-2. Comprobar imágenes y enlaces.
-3. Guardar el editable y exportar a PDF.
-4. Abrir el PDF y revisar todas sus páginas.
-```
-
-5. Guarda con **Ctrl+S**.
-
-**Comprueba:** el nombre termina en `.md`, sin `.txt` añadido. Crear el archivo desde el Explorador de VS Code permite escribir directamente el nombre completo.
-
-### Paso 5. Crear la página de documentos
-
-Repite el procedimiento: clic derecho en **docs → Nuevo archivo**, escribe **documentos.md** y pega:
-
-```md
-# Documentos de la empresa
-
-## Formatos que utilizamos
-
-| Documento | Formato de trabajo | Formato de entrega |
-| --- | --- | --- |
-| Informe | ODT | PDF |
-| Plantilla | OTT | OTT |
-
-## Antes de entregar
-
-Conservamos el archivo editable y comprobamos el PDF final.
-```
-
-Guarda con **Ctrl+S**. Por ahora no necesitas adjuntar documentos: primero comprobaremos que las tres páginas funcionan.
-
-**Comprueba también las mayúsculas:** escribe `guia-estilo.md` y `documentos.md` tal como aparecen aquí. En Linux, `Documentos.md` no coincide con `documentos.md`.
-
-### Paso 6. Configurar el nombre y el menú
-
-Abre **mkdocs.yml**, situado en la carpeta principal, fuera de `docs`. Sustituye su contenido por:
-
-```yaml
-site_name: NexoByte · Guía documental
-use_directory_urls: false
-nav:
-  - Inicio: index.md
-  - Normas: guia-estilo.md
-  - Documentos: documentos.md
-markdown_extensions:
-  - tables
-  - admonition
-```
-
-Guarda con **Ctrl+S**. Conserva los espacios de sangría, sin usar tabuladores.
-
-`site_name` cambia el nombre de la cabecera. `nav` indica las páginas del menú. **Escribir un archivo en `nav` no lo crea**: por eso hemos creado las páginas antes de configurar el menú. `tables` permite interpretar las tablas y `admonition` los recuadros de aviso.
-
-**Comprueba esta estructura exacta antes de arrancar:**
-
-```text
-web-empresa/
-  mkdocs.yml
-  docs/
-    index.md
-    guia-estilo.md
-    documentos.md
-```
-
-### Paso 7. Arrancar la web y comprobar las tres páginas
-
-Vuelve a la Terminal. Debes estar dentro de **web-empresa**, donde se encuentra `mkdocs.yml`. Ejecuta:
-
-Si acabas de abrir una Terminal nueva, escribe primero `cd ~/web-empresa` y pulsa Enter. `cd` cambia de carpeta y `~` representa tu carpeta personal.
-
-```bash
-python3 -m mkdocs serve
-```
-
-En este comando, `python3` abre Python, `-m mkdocs` selecciona la herramienta MkDocs y `serve` pone en marcha el servidor para ver la web en tu equipo.
-
-Espera a que aparezca **Serving on…**. Abre Firefox o el navegador del aula, escribe en su **barra de direcciones** la dirección que indique la Terminal, normalmente `http://127.0.0.1:8000/`, y pulsa **Enter**. No escribas la dirección en el buscador. Verás las páginas que MkDocs prepara a partir de tus archivos Markdown.
-
-**Deja la Terminal abierta:** mientras el servidor está activo, esa terminal queda ocupada. No escribas ahí otras órdenes hasta detenerlo con **Ctrl+C**.
-
-Comprueba en este orden:
-
-1. En **Inicio** aparece «NexoByte · Guía documental» y el texto que has escrito, sin «Welcome to MkDocs».
-2. Al pulsar **Normas**, aparecen Estilos, Imágenes y Revisión.
-3. Al pulsar **Documentos**, aparece la tabla de formatos.
-4. Al volver a Inicio, los enlaces del contenido también abren esas páginas.
-
-### Paso 8. Comprobar que los cambios se actualizan
-
-En VS Code, añade una frase a `docs/index.md` y guarda con **Ctrl+S**. El navegador debería actualizarse. Si no lo hace, pulsa **Ctrl+F5** en el navegador.
-
-**Si continúa apareciendo la página antigua o «Welcome to MkDocs»:**
-
-1. Comprueba en VS Code que editas `web-empresa/docs/index.md`, sin `.txt`, y guarda con **Ctrl+S**.
-2. Vuelve a la ventana de Terminal donde está ejecutándose MkDocs y pulsa **Ctrl+C**.
-3. Comprueba que sigues en la carpeta `web-empresa` que contiene esos archivos.
-4. Ejecuta otra vez `python3 -m mkdocs serve`.
-5. Abre la dirección que indique y pulsa **Ctrl+F5**.
-
-No vuelvas a crear el proyecto para resolverlo: primero comprueba archivo, guardado y servidor.
-
-### Paso 9. Añadir documentos reales cuando la navegación funcione
-
-1. Crea una carpeta **archivos** dentro de **docs**.
-2. Copia en ella tu plantilla y un informe PDF revisado. Para este ensayo utiliza los nombres `plantilla.ott` e `informe.pdf`; si tienen otros nombres, adapta los enlaces.
-3. Añade al final de `documentos.md`:
-
-```md
-## Archivos disponibles
-
-- [Descargar plantilla corporativa](archivos/plantilla.ott)
-- [Consultar informe de ejemplo](archivos/informe.pdf)
-```
-
-4. Guarda y comprueba en la web que ambos enlaces abren o descargan el archivo correcto.
-
-No añadas un enlace a un archivo que todavía no existe. No uses rutas como `/home/tu_usuario/...`: los documentos deben estar dentro del proyecto y enlazarse con rutas relativas para poder compartirlos.
-
-### Paso 10. Construir la versión de entrega
-
-Cuando las páginas y enlaces funcionen, vuelve a la Terminal y pulsa **Ctrl+C** para detener el servidor. Desde la misma carpeta ejecuta:
-
-```bash
-python3 -m mkdocs build --strict
-```
-
-**Resultado esperado:** se crea o actualiza la carpeta `site` y la orden termina sin errores. Si aparece un aviso sobre un archivo del menú, revisa que exista dentro de `docs` y que su nombre coincida exactamente.
-
-`docs` y `mkdocs.yml` son los archivos que editas. `site` es el resultado generado: no corrijas sus páginas a mano, porque la próxima construcción las reemplaza.
-
-Conserva el proyecto fuente y la carpeta `site`. Prepara la evidencia solicitada en ACT-2.4. La dirección `127.0.0.1` solo permite ver el servidor en tu propio equipo; publicar en Internet es un paso posterior que indicará el docente.
-
-## 6. Comprobación final antes de ACT-2.4
-
-| Comprobación | Resultado que debes obtener |
-| --- | --- |
-| Nombre de los archivos | Tres páginas `.md`, sin `.txt` añadido |
-| Inicio | Tu texto, sin la página de bienvenida de MkDocs |
-| Menú | Inicio, Normas y Documentos abren correctamente |
-| Tabla | Los formatos se muestran en columnas |
-| Cambios | Al guardar se actualiza el contenido de la web |
-| Archivos adjuntos | La plantilla y el PDF abren desde Documentos |
-| Construcción | `build --strict` termina correctamente |
-
-Si VS Code muestra un error de **LTeX/Java**, corresponde a su extensión de corrección lingüística. Ese aviso no significa que MkDocs haya fallado: comprueba el resultado de MkDocs en la Terminal y la página en el navegador.
-
-Una vez completado este ensayo, adapta los textos de NexoByte a tu empresa y continúa con ACT-2.4. Mantén la misma estructura y revisa los enlaces después de cambiar nombres o archivos.
-
-## Nota para quien repita el ensayo en Windows
-
-El recorrido principal del aula utiliza Linux/LliureX. En Windows abre **PowerShell**, usa `python -m mkdocs` en lugar de `python3 -m mkdocs` y entra en la carpeta real donde creaste tu proyecto. Los archivos Markdown y `mkdocs.yml` tienen el mismo contenido en ambos sistemas.
-
-Si en Windows un archivo se guarda como `.md.txt`, selecciónalo en el Explorador de VS Code, pulsa **F2** y elimina el `.txt` final. Si usas «Guardar como», selecciona **Markdown** en **Tipo**. Si el nombre correcto ya existe, revisa ambos archivos antes de sustituir nada.
-
-## Fuentes para consultar
-
-- [Ayuda oficial de Writer](https://help.libreoffice.org/latest/es/text/swriter/guide/main.html).
-- [Documentación oficial de MkDocs: primeros pasos](https://www.mkdocs.org/getting-started/).
-- [Especificación CommonMark](https://spec.commonmark.org/), para la sintaxis base. Las tablas y avisos utilizados aquí requieren extensiones.
+Sigue [Markdown a PDF desde Visual Studio Code](07_exportar_pdf_vscode.md): instala Markdown PDF, realiza el ensayo, comprueba la vista previa, exporta y revisa el PDF. Este es el recorrido del aula para Markdown y ACT-2.4. No necesitas Python, MkDocs ni terminal.

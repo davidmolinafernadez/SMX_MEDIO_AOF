@@ -8,4 +8,4 @@ Empieza por `00_CONTENIDO_COMPLETO.md`. La unidad se distribuye así:
 - `Recursos/`: archivos que debe preparar el profesorado.
 - `GUIA_DOCENTE.md`: orientación de sesiones y coordinación A/B.
 
-Para preparar la web documental, empieza por [Markdown, IA y web](Teoria/06_markdown_ia_web.md). Incluye sintaxis, prompts comentados, revisión de respuestas y construcción de una web local. Después sigue [ACT-2.4](Actividades/A4_revision_cruzada.md).
+Para preparar la guía documental, empieza por [Markdown, IA y web](Teoria/06_markdown_ia_web.md). Incluye sintaxis, prompts comentados y revisión de respuestas. Sigue [la guía de vista previa y exportación a PDF desde VS Code](Teoria/07_exportar_pdf_vscode.md) y después [ACT-2.4](Actividades/A4_revision_cruzada.md). No se necesita Python ni MkDocs.

@@ -10,7 +10,7 @@ Se publican tareas con códigos propios de la unidad. Algunas son individuales y
 | ACT-2.1 · Identidad documental | `ACT-2.1_EquipoXX_plantilla.zip` | Plantilla corporativa y prueba |
 | ACT-2.2 · Informe versión cliente | `ACT-2.2_apellido_nombre_informe.zip` | Informe ODT/PDF desde plantilla |
 | ACT-2.3 · Documentos de gestión | `ACT-2.3_apellido_nombre_gestion.zip` | Carta, formulario, macro y contrato |
-| ACT-2.4 · Web documental | `ACT-2.4_EquipoXX_web.pdf` | Página web o documentación publicada |
+| ACT-2.4 · Web documental | `ACT-2.4_EquipoXX_web.pdf` y `ACT-2.4_EquipoXX_fuentes.zip` | Guía Markdown en VS Code y PDF revisado |
 | ACT-2.5 · Manual para cliente | `ACT-2.5_apellido_nombre_manual.zip` | Manual completo ODT/PDF |
 
 ## Navegación

@@ -5,7 +5,7 @@
 *Ejemplo visual orientativo: no hay que copiarlo exactamente, pero muestra una guía con normas claras sobre estilos, archivos y revisión.*
 
 **Tarea en Aules:** `ACT-2.4 · La web documental de la empresa`
-**Archivo:** `ACT-2.4_EquipoXX_web.pdf` · **Pareja** · 3 h.
+**Archivos:** `ACT-2.4_EquipoXX_web.pdf` y `ACT-2.4_EquipoXX_fuentes.zip` · **Pareja** · 3 h.
 
 ## Encargo
 
@@ -30,7 +30,7 @@ La página debe incluir:
 
 ## Requisitos técnicos
 
-Puede realizarse en Markdown, Google Sites, una página HTML sencilla o la herramienta indicada por el profesorado.
+Se realiza en **Markdown dentro de Visual Studio Code**, con vista previa y exportación mediante **Markdown PDF**, de yzane. No se exige publicar una web ni instalar Python o MkDocs.
 
 Debe cumplir:
 
@@ -47,14 +47,14 @@ Debe cumplir:
 2. Revisad que todo use el mismo tono.
 3. Comprobad enlaces y permisos.
 4. Registrad contribuciones en `EMPRESA_EquipoXX`.
-5. Exportad o capturad evidencia para Aules.
+5. Exportad la guía completa a PDF desde VS Code y revisad todas sus páginas.
 
 ## Entrega
 
 Un PDF de pareja con:
 
-- Enlace a la web o captura completa si no se puede publicar.
-- Tabla de contenidos de la web.
+- Contenido completo de la guía documental exportado desde VS Code.
+- Relación de apartados de la guía.
 - Tabla de reparto de tareas.
 - Comprobación de enlaces.
 - Registro de versión.
@@ -67,17 +67,17 @@ Se valorará que la web organice la documentación real de la empresa, no que te
 
 ## Paso a paso para tu primera web documental
 
-Antes de empezar, realiza el ensayo de [Markdown, IA y web desde cero](ud02-teoria-5.md). Para esta ruta guiada usarás Markdown y MkDocs en **Linux/LliureX**. Abre la aplicación **Terminal** y utiliza `python3`; sigue los diez pasos de la teoría para crear el proyecto en `~/web-empresa`. Si el docente indica Google Sites u otra herramienta, conserva las secciones, archivos y pruebas del encargo.
+Antes de empezar, realiza el ensayo de [Markdown desde cero](ud02-teoria-5.md) y sigue [la instalación de Markdown PDF y la exportación desde VS Code](ud02-exportar-pdf-vscode.md). Usaremos un único archivo `ACT-2.4_EquipoXX_web.md` con todos los apartados para generar un PDF completo.
 
 ### Fase 1. Preparar los materiales reales
 
-Reúne el nombre y actividad de tu empresa, las decisiones de ACT-2.1 y los documentos terminados. Usa datos ficticios. Copia la plantilla y un PDF aprobado a `docs/archivos` del proyecto de ensayo. No enlaces una carpeta privada de tu ordenador.
+Reúne el nombre y actividad de tu empresa, las decisiones de ACT-2.1 y los documentos terminados. Usa datos ficticios. Copia la plantilla y un PDF aprobado a `archivos` del proyecto de ensayo. No enlaces una carpeta privada de tu ordenador.
 
-Reparte trabajo: una persona prepara Inicio y Documentos; otra prepara Normas. Después intercambiad páginas para revisar. Ambos deben abrir y comprobar los enlaces.
+Reparte trabajo: una persona prepara los apartados de presentación y documentos; otra prepara las normas. Después intercambiad páginas para revisar. Ambos deben abrir y comprobar los enlaces. Reunid las aportaciones en un único Markdown antes de exportar.
 
 ### Fase 2. Completar una estructura casi preparada
 
-Utiliza esta base para `index.md`. Sustituye todos los corchetes que contienen datos pendientes; conserva los corchetes de los enlaces Markdown.
+Utiliza esta base para `ACT-2.4_EquipoXX_web.md`. Sustituye todos los corchetes que contienen datos pendientes; conserva los corchetes de los enlaces Markdown.
 
 ```md
 # [NOMBRE DE EMPRESA] · Guía documental
@@ -94,8 +94,8 @@ Esta guía explica cómo crear, revisar y entregar nuestros documentos.
 
 ## Empieza aquí
 
-1. Consulta las [normas de estilo](guia-estilo.md).
-2. Abre la página de [documentos y plantillas](documentos.md).
+1. Lee el apartado Normas de estilo de esta guía.
+2. Consulta el apartado Documentos y plantillas.
 3. Crea el documento y sigue el protocolo de revisión.
 
 ## Versión de la guía
@@ -105,25 +105,25 @@ Esta guía explica cómo crear, revisar y entregar nuestros documentos.
 | 1.0 | [FECHA] | Primera guía documental | [INTEGRANTES] |
 ```
 
-En `guia-estilo.md` crea los apartados `Estilos`, `Imágenes y tablas`, `Nombres de archivo`, `Revisión` y `Protección de datos`. Cada norma debe indicar una acción concreta y cómo comprobarla.
+En el mismo archivo, añade `## Normas de estilo` y crea los subapartados de tercer nivel (`###`) `Estilos`, `Imágenes y tablas`, `Nombres de archivo`, `Revisión` y `Protección de datos`. Cada norma debe indicar una acción concreta y cómo comprobarla.
 
 Ejemplo resuelto: «Aplica Título 1 a los apartados principales. Comprueba que aparecen en el Navegador antes de generar el índice». Una norma como «hacerlo profesional» no indica una acción verificable.
 
 Incluye un ejemplo correcto y uno incorrecto con explicación: «Separar párrafos mediante espacio después» frente a «Pulsar Enter repetidamente». Añade un protocolo numerado: revisar contenido, actualizar campos, revisar capturas, guardar editable, exportar PDF y comprobarlo en un visor.
 
-Para `documentos.md` usa:
+Después, en el mismo archivo, añade:
 
 ```md
-# Documentos y plantillas
+## Documentos y plantillas
 
-## Formatos que usamos
+### Formatos que usamos
 
 | Documento | Formato de trabajo | Formato de entrega |
 | --- | --- | --- |
 | Informe | ODT | PDF revisado |
 | Plantilla | OTT | OTT y documento de prueba |
 
-## Archivos disponibles
+### Archivos disponibles
 
 - [Descargar plantilla corporativa](archivos/plantilla.ott)
 - [Consultar informe de ejemplo](archivos/informe.pdf)
@@ -135,25 +135,21 @@ La tabla es un ejemplo: adaptadla a las decisiones aprobadas. Los archivos enlaz
 
 Podéis usar el prompt de la teoría para un borrador. Cambiad los datos a vuestra empresa. Guardad el prompt y el fragmento usado, corregid hechos, rutas y estructura y completad el registro de IA. Si no usáis IA, indicadlo. La IA no puede comprobar por vosotros que se descarga vuestra plantilla.
 
-### Fase 4. Construir y probar con otro lector
+### Fase 4. Visualizar, probar y exportar
 
-1. Completa el menú de `mkdocs.yml` con las tres páginas.
-2. Abre la vista local con `python3 -m mkdocs serve` desde la carpeta del proyecto.
-3. Haz que tu compañero entre por Inicio y encuentre la plantilla, los formatos y el protocolo de revisión.
-4. Prueba cada enlace y descarga. Anota el destino y el resultado; corrige fallos y repite.
-5. Revisa en una ventana estrecha: títulos, tablas y textos deben seguir siendo legibles.
-6. Detén el servidor y construye con `python3 -m mkdocs build --strict`.
-7. Conserva las fuentes y `site`. Si no se publica, entrega evidencias completas de las páginas y pruebas. Una dirección `localhost` solo funciona en el equipo que ejecuta el servidor.
+1. Guarda el Markdown y abre **Markdown: Abrir vista previa al lado** desde **Ctrl+Mayús+P**.
+2. Pide a tu compañero que encuentre los formatos, las normas, la plantilla y el protocolo de revisión.
+3. Comprueba los enlaces a los archivos desde la vista previa. Registra el destino, resultado y correcciones.
+4. Añade al final del mismo Markdown una tabla de reparto de tareas, la tabla de comprobación de enlaces y el registro de IA o declaración de no uso.
+5. Selecciona la pestaña del Markdown y guarda. Pulsa **Ctrl+Mayús+P → Markdown PDF: Export (pdf)**.
+6. Abre el PDF generado y revisa todas las páginas. Si hay tablas o imágenes cortadas, corrige el Markdown y vuelve a exportar.
+7. Comprueba que se llama `ACT-2.4_EquipoXX_web.pdf`, sustituyendo XX por vuestro equipo.
 
-### PDF de evidencia: orden listo para seguir
+### Entrega en Aules
 
-1. Portada: empresa, integrantes, actividad, fecha y versión.
-2. Enlace publicado si existe; en caso contrario, indicación de web local y capturas legibles de las tres páginas.
-3. Tabla de páginas: nombre y función de cada una.
-4. Tabla de reparto: tarea, autor y revisor.
-5. Tabla de enlaces: texto, destino, resultado y corrección.
-6. Registro de versión y registro de IA o declaración de no uso.
+- **PDF completo de la guía**, con empresa, integrantes, fecha, contenido del encargo, reparto de tareas, pruebas de enlaces, versión y registro de IA. No basta con capturas de la vista previa.
+- **ZIP de las fuentes**, llamado `ACT-2.4_EquipoXX_fuentes.zip`, con el Markdown y las carpetas `archivos` e `imagenes` que utilicéis.
 
-Conservad el proyecto fuente y la web generada para demostrar el trabajo y corregirlo. La entrega en Aules sigue siendo el PDF de evidencia indicado arriba; añadid el proyecto si el docente lo solicita.
+Los enlaces locales no incorporan los documentos dentro del PDF y pueden no abrirse al moverlo. Por eso se comprueban en la vista previa y se conserva la carpeta completa en el ZIP. El PDF debe poder leerse por sí solo.
 
-**Defensa breve:** cada integrante debe explicar una ruta relativa, mostrar un documento descargable y justificar una norma de revisión. El trabajo está terminado cuando un lector nuevo puede seguir la guía sin ayuda.
+**Defensa breve:** cada integrante debe explicar una marca de Markdown, mostrar una ruta relativa, justificar una norma y volver a exportar el PDF desde VS Code.
