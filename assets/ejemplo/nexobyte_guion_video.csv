@@ -1,0 +1,7 @@
+tiempo;imagen;locucion;criterio
+00:00-00:15;Título y resultado;Hoy registraremos y localizaremos una incidencia;Objetivo visible
+00:15-00:35;Abrir formulario;Abre el panel Incidencias y selecciona Nuevo;Ruta completa
+00:35-01:20;Completar campos;Selecciona cliente servicio prioridad y describe el síntoma;Sin datos reales
+01:20-01:45;Guardar;Guarda y comprueba el identificador asignado;Confirmación visible
+01:45-02:15;Buscar;Filtra por cliente y estado Abierta;Resultado verificable
+02:15-02:30;Cierre;Si no aparece revisa filtros o contacta con soporte;Alternativa de ayuda

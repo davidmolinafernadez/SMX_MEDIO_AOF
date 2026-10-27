@@ -1,0 +1,7 @@
+codigo;producto;categoria;stock;stock_minimo;coste;precio
+LIB-001;El faro de papel;Narrativa;8;4;11,50;18,90
+LIB-002;Valencia ilustrada;Guía;3;5;14,00;22,50
+PAP-001;Cuaderno A5 reciclado;Papelería;21;10;2,10;4,50
+PAP-002;Bolígrafo tinta azul;Papelería;7;12;0,45;1,20
+REG-001;Marcapáginas artesanal;Regalo;30;15;0,35;1,50
+TEC-001;Lector código de barras;Equipamiento;1;1;38,00;59,00
