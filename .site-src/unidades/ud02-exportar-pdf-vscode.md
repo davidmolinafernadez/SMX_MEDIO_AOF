@@ -78,7 +78,7 @@ Enlaza solo documentos presentes, mediante rutas relativas:
 - [Informe revisado](archivos/informe.pdf)
 ```
 
-Comprueba los enlaces en la vista previa. Los enlaces locales no incorporan los archivos dentro del PDF y pueden dejar de funcionar al moverlo a otro ordenador. Entrega también la carpeta completa en ZIP; el PDF debe contener todas las normas y explicaciones para poder leerlo por sí solo.
+Comprueba los enlaces en la vista previa. Los enlaces locales no incorporan los archivos dentro del PDF y pueden dejar de funcionar al moverlo a otro ordenador. Para ACT-2.4 entrega el PDF, con la guía y una captura final de VS Code donde se vean el Markdown y su vista previa, y el archivo `.md` editable. Conserva las carpetas del proyecto para enseñarlas en clase; no se entrega ZIP. El PDF debe contener todas las normas y explicaciones para poder leerlo por sí solo.
 
 Para los avisos utiliza citas sencillas como `> **Importante:** revisa el PDF.` en lugar de los bloques `!!!` de MkDocs.
 

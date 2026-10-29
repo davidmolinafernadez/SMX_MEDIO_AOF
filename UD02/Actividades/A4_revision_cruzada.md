@@ -5,7 +5,7 @@
 *Ejemplo visual orientativo: no hay que copiarlo exactamente, pero muestra una guía con normas claras sobre estilos, archivos y revisión.*
 
 **Tarea en Aules:** `ACT-2.4 · La web documental de la empresa`
-**Archivos:** `ACT-2.4_EquipoXX_web.pdf` y `ACT-2.4_EquipoXX_fuentes.zip` · **Pareja** · 3 h.
+**Archivos:** `ACT-2.4_EquipoXX_web.pdf` y `ACT-2.4_EquipoXX_web.md` · **Pareja** · 3 h.
 
 ## Encargo
 
@@ -51,13 +51,7 @@ Debe cumplir:
 
 ## Entrega
 
-Un PDF de pareja con:
-
-- Contenido completo de la guía documental exportado desde VS Code.
-- Relación de apartados de la guía.
-- Tabla de reparto de tareas.
-- Comprobación de enlaces.
-- Registro de versión.
+Un PDF y el archivo Markdown editable por pareja: la guía documental con el nombre de la empresa, los integrantes y la fecha, y una captura final del trabajo en Visual Studio Code. Más abajo se explica cómo hacerla.
 
 ## Evaluación
 
@@ -133,23 +127,47 @@ La tabla es un ejemplo: adaptadla a las decisiones aprobadas. Los archivos enlaz
 
 ### Fase 3. Usar IA con revisión, si lo elegís
 
-Podéis usar el prompt de la teoría para un borrador. Cambiad los datos a vuestra empresa. Guardad el prompt y el fragmento usado, corregid hechos, rutas y estructura y completad el registro de IA. Si no usáis IA, indicadlo. La IA no puede comprobar por vosotros que se descarga vuestra plantilla.
+Podéis usar el prompt de la teoría para un borrador. Cambiad los datos a vuestra empresa. Corregid hechos, rutas y estructura e indicad al final de la guía qué IA habéis usado y para qué. Si no usáis IA, indicadlo. La IA no puede comprobar por vosotros que se descarga vuestra plantilla.
 
 ### Fase 4. Visualizar, probar y exportar
 
 1. Guarda el Markdown y abre **Markdown: Abrir vista previa al lado** desde **Ctrl+Mayús+P**.
 2. Pide a tu compañero que encuentre los formatos, las normas, la plantilla y el protocolo de revisión.
-3. Comprueba los enlaces a los archivos desde la vista previa. Registra el destino, resultado y correcciones.
-4. Añade al final del mismo Markdown una tabla de reparto de tareas, la tabla de comprobación de enlaces y el registro de IA o declaración de no uso.
+3. Comprueba los enlaces a los archivos desde la vista previa. Corrige los que fallen.
+4. Añade el nombre de la empresa, los integrantes y la fecha al principio del Markdown. Al final, indica brevemente qué ha hecho cada integrante y si habéis usado IA y para qué. Añade también la captura que se explica en la entrega.
 5. Selecciona la pestaña del Markdown y guarda. Pulsa **Ctrl+Mayús+P → Markdown PDF: Export (pdf)**.
 6. Abre el PDF generado y revisa todas las páginas. Si hay tablas o imágenes cortadas, corrige el Markdown y vuelve a exportar.
 7. Comprueba que se llama `ACT-2.4_EquipoXX_web.pdf`, sustituyendo XX por vuestro equipo.
 
 ### Entrega en Aules
 
-- **PDF completo de la guía**, con empresa, integrantes, fecha, contenido del encargo, reparto de tareas, pruebas de enlaces, versión y registro de IA. No basta con capturas de la vista previa.
-- **ZIP de las fuentes**, llamado `ACT-2.4_EquipoXX_fuentes.zip`, con el Markdown y las carpetas `archivos` e `imagenes` que utilicéis.
+Subid **dos archivos**, sin ZIP (sustituid XX por vuestro equipo):
 
-Los enlaces locales no incorporan los documentos dentro del PDF y pueden no abrirse al moverlo. Por eso se comprueban en la vista previa y se conserva la carpeta completa en el ZIP. El PDF debe poder leerse por sí solo.
+- `ACT-2.4_EquipoXX_web.pdf`: la guía y la captura de VS Code.
+- `ACT-2.4_EquipoXX_web.md`: el archivo Markdown editable con el que habéis creado la guía.
 
-**Defensa breve:** cada integrante debe explicar una marca de Markdown, mostrar una ruta relativa, justificar una norma y volver a exportar el PDF desde VS Code.
+Para guardar el Markdown, pulsad **Ctrl+S** en VS Code. Si todavía no tiene nombre, usad **Archivo → Guardar como…** y escribid `ACT-2.4_EquipoXX_web.md`. Es el archivo de texto que editáis, no la vista previa.
+
+El PDF debe incluir:
+
+1. **La guía documental**, con los apartados del encargo, el nombre de la empresa, los integrantes y la fecha.
+2. **Una captura de vuestro trabajo en Visual Studio Code**, al final de la guía. Deben verse el nombre del archivo `.md`, el código Markdown a la izquierda y su vista previa a la derecha. Elegid un fragmento propio con un título y una tabla o un enlace, y comprobad que se lee bien.
+3. **Dos o tres líneas finales**: qué ha hecho cada integrante y si habéis usado IA y para qué.
+
+**Cómo añadir la captura:**
+
+1. Abrid vuestro `.md` en VS Code y la vista previa al lado con **Ctrl+Mayús+P → Markdown: Abrir vista previa al lado**.
+2. Capturad la ventana con **Win+Mayús+S** y guardad la imagen como `evidencia_vscode.png` dentro de la carpeta `imagenes` del proyecto. Evitad mostrar datos personales ajenos a la actividad.
+3. Añadid al final del Markdown:
+
+```md
+## Evidencia del trabajo
+
+![Nuestro Markdown y su vista previa en VS Code](imagenes/evidencia_vscode.png)
+```
+
+4. Guardad y exportad de nuevo con **Markdown PDF: Export (pdf)**. Abrid el PDF y comprobad que incluye la guía y la captura legible.
+
+**No hay que entregar un ZIP.** Conservad también las carpetas del proyecto en `EMPRESA_EquipoXX` para poder enseñarlas en clase. Las imágenes se verán en el PDF; el `.md` permite revisar el código aunque no se adjunten esas carpetas. Comprobad los enlaces locales desde la vista previa; pueden dejar de abrirse al mover el PDF a otro ordenador.
+
+**Comprobación en clase:** cada integrante debe poder abrir el Markdown, explicar una marca que haya utilizado y volver a exportar el PDF desde VS Code.
