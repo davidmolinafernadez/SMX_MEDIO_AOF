@@ -114,7 +114,15 @@ nav:
       - Contexto y contenidos: unidades/ud3.md
       - 0. Datos, celdas y referencias: unidades/ud03-teoria-0.md
       - 1. Fórmulas y funciones: unidades/ud03-teoria-1.md
-      - 2. Análisis, gráficos y automatización: unidades/ud03-teoria-2.md
+      - 2. Inventario y datos fiables: unidades/ud03-teoria-inventario.md
+      - 3. Panel y gráficos: unidades/ud03-teoria-2.md
+      - 4. Revisión y automatización: unidades/ud03-teoria-revision.md
+      - Datos comunes: unidades/ud03-datos.md
+      - ACT-3.1 · Presupuesto: unidades/ud03-actividad-1.md
+      - ACT-3.2 · Inventario: unidades/ud03-actividad-2.md
+      - ACT-3.3 · Panel: unidades/ud03-actividad-3.md
+      - ACT-3.4 · Auditoría: unidades/ud03-actividad-4.md
+      - Rúbrica y control: unidades/ud03-evaluacion.md
       - Prácticas y evaluación: unidades/ud3-practicas.md
       - PROY-3 · Entrega en pareja: unidades/proy-3.md
   - UD04 · Bases de datos — Gestionamos clientes:

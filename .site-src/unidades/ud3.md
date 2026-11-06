@@ -1,57 +1,34 @@
 # UD03 · Hojas de cálculo — Controlamos cuentas e inventario
 
-**Duración:** 34 horas. **RA:** RA3.
+**34 horas · RA3 · Trabajo individual con integración en PROY-3.**
 
-## Encargo y producto
+Partimos de la empresa y el presupuesto de UD02 para construir un libro que se actualice al cambiar datos. Al terminar tendremos presupuesto, inventario y un panel mensual sencillo.
 
-Gerencia necesita controlar presupuesto, ventas, gastos y existencias. Se entrega un libro con hojas `Datos`, `Presupuesto`, `Inventario`, `Panel` e `Instrucciones`, más PDF del informe mensual.
+## Ruta de teoría
 
-## Teoría/talleres
+1. [Datos, celdas y referencias](ud03-teoria-0.md).
+2. [Funciones y presupuesto](ud03-teoria-1.md).
+3. [Inventario, validación y filtros](ud03-teoria-inventario.md).
+4. [Resumen y gráficos](ud03-teoria-2.md).
+5. [Revisión, protección y macro breve](ud03-teoria-revision.md).
 
-**Ruta guiada:** [0. Datos, celdas y referencias](ud03-teoria-0.md) → [1. Fórmulas y funciones](ud03-teoria-1.md) → [2. Análisis, gráficos y automatización](ud03-teoria-2.md).
+## Actividades y tiempo
 
-Estilos; tipos de datos; referencias relativas, absolutas y mixtas entre celdas, rangos, hojas y libros; operadores; fórmulas y funciones; gráficos y tablas dinámicas; macros; importación/exportación; uso como base de datos mediante formularios, listas, filtros, protección y ordenación; introducción de textos, números, códigos e imágenes con periféricos; impresión y accesibilidad.
-
-## Actividades
-
-- **A1 · Presupuesto del primer proyecto (8 h):** modelo ingresos/gastos, impuestos, escenarios y área de impresión.
-- **A2 · Almacén bajo control (10 h):** importar CSV, validar datos, calcular stock/valor, alertas y filtros.
-- **A3 · ¿Cómo va la empresa? (10 h):** importar datos, indicadores, gráficos/tabla dinámica, panel y exportación.
-- **A4 · Auditoría y automatización (6 h):** crear una macro útil, capturar un código o imagen con periférico, probar entradas, detectar fórmulas frágiles y documentar correcciones.
-
-## Evaluación
-
-Modelo y fórmulas 30%; funciones y calidad de datos 25%; análisis/gráficos 20%; automatización/robustez 15%; comunicación y entrega 10%. Cada evidencia se registra en la matriz del RA3.
-
-**Hito A/B:** ambos grupos reciben el mismo CSV y superan idéntica batería de pruebas.
-
-## Secuencia de aprendizaje
-
-| Tramo | Horas | Decisión profesional que se aprende |
+| Actividad | Horas | Producto |
 | --- | ---: | --- |
-| Diagnóstico y datos fiables | 4 | Distinguir dato, fórmula, resultado y error; importar sin corromper fechas o códigos. |
-| Modelo económico | 8 | Elegir referencias y funciones para que el presupuesto siga funcionando al cambiar precios. |
-| Inventario | 8 | Validar entradas, detectar duplicados y advertir antes de quedarse sin existencias. |
-| Análisis | 8 | Resumir con funciones, filtros, tablas dinámicas y gráficos adecuados. |
-| Automatización y entrega | 6 | Proteger, imprimir, automatizar una tarea repetitiva y documentar el uso. |
+| [ACT-3.1 · El presupuesto se calcula solo](ud03-actividad-1.md) | 8 | Presupuesto con fórmulas y PDF |
+| [ACT-3.2 · ¿Qué hay que reponer?](ud03-actividad-2.md) | 10 | Inventario con avisos y validación |
+| [ACT-3.3 · Seis meses en una página](ud03-actividad-3.md) | 10 | Resumen, gráfico y conclusiones |
+| [ACT-3.4 · Lo probamos antes de entregarlo](ud03-actividad-4.md) | 6 | Auditoría, control e integración |
 
-### Ideas que hay que comprender
+Las 34 horas incluyen explicación, práctica, evaluación y proyecto. Las búsquedas, tabla dinámica y macro se realizan con ayuda; no necesitas programar.
 
-Una referencia relativa se desplaza al copiar una fórmula; una absoluta fija fila y columna; una mixta fija solo una de ellas. La elección no es estética: decide si el modelo es reutilizable. Las funciones `SUMA`, `PROMEDIO`, `SI`, `SI.ERROR`, `CONTAR.SI`, `SUMAR.SI.CONJUNTO`, búsqueda y fecha se introducen al aparecer una necesidad real, no como lista para memorizar.
+## Material y entrega
 
-Un panel no es una colección de colores. Cada indicador responde una pregunta de gerencia, muestra unidad y periodo, permite rastrear el dato de origen y evita escalas engañosas. Antes de entregar se cambian tres datos de prueba y se confirma que todo se recalcula.
+[Datos comunes ficticios](ud03-datos.md) · [Rúbrica y control individual](ud03-evaluacion.md) · [PROY-3](proy-3.md).
 
-## Recursos de apoyo
+El libro final contiene Datos, Presupuesto, Inventario, Panel e Instrucciones; Listas es opcional. Conserva el editable y el PDF del panel. El libro con macro se guarda en un formato compatible con la aplicación.
 
-- [Ayuda oficial de LibreOffice Calc](https://help.libreoffice.org/latest/es/text/scalc/guide/main.html)
-- [Listado de funciones por categoría](https://help.libreoffice.org/latest/es/text/scalc/01/04060100.html)
-- [Vídeo: introducción práctica a Calc, referencias y fórmulas](https://www.youtube.com/watch?v=jQEa2mCoq3Y)
+Las actividades acreditan el aprendizaje individual; la pareja compara sus soluciones y justifica qué integra en PROY-3. Los códigos y tablas preparan el trabajo posterior de UD04.
 
-### Atención: el supuesto PDF de hojas de cálculo
-
-El archivo entregado como **«Tema 4 · Fulls de càlcul»** no corresponde a Calc: contiene *Electricitat a l'ordinador* del módulo de Montaje y mantenimiento de equipos. **No se repartirá ni se usará en esta UD.** La teoría se apoyará en la ayuda oficial anterior, los ejemplos de la empresa y las demostraciones paralelas en Calc y Excel.
-
-[Abrir prácticas, pruebas y rúbrica de UD03](ud3-practicas.md){ .md-button .md-button--primary }
-
-!!! example "Explicación y demostración"
-    Cada concepto se explica sobre una necesidad de gerencia y se reproduce en Calc y Excel: referencias, funciones, validación, filtros, gráficos, tabla dinámica y macro. [Comparar con NexoByte UD03](../ejemplo/ud03.md).
+La rúbrica técnica del libro reparte 30 % fórmulas, 25 % funciones/datos, 20 % análisis, 15 % robustez/automatización y 10 % comunicación. No sustituye las categorías generales de evaluación del módulo.

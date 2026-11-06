@@ -1,26 +1,34 @@
 # UD03 · Hojas de cálculo — Controlamos cuentas e inventario
 
-**Duración propuesta:** 17 sesiones, 34 horas. **RA:** RA3.
+**34 horas · RA3 · Trabajo individual con integración en PROY-3.**
 
-> La web de referencia define el encargo y el producto, pero indica que sus materiales detallados aún están en preparación. Esta secuencia completa el hueco con el mismo modelo profesional.
+Partimos de la empresa y el presupuesto de UD02 para construir un libro que se actualice al cambiar datos. Al terminar tendremos presupuesto, inventario y un panel mensual sencillo.
 
-## Encargo y producto
+## Ruta de teoría
 
-Gerencia necesita controlar presupuesto, ventas, gastos y existencias. Se entrega un libro con hojas `Datos`, `Presupuesto`, `Inventario`, `Panel` e `Instrucciones`, más PDF del informe mensual.
+1. [Datos, celdas y referencias](Teoria/T01_datos_referencias.md).
+2. [Funciones y presupuesto](Teoria/T02_funciones_presupuesto.md).
+3. [Inventario, validación y filtros](Teoria/T03_inventario.md).
+4. [Resumen y gráficos](Teoria/T04_panel.md).
+5. [Revisión, protección y macro breve](Teoria/T05_revision.md).
 
-## Teoría/talleres
+## Actividades y tiempo
 
-Estilos; tipos de datos; referencias relativas, absolutas y mixtas entre celdas, rangos, hojas y libros; operadores; fórmulas y funciones; gráficos y tablas dinámicas; macros; importación/exportación; uso como base de datos mediante formularios, listas, filtros, protección y ordenación; introducción de textos, números, códigos e imágenes con periféricos; impresión y accesibilidad.
+| Actividad | Horas | Producto |
+| --- | ---: | --- |
+| [ACT-3.1 · El presupuesto se calcula solo](Actividades/A1_presupuesto.md) | 8 | Presupuesto con fórmulas y PDF |
+| [ACT-3.2 · ¿Qué hay que reponer?](Actividades/A2_inventario.md) | 10 | Inventario con avisos y validación |
+| [ACT-3.3 · Seis meses en una página](Actividades/A3_panel.md) | 10 | Resumen, gráfico y conclusiones |
+| [ACT-3.4 · Lo probamos antes de entregarlo](Actividades/A4_auditoria.md) | 6 | Auditoría, control e integración |
 
-## Actividades
+Las 34 horas incluyen explicación, práctica, evaluación y proyecto. Las búsquedas, tabla dinámica y macro se realizan con ayuda; no necesitas programar.
 
-- **A1 · Presupuesto del primer proyecto (8 h):** modelo ingresos/gastos, impuestos, escenarios y área de impresión.
-- **A2 · Almacén bajo control (10 h):** importar CSV, validar datos, calcular stock/valor, alertas y filtros.
-- **A3 · ¿Cómo va la empresa? (10 h):** importar datos, indicadores, gráficos/tabla dinámica, panel y exportación.
-- **A4 · Auditoría y automatización (6 h):** crear una macro útil, capturar un código o imagen con periférico, probar entradas, detectar fórmulas frágiles y documentar correcciones.
+## Material y entrega
 
-## Evaluación propuesta
+[Datos comunes ficticios](Recursos/DATOS_COMUNES.md) · [Rúbrica y control individual](Evaluacion/RUBRICA_Y_CONTROL.md) · [PROY-3](../.site-src/unidades/proy-3.md).
 
-Modelo y fórmulas 30%; funciones y calidad de datos 25%; análisis/gráficos 20%; automatización/robustez 15%; comunicación y entrega 10%. Vincular definitivamente a los CA oficiales al validar la programación.
+El libro final contiene Datos, Presupuesto, Inventario, Panel e Instrucciones; Listas es opcional. Conserva el editable y el PDF del panel. El libro con macro se guarda en un formato compatible con la aplicación.
 
-**Hito A/B:** ambos grupos reciben el mismo CSV y superan idéntica batería de pruebas.
+Las actividades acreditan el aprendizaje individual; la pareja compara sus soluciones y justifica qué integra en PROY-3. Los códigos y tablas preparan el trabajo posterior de UD04.
+
+La rúbrica técnica del libro reparte 30 % fórmulas, 25 % funciones/datos, 20 % análisis, 15 % robustez/automatización y 10 % comunicación. No sustituye las categorías generales de evaluación del módulo.

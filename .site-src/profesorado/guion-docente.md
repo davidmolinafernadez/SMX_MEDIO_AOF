@@ -52,7 +52,7 @@ En sesiones de dos horas, el segundo bloque se dedica a producción autónoma, r
 
 **Explicaciones:** tipos de datos, referencias relativa/absoluta/mixta, funciones, validación, filtros, gráficos, tablas dinámicas, impresión, protección y macros.
 
-**Demostración doble:** Calc y Excel con el presupuesto NexoByte. Copiar una fórmula incorrecta, fijar el IVA, utilizar `SI`/`IF`, validar categorías, filtrar y representar ingresos/gastos. Se entrega una tabla de nombres de funciones cuando cambian por idioma o aplicación.
+**Demostración gradual:** utiliza una aplicación principal y señala equivalencias. Sigue los datos comunes de UD03: presupuesto, inventario y panel. Copia primero dos filas, fija el impuesto y añade una función cada vez. La búsqueda, la tabla dinámica y una macro de formato se realizan con ayuda. Las 34 horas incluyen control e integración.
 
 **Prueba de salida:** explicar por qué `$B$2`, `B$2` y `$B2` producen resultados diferentes.
 
