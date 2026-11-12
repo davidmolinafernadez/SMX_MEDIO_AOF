@@ -27,17 +27,19 @@ El alumnado trabaja en parejas estables de dos integrantes. En cada unidad se si
 | UD07 | Relato, patrón, datos, multimedia, accesibilidad y ensayo | Cómo presentar la solución completa a un cliente | `PROY-7`: presentación comercial | Presentación, PDF, recursos, ensayo y respuestas previstas |
 | UD08 | Correo, firma, contactos, filtros, calendario, permisos y seguridad | Cómo entregar, convocar, formar y realizar seguimiento | `PROY-8`: dossier final y sistema de comunicación | Portfolio anual cerrado, calendario, correo, reunión y retrospectiva |
 
-## Archivos permanentes de gestión
+## Registros permanentes de gestión
 
-La carpeta `00_Gestion` acompaña a toda la empresa:
+La ficha de empresa, las decisiones, las versiones, las contribuciones y los pendientes se mantienen **dentro de `EMPRESA_EquipoXX`**. Se actualizan en cada PROY conservando el historial. No se exige una carpeta paralela con registros separados.
 
-| Archivo | Actualización mínima en cada PROY |
+| Registro en la memoria | Actualización mínima en cada PROY |
 |---|---|
-| `FICHA_EMPRESA.pdf` | Versión, producto nuevo, servicio afectado y enlace |
-| `REGISTRO_DECISIONES.md` | Alternativas comparadas, decisión, motivo y responsables |
-| `CONTROL_VERSIONES.md` | Fecha, versión, archivos modificados y prueba realizada |
-| `CONTRIBUCIONES.md` | Trabajo de cada integrante y revisión cruzada |
-| `PENDIENTES.md` | Errores conocidos, deuda técnica y siguiente acción |
+| Ficha de empresa | Versión, producto nuevo y servicio afectado |
+| Decisiones | Alternativas, decisión, motivo y responsables |
+| Versiones | Fecha real, versión, cambios y prueba realizada |
+| Contribuciones | Trabajo concreto de cada integrante y revisión cruzada |
+| Pendientes | Errores conocidos y siguiente acción |
+
+El [documento maestro](PROYECTO_LINEAL_PAREJAS.md) incluye el índice recomendado y ejemplos de incorporación de cada actividad. Los archivos funcionales exigidos por un encargo se referencian desde la memoria y se entregan conforme a ese enunciado.
 
 ## Regla de evaluación
 
