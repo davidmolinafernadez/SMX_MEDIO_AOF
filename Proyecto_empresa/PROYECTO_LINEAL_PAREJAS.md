@@ -164,36 +164,31 @@ Usad aportaciones verificables: «comprobó los requisitos del puesto A» o «re
 
 ### Paso 3. Ampliar el mismo documento en PROY-2
 
-1. Conservad la versión entregada de PROY-1 y trabajad sobre una copia para v2.
-2. Corregid las observaciones recibidas y registrad los cambios.
-3. Mantened los apartados 1–5 y añadid **6. Sistema documental**. Las conclusiones pasan al 7 y los registros al 8.
-4. Incorporad plantilla, carta comercial, presupuesto, manual y guía de estilo según el encargo de UD02. Explicad finalidad, alternativas comparadas, decisión común y comprobación de cada producto.
-5. Actualizad portada, índice, conclusiones, pendientes y registros. Exportad y revisad el PDF completo.
-
-Ejemplo de un nuevo punto:
-
-> **6.1. Plantilla corporativa.** Partimos de la política de formatos del apartado 4. Comparamos [versiones elaboradas] y elegimos [solución] porque [motivo]. Aplicamos los estilos a [documento] y comprobamos [prueba y resultado]. A realizó [aportación] y B revisó [elementos].
-
-Así queda el índice de v2:
+Conservad la versión de PROY-1, trabajad en una copia para v2 y añadid el bloque **Sistema documental · UD02** antes de las conclusiones. Actualizad los registros existentes, la portada y el índice. La numeración es orientativa: no dupliquéis la ficha de empresa ni los registros.
 
 ```text
-Portada e índice
-1. Nuestra empresa
-2. Puestos de trabajo y herramientas
-3. Licencias y selección de software
-4. Formatos y compatibilidad
-5. Incidencias y protocolo de actuación
-6. Sistema documental · PROY-2
-   6.1. Plantilla corporativa
-   6.2. Carta comercial
-   6.3. Presupuesto
-   6.4. Manual
-   6.5. Guía de estilo
-7. Conclusiones y pendientes actualizados
-8. Registro de decisiones, versiones y contribuciones
+Sistema documental · UD02
+  Política documental y normas de formato · R1-R3
+  Plantilla corporativa · ACT-2.1
+  Informes profesionales · ACT-2.2
+  Documentos de gestión · ACT-2.3
+  Guía documental en Markdown · ACT-2.4
+  Manuales para clientes · ACT-2.5
+  Formatos, revisión y protección de datos
+  Catálogo de productos y evidencias
+Conclusiones y próximos usos actualizados
+Registros de decisiones, versiones y contribuciones actualizados
 ```
 
-En PROY-3 se añade el cuadro de control antes de las conclusiones; en los siguientes hitos, el bloque correspondiente. Reutilizad los datos y decisiones de la misma empresa. Cuando el encargo exija un archivo funcional —hoja de cálculo, base de datos, vídeo u otro—, incluid su referencia o enlace accesible desde el apartado correspondiente y seguid la entrega indicada en ese encargo. Una captura no sustituye un producto funcional obligatorio.
+ACT-2.1 y ACT-2.4 son productos de pareja; ACT-2.2, ACT-2.3 y ACT-2.5 conservan su autoría individual. Comparad las soluciones de ambos y explicad qué normas y productos adopta la empresa. Los archivos completos se identifican mediante referencias accesibles o anexos; una captura no sustituye un archivo funcional obligatorio.
+
+Ejemplo de incorporación:
+
+> **Informes profesionales · ACT-2.2.** Comparamos [solución de A] y [solución de B]. Adoptamos [criterio común] porque [motivo]. Lo comprobamos mediante [prueba y resultado]. Los dos informes se identifican en el catálogo, conservando su autoría.
+
+Consultad [los ejemplos de los trece puntos de PROY-2](../UD02/Practicas/PROY_2_SISTEMA_DOCUMENTAL.md).
+
+En PROY-3 se incorpora el cuadro de control y, en cada hito posterior, el bloque correspondiente, reutilizando los datos y decisiones de la misma empresa.
 
 ### Paso 4. Revisar antes de entregar
 

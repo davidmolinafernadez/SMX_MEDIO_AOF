@@ -86,3 +86,5 @@ La pareja actualiza el documento `EMPRESA_EquipoXX` a versión 2. Debe incorpora
 ## Evaluación
 
 RA2 se evalúa con evidencias individuales y de pareja. Las actividades individuales demuestran dominio personal; PROY-2 demuestra que la pareja sabe organizar esas evidencias y convertirlas en proyecto común.
+
+Consulta [el enunciado completo de PROY-2 y los ejemplos de incorporación de cada actividad](Practicas/PROY_2_SISTEMA_DOCUMENTAL.md).

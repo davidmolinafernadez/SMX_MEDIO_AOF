@@ -20,3 +20,7 @@ Usar como apoyo inicial de ACT-2.1 el video [Tutorial LibreOffice Writer - Estil
 ## Sincronización A/B
 
 Los dos grupos deben cerrar al mismo tiempo ACT-2.1 y ACT-2.5. Las actividades intermedias pueden tener una sesión de desfase, pero PROY-2 debe usar el mismo criterio en ambos grupos.
+
+## Presentación de la entrega PROY-2
+
+El [enunciado con ejemplos](Practicas/PROY_2_SISTEMA_DOCUMENTAL.md) explica cómo integrar R1-R3 y ACT-2.1–ACT-2.5 en la memoria de versión 2. ACT-2.1 y ACT-2.4 son de pareja; ACT-2.2, ACT-2.3 y ACT-2.5 conservan su autoría individual. La memoria recoge comparaciones, decisiones y pruebas; los productos se identifican mediante catálogo, enlaces o anexos.

@@ -31,3 +31,7 @@ Se publican tareas con códigos propios de la unidad. Algunas son individuales y
 Actualizar `EMPRESA_EquipoXX` a versión 2. La pareja compara las soluciones individuales, elige una plantilla común, redacta la guía documental, enlaza la web documental, registra versiones y deja preparado el sistema para futuros presupuestos, contratos, informes y manuales.
 
 [Abrir el enunciado completo de PROY-2](proy-2.md){ .md-button .md-button--primary }
+
+### Cómo organizar la entrega
+
+Presentad una memoria con índice que conserve PROY-1 y añada el sistema documental de UD02. De R1-R3 y ACT-2.1–ACT-2.5 se incorporan decisiones, comparaciones y pruebas seleccionadas; los productos completos se identifican en un catálogo con referencias accesibles. [Ver el paso a paso y los ejemplos de cada apartado](proy-2.md#como-presentar-proy-2-pasos-y-ejemplos).
