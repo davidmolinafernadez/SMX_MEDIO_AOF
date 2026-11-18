@@ -25,7 +25,7 @@ Las 34 horas incluyen explicación, práctica, evaluación y proyecto. Las búsq
 
 ## Material y entrega
 
-[Datos comunes ficticios](Recursos/DATOS_COMUNES.md) · [Rúbrica y control individual](Evaluacion/RUBRICA_Y_CONTROL.md) · [PROY-3](../.site-src/unidades/proy-3.md).
+[Datos comunes ficticios](Recursos/DATOS_COMUNES.md) · [Rúbrica y control individual](Evaluacion/RUBRICA_Y_CONTROL.md) · [PROY-3](Practicas/PROY_3_CUADRO_CONTROL.md).
 
 El libro final contiene Datos, Presupuesto, Inventario, Panel e Instrucciones; Listas es opcional. Conserva el editable y el PDF del panel. El libro con macro se guarda en un formato compatible con la aplicación.
 

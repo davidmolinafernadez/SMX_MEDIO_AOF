@@ -45,3 +45,5 @@ Cada apartado se puntúa por su funcionamiento y explicación. Preparar una vari
 ## PROY-3
 
 La pareja conserva empresa y diseño de PROY-2 e integra un libro con Datos, Presupuesto, Inventario, Panel e Instrucciones; Listas es opcional. Añade CSV para UD04 y registros de decisiones, versiones y contribuciones. Usa el criterio de integración de la matriz general del proyecto; la defensa confirma el dominio individual.
+
+El [enunciado de PROY-3](proy-3.md) concreta la entrega y su puntuación: el resultado de esta rúbrica técnica sobre 10 se multiplica por 0,4 para el bloque técnico de 4 puntos del hito. Los otros 6 puntos corresponden a continuidad, integración, documentación, registros y defensa según la matriz general, sin duplicar penalizaciones por el mismo fallo.

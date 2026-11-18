@@ -190,6 +190,8 @@ Consultad [los ejemplos de los trece puntos de PROY-2](../UD02/Practicas/PROY_2_
 
 En PROY-3 se incorpora el cuadro de control y, en cada hito posterior, el bloque correspondiente, reutilizando los datos y decisiones de la misma empresa.
 
+El [enunciado desarrollado de PROY-3](../UD03/Practicas/PROY_3_CUADRO_CONTROL.md) explica la comparación de libros, las cinco hojas, las pruebas comunes, el bloque de memoria v3 y la entrega de datos para UD04.
+
 ### Paso 4. Revisar antes de entregar
 
 - [ ] Memoria común en editable y PDF con el nombre `EMPRESA_EquipoXX`.

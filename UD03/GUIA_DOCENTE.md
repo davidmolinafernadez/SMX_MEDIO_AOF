@@ -44,3 +44,5 @@ La simplificación no elimina contenidos del resumen curricular: fechas/texto, r
 Distingue actividad individual, control y producto por pareja. La rúbrica del libro conserva el reparto 30/25/20/15/10; no sustituye el reparto general del módulo. Revisa también los avances reales de A/B antes de poner fechas.
 
 PROY-3 reutiliza identidad y presupuesto de UD02 y prepara códigos estables y tablas exportables para UD04. No se incorpora de golpe una gestión completa de clientes o incidencias.
+
+Consulta el [enunciado desarrollado de PROY-3](Practicas/PROY_3_CUADRO_CONTROL.md). La integración queda dentro del cierre de ACT-3.4 y no añade horas. La tabla de comparación y la memoria v3 documentan las decisiones; las nueve pruebas se repiten sobre el libro común. Para puntuar el hito se usa el reparto de la matriz de continuidad: la rúbrica técnica, sobre 10, se multiplica por 0,4 para su bloque de 4 puntos. El resto valora continuidad, integración, documentación, registros y defensa, sin volver a penalizar el mismo fallo técnico.
