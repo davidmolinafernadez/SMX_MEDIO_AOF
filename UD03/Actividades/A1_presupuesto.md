@@ -10,6 +10,12 @@ La empresa necesita actualizar el presupuesto de UD02 sin repetir las cuentas ca
 
 Consulta los datos comunes y la teoría correspondiente. No necesitas inventar una empresa nueva ni pagar ninguna herramienta. Se admite Calc o Excel en el entorno acordado por el profesor.
 
+## Ejemplo visual
+
+![Presupuesto ficticio de dos servicios con cantidad, precio, importe, IVA y total.](../../.site-src/assets/images/ud03/ejemplo_ACT_3_1_presupuesto.png)
+
+Fíjate en cómo se distinguen las entradas de los importes calculados y cómo se agrupan los totales. Para tu entrega, usa los cuatro servicios de los datos comunes y el diseño de tu empresa.
+
 ## Trabajo paso a paso
 
 1. Crea un libro con Presupuesto e Instrucciones. Conserva nombre y colores de la empresa de UD02.

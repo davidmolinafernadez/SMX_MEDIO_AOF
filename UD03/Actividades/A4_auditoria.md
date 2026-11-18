@@ -10,6 +10,12 @@ Una persona distinta debe poder utilizar tu libro. Primero revisas tu trabajo in
 
 Consulta los datos comunes y la teoría correspondiente. No necesitas inventar una empresa nueva ni pagar ninguna herramienta. Se admite Calc o Excel en el entorno acordado por el profesor.
 
+## Ejemplo visual
+
+![Registro de pruebas con resultado esperado, observado y corrección, junto a una cabecera antes y después de ejecutar la macro.](../../.site-src/assets/images/ud03/ejemplo_ACT_3_4_auditoria.png)
+
+Fíjate en cómo se registra el fallo y qué ocurrió al repetir la prueba tras corregirlo. En la copia de prueba, la macro cambia el aspecto de la cabecera. Usa tus propias pruebas y separa la evidencia individual de la entrega de PROY-3.
+
 ## Trabajo paso a paso
 
 1. Guarda una copia y ejecuta las pruebas comunes de la rúbrica.

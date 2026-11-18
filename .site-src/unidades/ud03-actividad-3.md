@@ -10,6 +10,12 @@ Gerencia necesita comprender los datos, no recibir doce filas sin explicación. 
 
 Consulta los datos comunes y la teoría correspondiente. No necesitas inventar una empresa nueva ni pagar ninguna herramienta. Se admite Calc o Excel en el entorno acordado por el profesor.
 
+## Ejemplo visual
+
+![Panel ficticio de tres meses con indicadores, gráfico de columnas, resumen mensual y conclusiones.](../assets/images/ud03/ejemplo_ACT_3_3_panel.png)
+
+Fíjate en cómo el gráfico compara ingresos y gastos del mismo mes y en cómo las conclusiones citan cifras. El ejemplo muestra tres meses. Tu panel y su PDF deben recoger los seis meses de los datos comunes.
+
 ## Trabajo paso a paso
 
 1. Introduce los doce registros mensuales de los datos comunes.

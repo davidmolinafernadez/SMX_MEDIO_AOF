@@ -10,6 +10,12 @@ La empresa quiere localizar productos escasos sin contar y calcular todo a mano.
 
 Consulta los datos comunes y la teoría correspondiente. No necesitas inventar una empresa nueva ni pagar ninguna herramienta. Se admite Calc o Excel en el entorno acordado por el profesor.
 
+## Ejemplo visual
+
+![Inventario ficticio con tres productos, alertas de reposición y una búsqueda de precio por código.](../../.site-src/assets/images/ud03/ejemplo_ACT_3_2_inventario.png)
+
+Fíjate en que «REPONER» aparece también cuando el stock coincide con el mínimo. Si filtras por ese aviso, verás solo los productos que necesitan reposición. En tu libro, trabaja con los seis productos de los datos comunes.
+
 ## Trabajo paso a paso
 
 1. Copia la tabla de seis productos desde los datos comunes, con encabezados en A1:H1.
