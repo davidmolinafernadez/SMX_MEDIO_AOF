@@ -8,6 +8,12 @@
 
 Vais a integrar las soluciones individuales de ACT-3.1–ACT-3.4 en un único libro de empresa. Conservad la identidad y las decisiones de PROY-2. Cada integrante mantiene sus entregas individuales; el proyecto recoge la solución acordada y las pruebas del archivo común.
 
+### Ejemplo visual del proyecto
+
+![Organización de PROY-3: comparar los libros A y B, acordar un libro común con Presupuesto, Inventario, Datos, Panel e Instrucciones, y entregar editable, PDF del panel, CSV, copia con macro y memoria v3.](../../.site-src/assets/images/ud03/ejemplo_PROY_3_cuadro_control.png)
+
+Fijaos en el recorrido: comparar, decidir, integrar y comprobar. El gráfico es esquemático y no representa los resultados de los datos comunes. Vuestra entrega debe utilizar los seis meses completos y la identidad de vuestra empresa; la memoria v3 se entrega en editable y PDF. Consultad el apartado 8 para los nombres y formatos exactos y la condición de la copia con macro.
+
 ## 2. Punto de partida y tiempo
 
 Tened abiertos:
