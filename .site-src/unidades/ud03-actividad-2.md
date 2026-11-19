@@ -10,6 +10,10 @@ La empresa quiere localizar productos escasos sin contar y calcular todo a mano.
 
 Consulta los datos comunes y la teoría correspondiente. No necesitas inventar una empresa nueva ni pagar ninguna herramienta. Se admite Calc o Excel en el entorno acordado por el profesor.
 
+### Cómo aprender el procedimiento
+
+[Inventario explicado con dos productos de entrenamiento](ud03-teoria-inventario.md): cálculo, límites, validación, filtro, búsqueda y CSV. La entrega utiliza los seis productos de los datos comunes.
+
 ## Ejemplo visual
 
 ![Inventario ficticio con tres productos, alertas de reposición y una búsqueda de precio por código.](../assets/images/ud03/ejemplo_ACT_3_2_inventario.png)

@@ -74,6 +74,57 @@ Si aparece ####, amplía la columna antes de pensar que el cálculo está mal. S
 
 **Comprueba:** ¿qué celda editas para cambiar el impuesto de todo el presupuesto? ¿Por qué no debes escribir 0,21 en cada fórmula?
 
+## Taller de entrenamiento · De una cuenta escrita a una regla
+
+**Objetivo:** distinguir lo que introduce la persona de lo que calcula el libro. Dedica unos 20 minutos, dentro de ACT-3.1. Crea una hoja `Entrenamiento`; estos datos breves son distintos de la entrega y permiten equivocarse sin alterar Presupuesto.
+
+### 1. Construye dos filas que puedas comprobar a mano
+
+Introduce esta tabla desde A1. Deja D vacía al principio:
+
+| Servicio | Cantidad | Precio | Importe |
+| --- | ---: | ---: | --- |
+| Revisión de un puesto | 2 | 18 | [Se calcula] |
+| Preparación de una guía | 3 | 12 | [Se calcula] |
+
+1. Haz clic en D2, escribe `=B2*C2` y pulsa Enter. Verás 36.
+2. Selecciona D2 de nuevo. En la barra aparece la fórmula; en la celda, su resultado. Si escribieras 36 directamente, perderías la regla.
+3. Lleva el puntero al pequeño cuadrado de la esquina inferior derecha de D2 y arrástralo hasta D3. No arrastres el borde de la celda: eso puede moverla.
+4. Selecciona D3: su fórmula debe ser `=B3*C3` y su resultado 36. Las dos filas coinciden en importe, pero usan entradas distintas.
+5. Cambia B2 de 2 a 4: solo D2 debe pasar a 72. Restaura B2 a 2.
+
+Las columnas B y C son entradas; D contiene resultados. Un relleno suave puede identificar las entradas, pero añade una leyenda escrita: «Editar cantidades y precios; los importes se calculan».
+
+### 2. Comprueba qué significa un porcentaje
+
+Escribe IVA en F1 y `21%` en F2. En E1 escribe Impuesto de línea y en E2 `=D2*$F$2`. El resultado de entrenamiento es 7,56. Copia a E3 y revisa que ambas fórmulas usan F2.
+
+Si usas `=D2*F2`, al copiar hacia abajo la segunda fórmula buscará F3. Puede devolver cero si esa celda está vacía. La copia habrá sido correcta para una referencia relativa, pero equivocada para nuestra necesidad: queremos un único tipo compartido.
+
+Prueba F2 con `10%`: cada línea tendrá 3,60 de impuesto. Restaura `21%`. Escribir 21 y aplicar después formato porcentaje mostraría 2100 %; introduce el signo % al escribir o utiliza el valor decimal 0,21.
+
+### 3. Referencia mixta: fijar solo lo necesario
+
+En una zona separada de la misma hoja escribe B12 = 10, C12 = 20 y A13 = 3. En B13 introduce `=B$12*$A13` y copia a C13.
+
+| Celda | Fórmula después de copiar | Resultado |
+| --- | --- | ---: |
+| B13 | `=B$12*$A13` | 30 |
+| C13 | `=C$12*$A13` | 60 |
+
+El precio cambia de columna; la fila 12 queda fija. La cantidad sigue en la columna A. Ahora escribe A14 = 4 y copia B13:C13 hacia B14:C14: obtendrás 40 y 80. Los signos $ no significan moneda dentro de la fórmula: indican qué parte de la referencia no se desplaza.
+
+### Si no sale
+
+| Lo que observas | Qué revisar y hacer |
+| --- | --- |
+| Se ve `=B2*C2` en lugar del resultado | Comprueba que la celda no sea Texto; cambia a un formato numérico y vuelve a confirmar la fórmula. Revisa también si está activada la vista de fórmulas |
+| No cambia D2 al cambiar B2 | Mira si contiene una fórmula o un número escrito; comprueba el cálculo automático |
+| Aparece un error de nombre | Revisa caracteres: multiplicar es `*`, no la letra x |
+| Los números se ven pegados al borde o cortados | Amplía la columna y aplica un formato numérico; no insertes espacios dentro del número |
+
+**Ahora tú:** cambia solo el precio de la segunda fila a 15. Antes de hacerlo, escribe en una nota qué celdas deben cambiar. Comprueba y restaura. Después aplica lo aprendido a los cuatro servicios de ACT-3.1. El entrenamiento no sustituye su entrega.
+
 ## Consulta
 
 [Guía oficial de iniciación a Calc](https://books.libreoffice.org/es/GS73/GS7305-IniciacionCalc.html) y [referencias en la ayuda oficial](https://help.libreoffice.org/latest/es/text/scalc/guide/relativ_absolut_ref.html).

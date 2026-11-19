@@ -91,6 +91,8 @@ No copiéis resultados del ejemplo ni marquéis una prueba como superada si no l
 
 Reutilizad la macro mínima de formato de ACT-3.4 y probad su alcance en `PruebaMacro`. No necesitáis programar ni automatizar el libro completo. En Calc guardad la copia en ODS; en Excel de escritorio, en XLSM. Anotad aplicación, nombre de macro, pasos de ejecución y si actúa sobre la selección o posiciones fijas.
 
+Seguid el [taller guiado de ACT-3.4](ud03-actividad-4.md), que explica cómo grabar, guardar dentro del documento, ejecutar y comprobar tras reabrir. Cread la copia con macro a partir del libro común final y repetid allí la grabación breve: copiar una hoja individual no garantiza transferir su macro. Las evidencias individuales se conservan; esta prueba confirma el funcionamiento del archivo de pareja.
+
 Si el aula no dispone de grabadora, registrad la limitación y la demostración acordada con el profesor. La ejecución individual queda pendiente cuando no se ha observado. La copia sin macros debe permitir comprobar todas las operaciones principales.
 
 ## 6. Ampliad la memoria de empresa a v3

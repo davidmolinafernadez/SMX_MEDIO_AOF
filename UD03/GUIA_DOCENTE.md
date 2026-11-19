@@ -8,6 +8,22 @@ Usa Calc como referencia de los ejemplos escritos, con equivalencias de Excel. E
 
 Alterna explicación breve, reproducción guiada y modificación individual. Proyecta el zoom necesario y verbaliza la celda activa. Si el grupo se bloquea, vuelve a dos filas, sin añadir funciones nuevas.
 
+## Cómo utilizar los nuevos talleres de teoría
+
+Las cinco lecciones incorporan ejemplos de entrenamiento con datos ficticios distintos de la entrega. Sirven para modelar el procedimiento; no son las soluciones de las actividades ni nuevas tareas evaluables. Se realizan dentro de los tramos existentes y después se aplica el mismo procedimiento a los datos comunes.
+
+| Lección | Demostración y repetición | Evidencia breve antes de continuar |
+| --- | --- | --- |
+| [T01](Teoria/T01_datos_referencias.md) | Dos servicios, fórmula copiada, porcentaje y tabla pequeña de referencias mixtas; unos 20 min | Anticipa qué cambia al editar un precio y explica qué fija cada $ |
+| [T02](Teoria/T02_funciones_presupuesto.md) | Subtotal, impuesto, total, redondeo, vínculo entre hojas y PDF; unos 25 min, con demostración externa breve | Una modificación comprobada y un PDF abierto |
+| [T03](Teoria/T03_inventario.md) | Dos productos, tres casos del límite, validación, filtro, búsqueda y CSV; unos 30 min de inicio, retomando las operaciones durante ACT-3.2 | Rechazo de entrada, aviso explicado y CSV reabierto |
+| [T04](Teoria/T04_panel.md) | Cuatro registros, indicadores, tabla dinámica, gráfico y actualización; unos 30 min de inicio, completados durante ACT-3.3 | Cambio de dato, actualización y conclusión con cifras |
+| [T05](Teoria/T05_revision.md) | Reparación simulada, unos 15 min; protección y taller de macro de ACT-3.4, unos 30–40 min para macro | Fórmula reparada y prueba de macro tras reabrir el archivo, o limitación registrada |
+
+Son referencias flexibles para demostración inicial, no tiempos para completar de cero toda la actividad. Si el ritmo requiere más repetición, utiliza el tiempo de práctica de la misma actividad; conserva el total de 34 h y los hitos comunes. No conviertas la ampliación en otra entrega.
+
+En la macro, selecciona el rango antes de grabar y verifica dónde se guarda: documento abierto en Calc o Este libro en Excel. Comprueba primero el rango original y después otra selección; no prometas que la grabación actuará sobre cualquier rango. Ensaya también el efecto de ejecutar dos veces un botón que conmuta negrita. La prueba de la pareja se realiza en la copia del libro común final: copiar una hoja no garantiza transferir la macro.
+
 ## Ruta y tiempo
 
 | Tramo | Horas | Teoría | Actividad |

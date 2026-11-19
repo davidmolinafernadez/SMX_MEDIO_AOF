@@ -10,6 +10,10 @@ La empresa necesita actualizar el presupuesto de UD02 sin repetir las cuentas ca
 
 Consulta los datos comunes y la teoría correspondiente. No necesitas inventar una empresa nueva ni pagar ninguna herramienta. Se admite Calc o Excel en el entorno acordado por el profesor.
 
+### Cómo aprender el procedimiento
+
+[Datos, fórmulas y referencias](ud03-teoria-0.md) y [presupuesto, pruebas e impresión](ud03-teoria-1.md). Primero practica en Entrenamiento; después aplica el procedimiento a los cuatro servicios de esta actividad.
+
 ## Ejemplo visual
 
 ![Presupuesto ficticio de dos servicios con cantidad, precio, importe, IVA y total.](../assets/images/ud03/ejemplo_ACT_3_1_presupuesto.png)
