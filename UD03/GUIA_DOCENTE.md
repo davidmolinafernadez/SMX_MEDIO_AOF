@@ -47,7 +47,19 @@ Total: 34 h. Son horas de programación, no 17 sesiones obligatorias; convertir 
 
 Comprueba la aplicación, idioma y separador de fórmulas. Prueba grabadora, permisos y formato de macro antes de A4. Si no existe grabadora en los puestos, prepara demostración en un equipo compatible y registra qué evidencia individual queda pendiente.
 
-Abre los vídeos desde el centro: se han localizado las referencias, pero no se ha verificado su reproducción completa ni la disponibilidad de subtítulos. No dependas de ellos para explicar: las demostraciones están escritas. Los dos vídeos iniciales están en español; los recursos visuales adicionales de The Document Foundation son principalmente en inglés y opcionales.
+La teoría conserva los dos vídeos incrustados iniciales y todos los enlaces audiovisuales anteriores. Incorpora siete recursos nuevos en español y convierte el enlace de IVA en reproductor: diez vídeos incrustados en total, con enlace directo y una tarea de observación/repetición. Se mantienen también los catálogos de The Document Foundation como ampliación.
+
+| Lección | Recursos audiovisuales disponibles |
+| --- | --- |
+| T01 | Fórmulas y autorrelleno; referencias; iniciación de EducaMadrid |
+| T02 | Función SI de EducaMadrid; impresión/PDF; IVA en inglés |
+| T03 | Filtrado del inventario |
+| T04 | Tabla dinámica; tipos y ajuste de gráficos |
+| T05 | Grabación de una macro básica |
+
+Alterna ver, pausar, repetir y explicar. Selecciona fragmentos según las dificultades y ofrece el resto como repaso; no añadas horas ni exijas ver los diez vídeos completos. Los recursos de VideoTutoriales Education se pueden trabajar con nuestros datos: no se exige comprar ni descargar sus archivos de prácticas. Conserva los vídeos incrustados al ampliar la teoría; si un recurso deja de funcionar, registra la incidencia antes de retirarlo y busca una alternativa.
+
+Se han localizado las fuentes y sus metadatos/descripciones; no se ha verificado la reproducción completa, la disponibilidad de subtítulos ni la reproducción incrustada desde la red del centro. Compruébalas antes de clase. Si el reproductor está bloqueado, prueba el enlace directo o continúa la demostración escrita. Algunos vídeos muestran interfaces antiguas: adapta los nombres de menús al entorno del aula.
 
 ## Profundidad prevista
 

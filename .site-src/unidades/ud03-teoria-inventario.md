@@ -123,6 +123,17 @@ En M5 escribe Fecha de revisión y en N5 una fecha real con su formato de fecha.
 
 ## Apoyo visual
 
+### Filtrar el inventario · En español
+
+**Autoría:** VideoTutoriales Education, lección 23/34 de su curso de Calc.
+
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/klAYTybwerU" title="Filtrar datos en LibreOffice Calc · VideoTutoriales Education" loading="lazy" allowfullscreen></iframe>
+
+[Ver en YouTube](https://www.youtube.com/watch?v=klAYTybwerU).
+
+**Mira y practica:** céntrate primero en el filtro automático. Selecciona la tabla completa, muestra solo REPONER y vuelve a mostrar todos los registros. Explica por qué filtrar no es borrar. Los filtros estándar y avanzados del recurso son consulta opcional; no amplían los requisitos de ACT-3.2. Utiliza nuestros datos de entrenamiento, sin descargar archivos adicionales.
+
+
 En el [catálogo audiovisual de The Document Foundation](https://blog.documentfoundation.org/media-hub/index-of-videos/libreoffice-calc-videos/) hay demostraciones de filtros y CSV, principalmente en inglés. Úsalas como consulta opcional; la práctica se explica completa aquí.
 
 **Comprueba:** un producto por debajo del mínimo, otro justo en el mínimo y otro por encima. Explica los tres avisos antes de copiar la fórmula.

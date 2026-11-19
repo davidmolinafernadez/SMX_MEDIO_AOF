@@ -94,6 +94,33 @@ Consulta las opciones en la [ayuda oficial de zonas de impresión](https://help.
 
 ## Apoyo audiovisual y demostración
 
+Puedes ver estos vídeos dentro de la página y detenerlos para repetir el procedimiento. Los ejemplos escritos siguen disponibles al lado; no es necesario ver todos los recursos seguidos.
+
+### Decidir con SI · En español
+
+**Autoría:** Andres V., Mediateca de EducaMadrid. Apoyo para relacionar una condición con sus dos respuestas posibles.
+
+<iframe width="100%" height="420" src="https://mediateca.educa.madrid.org/video/dtdnuxk4tg62aq2r/fs" title="Función SI en LibreOffice Calc · Mediateca de EducaMadrid" loading="lazy" allowfullscreen></iframe>
+
+[Abrir el vídeo y su transcripción en EducaMadrid](https://mediateca.educa.madrid.org/video/dtdnuxk4tg62aq2r).
+
+**Mira y practica:** localiza la condición, la respuesta verdadera y la falsa. Después escribe el SI de revisión del total de Entrenamiento y prueba un total inferior y otro superior a 100. Reutiliza esa lógica en el aviso de inventario de ACT-3.2.
+
+### Preparar la impresión y el PDF · En español
+
+**Autoría:** VideoTutoriales Education, lección 34/34 de su curso de Calc.
+
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/pSIykbO6TSA" title="Preparar Calc para imprimir o exportar a PDF · VideoTutoriales Education" loading="lazy" allowfullscreen></iframe>
+
+[Ver en YouTube](https://www.youtube.com/watch?v=pSIykbO6TSA).
+
+**Mira y practica:** identifica el intervalo de impresión y comprueba la vista previa. Aplica el procedimiento a Presupuesto y abre el PDF: tabla y totales deben verse completos en una página. No necesitas descargar materiales de pago del canal: utiliza las tablas del taller.
+
+### Cálculo de IVA · Apoyo visual en inglés conservado
+
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/2whakew0ZHU" title="Cálculo de IVA en Calc · Recurso del catálogo de The Document Foundation, en inglés" loading="lazy" allowfullscreen></iframe>
+
+
 [Vídeo de cálculo de IVA recogido por The Document Foundation](https://www.youtube.com/watch?v=2whakew0ZHU) — en inglés; úsalo como apoyo visual opcional. Antes de reproducirlo, identifica las celdas de base, tipo e impuesto. La explicación principal de clase será en español.
 
 Demostración de 10 minutos: sumar cuatro servicios, redondear el impuesto, modificar una cantidad y exportar. Después el alumnado repite los pasos con los datos de ACT-3.1.

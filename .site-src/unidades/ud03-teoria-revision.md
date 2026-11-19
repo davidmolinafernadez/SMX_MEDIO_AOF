@@ -57,6 +57,17 @@ En Excel de escritorio se configura en **Formato de celdas → Proteger → Bloq
 
 ## Macro mínima, sin programar
 
+### Apoyo audiovisual · Grabar una macro básica en Calc
+
+**Autoría:** Adrian Mauricio Hurtado Cuellar. Recurso en español, publicado en 2014; la interfaz puede ser distinta de la instalada en el aula. Úsalo para reconocer la secuencia general y sigue el taller de ACT-3.4 para nuestra tarea concreta.
+
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/lfVniWX5DY4" title="Cómo grabar una macro básica en LibreOffice Calc · Adrian Mauricio Hurtado Cuellar" loading="lazy" allowfullscreen></iframe>
+
+[Ver en YouTube](https://www.youtube.com/watch?v=lfVniWX5DY4).
+
+**Mira y practica:** identifica cuándo empieza y termina la grabación y dónde se guarda la macro. Después graba únicamente el formato de la cabecera PruebaMacro que pide ACT-3.4, guárdalo dentro de tu documento y repite la prueba tras cerrar y reabrir. No copies código ni acciones que cambien datos de gestión.
+
+
 Una macro guarda una secuencia de acciones para repetirla. Una fórmula calcula un resultado a partir de datos; nuestra macro aplicará un formato cuando la ejecutemos. No se ejecuta sola al cambiar una cantidad y no tiene que recalcular el presupuesto.
 
 **Caso de uso:** una empresa quiere dar el mismo aspecto a las cabeceras de varias tablas. Primero aprende a repetir negrita y fondo sobre tres celdas de prueba. El objetivo de esta unidad es grabar, guardar, ejecutar y explicar esa secuencia, sin escribir Basic ni VBA.

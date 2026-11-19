@@ -61,6 +61,17 @@ Las mixtas se practicarán con ayuda: no hacen falta para todas las fórmulas. F
 
 Después del segundo vídeo explica con tus palabras qué debe permanecer fijo al copiar una fórmula.
 
+### Otro apoyo en español · Primeras fórmulas
+
+**Autoría:** Nicolas V., Mediateca de EducaMadrid. Recurso de repaso para quien necesita volver a la introducción de datos y a una fórmula sencilla.
+
+<iframe width="100%" height="420" src="https://mediateca.educa.madrid.org/video/va97wjopafn42nv3/fs" title="Tutorial de iniciación a LibreOffice Calc · Mediateca de EducaMadrid" loading="lazy" allowfullscreen></iframe>
+
+[Abrir el vídeo y su transcripción en EducaMadrid](https://mediateca.educa.madrid.org/video/va97wjopafn42nv3).
+
+**Mira y practica:** identifica una entrada y un resultado. Pausa y reproduce `=B2*C2` en Entrenamiento; cambia una cantidad y comprueba qué se actualiza. Este apoyo se añade a los dos vídeos anteriores, que se conservan.
+
+
 ## Demostración y práctica guiada
 
 1. Crea dos servicios y calcula sus importes.

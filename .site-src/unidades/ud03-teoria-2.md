@@ -111,6 +111,27 @@ Una conclusión describe lo observado y su alcance: «En este ejemplo, febrero i
 
 ## Apoyo audiovisual y lectura
 
+### Crear una tabla dinámica · En español
+
+**Autoría:** VideoTutoriales Education, lección 31/34 de su curso de Calc.
+
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/spmZpkk0fHs" title="Crear tablas dinámicas en LibreOffice Calc · VideoTutoriales Education" loading="lazy" allowfullscreen></iframe>
+
+[Ver en YouTube](https://www.youtube.com/watch?v=spmZpkk0fHs).
+
+**Mira y practica:** reconoce las zonas de filas, columnas y datos. Pausa y coloca Mes, Tipo e Importe en tu ejemplo de cuatro registros. Comprueba que se suma dinero y no se cuentan registros. Después aplica la misma estructura a ACT-3.3 con sus seis meses.
+
+### Elegir y ajustar un gráfico · En español
+
+**Autoría:** VideoTutoriales Education, lección 30/34 de su curso de Calc.
+
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/ilIyLaFlY8g" title="Tipos de gráfico y personalización en LibreOffice Calc · VideoTutoriales Education" loading="lazy" allowfullscreen></iframe>
+
+[Ver en YouTube](https://www.youtube.com/watch?v=ilIyLaFlY8g).
+
+**Mira y practica:** utiliza las opciones que te ayuden a obtener columnas 2D, título, leyenda y unidades legibles. No necesitas reproducir todos los tipos de gráfico. Comprueba que el total general no aparece como otro mes y que el gráfico cambia después de actualizar el resumen. Los datos del taller bastan para practicar; no se exige comprar los archivos del canal.
+
+
 [Catálogo audiovisual de Calc de The Document Foundation](https://blog.documentfoundation.org/media-hub/index-of-videos/libreoffice-calc-videos/): consulta las demostraciones de gráficos como apoyo visual, principalmente en inglés. El profesor reproducirá en clase la creación del gráfico con los mismos doce registros.
 
 [Guía oficial de gráficos](https://books.libreoffice.org/es/CG262/CG26206-DiagramasyGraficos.html). Consulta las capturas del asistente, sin estudiar todas sus opciones.
