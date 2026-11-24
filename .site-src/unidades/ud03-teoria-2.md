@@ -121,7 +121,33 @@ Una conclusión describe lo observado y su alcance: «En este ejemplo, febrero i
 
 **Mira y practica:** reconoce las zonas de filas, columnas y datos. Pausa y coloca Mes, Tipo e Importe en tu ejemplo de cuatro registros. Comprueba que se suma dinero y no se cuentan registros. Después aplica la misma estructura a ACT-3.3 con sus seis meses.
 
-### Elegir y ajustar un gráfico · En español
+### Crear tu primer gráfico desde una tabla de datos · En español
+
+**Empieza aquí:** antes de personalizar gráficos, aprende a crear uno a partir de una tabla pequeña, sin tabla dinámica.
+
+**Autoría:** VideoTutoriales Education, lección 29/34 de su curso de Calc: «Gráficos (I): Tipo, intervalo de datos, título, leyenda y ejes».
+
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/M1ZvxIcEa1o" title="Crear un gráfico desde una tabla de datos en LibreOffice Calc · VideoTutoriales Education" loading="lazy" allowfullscreen></iframe>
+
+[Ver en YouTube](https://www.youtube.com/watch?v=M1ZvxIcEa1o).
+
+**Mira y practica:** pausa el vídeo y crea una hoja llamada `GraficoPrueba`. Introduce esta tabla desde A1; son los mismos importes del taller, ya resumidos para centrarnos en el gráfico:
+
+| Mes | Ingresos | Gastos |
+| --- | ---: | ---: |
+| Enero | 200 | 80 |
+| Febrero | 300 | 120 |
+
+1. Selecciona **A1:C3**, incluidos los encabezados.
+2. Abre **Insertar → Gráfico** y elige **Columnas → Normal**, en 2D.
+3. Comprueba el intervalo A1:C3, las series en columnas, la primera fila como etiqueta y la primera columna como categoría.
+4. Escribe el título «Ingresos y gastos · enero–febrero», el eje horizontal «Mes» y el vertical «Importe (€)». Mantén la leyenda Ingresos/Gastos y pulsa **Finalizar**.
+5. Comprueba que Enero y Febrero aparecen en el eje horizontal, con dos columnas por mes. Si aparecen los meses en la leyenda, revisa la orientación de las series.
+6. Cambia B2 de 200 a 250: la columna de ingresos de enero debe cambiar al editar la tabla. Restaura después el 200.
+
+**Comprueba antes de continuar:** puedes crear el gráfico desde la tabla, identificar qué celdas representa y observar un cambio de dato. Después aplica esos pasos al resumen del Panel, excluyendo los totales generales. El vídeo siguiente queda como ampliación para elegir otros tipos y ajustar su aspecto. Puedes practicar con esta tabla sin comprar los archivos del canal; algunas opciones del vídeo pueden cambiar de ubicación en versiones actuales.
+
+### Ampliación: elegir y ajustar un gráfico · En español
 
 **Autoría:** VideoTutoriales Education, lección 30/34 de su curso de Calc.
 
