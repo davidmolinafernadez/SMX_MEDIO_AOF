@@ -68,6 +68,21 @@ En Excel de escritorio se configura en **Formato de celdas → Proteger → Bloq
 **Mira y practica:** identifica cuándo empieza y termina la grabación y dónde se guarda la macro. Después graba únicamente el formato de la cabecera PruebaMacro que pide ACT-3.4, guárdalo dentro de tu documento y repite la prueba tras cerrar y reabrir. No copies código ni acciones que cambien datos de gestión.
 
 
+### Otro vídeo · Explicación hablada de las macros y ejemplo de formato
+
+**CyL Digital · Aprende a diseñar tus macros sencillas en Excel (enero de 2023).** Webinar en español para escuchar la explicación y ver la demostración. Utiliza Excel de escritorio: el concepto de grabar y repetir acciones también sirve para Calc, pero sus menús y sus macros son distintos.
+
+<iframe width="100%" height="420" src="https://www.youtube-nocookie.com/embed/HdiaTJnL32U?start=103" title="Explicación de las macros y grabación en Excel · CyL Digital" loading="lazy" allowfullscreen></iframe>
+
+[Ver en YouTube desde la explicación inicial](https://www.youtube.com/watch?v=HdiaTJnL32U&t=103s) · [Ficha y contenidos de CyL Digital](https://www.cyldigital.es/autoformacion/aprende-disenar-tus-macros-sencillas-en-excel).
+
+**Fragmentos recomendados:**
+
+- **1:43–8:37:** qué es una macro y un primer ejemplo sencillo.
+- **25:29–28:22:** grabar una macro de formato, relacionado con nuestra cabecera. [Ir directamente al ejemplo](https://www.youtube.com/watch?v=HdiaTJnL32U&t=1529s).
+
+**Escucha y practica:** explica con tus palabras qué acciones guarda una macro y qué ocurre al ejecutarla. Después sigue el taller de ACT-3.4 en tu aplicación para dar formato a `PruebaMacro`, guardar dentro del documento y comprobar el resultado tras reabrir. No necesitas ver el webinar completo ni realizar sus ejemplos de limpieza de datos o programación. Estos fragmentos sustituyen parte de la explicación del taller, sin añadir tiempo ni entregas.
+
 Una macro guarda una secuencia de acciones para repetirla. Una fórmula calcula un resultado a partir de datos; nuestra macro aplicará un formato cuando la ejecutemos. No se ejecuta sola al cambiar una cantidad y no tiene que recalcular el presupuesto.
 
 **Caso de uso:** una empresa quiere dar el mismo aspecto a las cabeceras de varias tablas. Primero aprende a repetir negrita y fondo sobre tres celdas de prueba. El objetivo de esta unidad es grabar, guardar, ejecutar y explicar esa secuencia, sin escribir Basic ni VBA.
